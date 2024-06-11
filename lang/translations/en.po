@@ -1,0 +1,6322 @@
+# Copyright (c) 2003-2024, CKSource Holding sp. z o.o. All rights reserved.
+#
+#                                     !!! IMPORTANT !!!
+#
+#         Before you edit this file, please keep in mind that contributing to the project
+#                translations is possible ONLY via the Transifex online service.
+#
+#         To submit your translations, visit https://www.transifex.com/ckeditor/ckeditor5.
+#
+#                   To learn more, check out the official contributor's guide:
+#     https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/contributing.html
+#
+msgid ""
+msgstr ""
+"Language: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "Name of the emojis plugins, visible in a dropdown and as a button tooltip."
+msgid "Emojis"
+msgstr "Emojis"
+
+msgctxt "Label applied on aria-label attribute for accessibility."
+msgid "Emoji categories"
+msgstr "Emoji categories"
+
+msgctxt "A category name is displayed in an emoji dropdown representing all available symbols."
+msgid "All"
+msgstr "All"
+
+msgctxt "A category name is displayed in an emoji dropdown representing activities."
+msgid "Activities"
+msgstr "Activities"
+
+msgctxt "A category name is displayed in an emoji dropdown representing flag symbols."
+msgid "Flags"
+msgstr "Flags"
+
+msgctxt "A category name is displayed in an emoji dropdown representing food symbols."
+msgid "Food"
+msgstr "Food & Drink"
+
+msgctxt "A category name is displayed in an emoji dropdown representing nature symbols."
+msgid "Nature"
+msgstr "Animals & Nature"
+
+msgctxt "A category name is displayed in an emoji dropdown representing objects."
+msgid "Objects"
+msgstr "Objects"
+
+msgctxt "A category name is displayed in an emoji dropdown representing places."
+msgid "Places"
+msgstr "Travel & Places"
+
+msgctxt "A category name is displayed in an emoji dropdown representing symbols."
+msgid "Symbols"
+msgstr "Symbols"
+
+msgctxt "A category name is displayed in an emoji dropdown representing people symbols."
+msgid "People"
+msgstr "Smileys & People"
+
+msgctxt "A label for the \"Person in Suit Levitating\" symbol."
+msgid "Person in Suit Levitating"
+msgstr "Person in Suit Levitating"
+
+msgctxt "A label for the \"Person Climbing\" symbol."
+msgid "Person Climbing"
+msgstr "Person Climbing"
+
+msgctxt "A label for the \"Man Climbing\" symbol."
+msgid "Man Climbing"
+msgstr "Man Climbing"
+
+msgctxt "A label for the \"Woman Climbing\" symbol."
+msgid "Woman Climbing"
+msgstr "Woman Climbing"
+
+msgctxt "A label for the \"Person Fencing\" symbol."
+msgid "Person Fencing"
+msgstr "Person Fencing"
+
+msgctxt "A label for the \"Horse Racing\" symbol."
+msgid "Horse Racing"
+msgstr "Horse Racing"
+
+msgctxt "A label for the \"Skier\" symbol."
+msgid "Skier"
+msgstr "Skier"
+
+msgctxt "A label for the \"Snowboarder\" symbol."
+msgid "Snowboarder"
+msgstr "Snowboarder"
+
+msgctxt "A label for the \"Person Golfing\" symbol."
+msgid "Person Golfing"
+msgstr "Person Golfing"
+
+msgctxt "A label for the \"Man Golfing\" symbol."
+msgid "Man Golfing"
+msgstr "Man Golfing"
+
+msgctxt "A label for the \"Woman Golfing\" symbol."
+msgid "Woman Golfing"
+msgstr "Woman Golfing"
+
+msgctxt "A label for the \"Person Surfing\" symbol."
+msgid "Person Surfing"
+msgstr "Person Surfing"
+
+msgctxt "A label for the \"Man Surfing\" symbol."
+msgid "Man Surfing"
+msgstr "Man Surfing"
+
+msgctxt "A label for the \"Woman Surfing\" symbol."
+msgid "Woman Surfing"
+msgstr "Woman Surfing"
+
+msgctxt "A label for the \"Person Rowing Boat\" symbol."
+msgid "Person Rowing Boat"
+msgstr "Person Rowing Boat"
+
+msgctxt "A label for the \"Man Rowing Boat\" symbol."
+msgid "Man Rowing Boat"
+msgstr "Man Rowing Boat"
+
+msgctxt "A label for the \"Woman Rowing Boat\" symbol."
+msgid "Woman Rowing Boat"
+msgstr "Woman Rowing Boat"
+
+msgctxt "A label for the \"Person Swimming\" symbol."
+msgid "Person Swimming"
+msgstr "Person Swimming"
+
+msgctxt "A label for the \"Man Swimming\" symbol."
+msgid "Man Swimming"
+msgstr "Man Swimming"
+
+msgctxt "A label for the \"Woman Swimming\" symbol."
+msgid "Woman Swimming"
+msgstr "Woman Swimming"
+
+msgctxt "A label for the \"Person Bouncing Ball\" symbol."
+msgid "Person Bouncing Ball"
+msgstr "Person Bouncing Ball"
+
+msgctxt "A label for the \"Man Bouncing Ball\" symbol."
+msgid "Man Bouncing Ball"
+msgstr "Man Bouncing Ball"
+
+msgctxt "A label for the \"Woman Bouncing Ball\" symbol."
+msgid "Woman Bouncing Ball"
+msgstr "Woman Bouncing Ball"
+
+msgctxt "A label for the \"Person Lifting Weights\" symbol."
+msgid "Person Lifting Weights"
+msgstr "Person Lifting Weights"
+
+msgctxt "A label for the \"Man Lifting Weights\" symbol."
+msgid "Man Lifting Weights"
+msgstr "Man Lifting Weights"
+
+msgctxt "A label for the \"Woman Lifting Weights\" symbol."
+msgid "Woman Lifting Weights"
+msgstr "Woman Lifting Weights"
+
+msgctxt "A label for the \"Person Biking\" symbol."
+msgid "Person Biking"
+msgstr "Person Biking"
+
+msgctxt "A label for the \"Man Biking\" symbol."
+msgid "Man Biking"
+msgstr "Man Biking"
+
+msgctxt "A label for the \"Woman Biking\" symbol."
+msgid "Woman Biking"
+msgstr "Woman Biking"
+
+msgctxt "A label for the \"Person Mountain Biking\" symbol."
+msgid "Person Mountain Biking"
+msgstr "Person Mountain Biking"
+
+msgctxt "A label for the \"Man Mountain Biking\" symbol."
+msgid "Man Mountain Biking"
+msgstr "Man Mountain Biking"
+
+msgctxt "A label for the \"Woman Mountain Biking\" symbol."
+msgid "Woman Mountain Biking"
+msgstr "Woman Mountain Biking"
+
+msgctxt "A label for the \"Person Cartwheeling\" symbol."
+msgid "Person Cartwheeling"
+msgstr "Person Cartwheeling"
+
+msgctxt "A label for the \"Man Cartwheeling\" symbol."
+msgid "Man Cartwheeling"
+msgstr "Man Cartwheeling"
+
+msgctxt "A label for the \"Woman Cartwheeling\" symbol."
+msgid "Woman Cartwheeling"
+msgstr "Woman Cartwheeling"
+
+msgctxt "A label for the \"People Wrestling\" symbol."
+msgid "People Wrestling"
+msgstr "People Wrestling"
+
+msgctxt "A label for the \"Men Wrestling\" symbol."
+msgid "Men Wrestling"
+msgstr "Men Wrestling"
+
+msgctxt "A label for the \"Women Wrestling\" symbol."
+msgid "Women Wrestling"
+msgstr "Women Wrestling"
+
+msgctxt "A label for the \"Person Playing Water Polo\" symbol."
+msgid "Person Playing Water Polo"
+msgstr "Person Playing Water Polo"
+
+msgctxt "A label for the \"Man Playing Water Polo\" symbol."
+msgid "Man Playing Water Polo"
+msgstr "Man Playing Water Polo"
+
+msgctxt "A label for the \"Woman Playing Water Polo\" symbol."
+msgid "Woman Playing Water Polo"
+msgstr "Woman Playing Water Polo"
+
+msgctxt "A label for the \"Person Playing Handball\" symbol."
+msgid "Person Playing Handball"
+msgstr "Person Playing Handball"
+
+msgctxt "A label for the \"Man Playing Handball\" symbol."
+msgid "Man Playing Handball"
+msgstr "Man Playing Handball"
+
+msgctxt "A label for the \"Woman Playing Handball\" symbol."
+msgid "Woman Playing Handball"
+msgstr "Woman Playing Handball"
+
+msgctxt "A label for the \"Person Juggling\" symbol."
+msgid "Person Juggling"
+msgstr "Person Juggling"
+
+msgctxt "A label for the \"Man Juggling\" symbol."
+msgid "Man Juggling"
+msgstr "Man Juggling"
+
+msgctxt "A label for the \"Woman Juggling\" symbol."
+msgid "Woman Juggling"
+msgstr "Woman Juggling"
+
+msgctxt "A label for the \"Person in Lotus Position\" symbol."
+msgid "Person in Lotus Position"
+msgstr "Person in Lotus Position"
+
+msgctxt "A label for the \"Man in Lotus Position\" symbol."
+msgid "Man in Lotus Position"
+msgstr "Man in Lotus Position"
+
+msgctxt "A label for the \"Woman in Lotus Position\" symbol."
+msgid "Woman in Lotus Position"
+msgstr "Woman in Lotus Position"
+
+msgctxt "A label for the \"Circus Tent\" symbol."
+msgid "Circus Tent"
+msgstr "Circus Tent"
+
+msgctxt "A label for the \"Skateboard\" symbol."
+msgid "Skateboard"
+msgstr "Skateboard"
+
+msgctxt "A label for the \"Roller Skate\" symbol."
+msgid "Roller Skate"
+msgstr "Roller Skate"
+
+msgctxt "A label for the \"Canoe\" symbol."
+msgid "Canoe"
+msgstr "Canoe"
+
+msgctxt "A label for the \"Reminder Ribbon\" symbol."
+msgid "Reminder Ribbon"
+msgstr "Reminder Ribbon"
+
+msgctxt "A label for the \"Admission Tickets\" symbol."
+msgid "Admission Tickets"
+msgstr "Admission Tickets"
+
+msgctxt "A label for the \"Ticket\" symbol."
+msgid "Ticket"
+msgstr "Ticket"
+
+msgctxt "A label for the \"Military Medal\" symbol."
+msgid "Military Medal"
+msgstr "Military Medal"
+
+msgctxt "A label for the \"Trophy\" symbol."
+msgid "Trophy"
+msgstr "Trophy"
+
+msgctxt "A label for the \"Sports Medal\" symbol."
+msgid "Sports Medal"
+msgstr "Sports Medal"
+
+msgctxt "A label for the \"1st Place Medal\" symbol."
+msgid "1st Place Medal"
+msgstr "1st Place Medal"
+
+msgctxt "A label for the \"2nd Place Medal\" symbol."
+msgid "2nd Place Medal"
+msgstr "2nd Place Medal"
+
+msgctxt "A label for the \"3rd Place Medal\" symbol."
+msgid "3rd Place Medal"
+msgstr "3rd Place Medal"
+
+msgctxt "A label for the \"Soccer Ball\" symbol."
+msgid "Soccer Ball"
+msgstr "Soccer Ball"
+
+msgctxt "A label for the \"Baseball\" symbol."
+msgid "Baseball"
+msgstr "Baseball"
+
+msgctxt "A label for the \"Softball\" symbol."
+msgid "Softball"
+msgstr "Softball"
+
+msgctxt "A label for the \"Basketball\" symbol."
+msgid "Basketball"
+msgstr "Basketball"
+
+msgctxt "A label for the \"Volleyball\" symbol."
+msgid "Volleyball"
+msgstr "Volleyball"
+
+msgctxt "A label for the \"American Football\" symbol."
+msgid "American Football"
+msgstr "American Football"
+
+msgctxt "A label for the \"Rugby Football\" symbol."
+msgid "Rugby Football"
+msgstr "Rugby Football"
+
+msgctxt "A label for the \"Tennis\" symbol."
+msgid "Tennis"
+msgstr "Tennis"
+
+msgctxt "A label for the \"Flying Disc\" symbol."
+msgid "Flying Disc"
+msgstr "Flying Disc"
+
+msgctxt "A label for the \"Bowling\" symbol."
+msgid "Bowling"
+msgstr "Bowling"
+
+msgctxt "A label for the \"Cricket Game\" symbol."
+msgid "Cricket Game"
+msgstr "Cricket Game"
+
+msgctxt "A label for the \"Field Hockey\" symbol."
+msgid "Field Hockey"
+msgstr "Field Hockey"
+
+msgctxt "A label for the \"Ice Hockey\" symbol."
+msgid "Ice Hockey"
+msgstr "Ice Hockey"
+
+msgctxt "A label for the \"Lacrosse\" symbol."
+msgid "Lacrosse"
+msgstr "Lacrosse"
+
+msgctxt "A label for the \"Ping Pong\" symbol."
+msgid "Ping Pong"
+msgstr "Ping Pong"
+
+msgctxt "A label for the \"Badminton\" symbol."
+msgid "Badminton"
+msgstr "Badminton"
+
+msgctxt "A label for the \"Boxing Glove\" symbol."
+msgid "Boxing Glove"
+msgstr "Boxing Glove"
+
+msgctxt "A label for the \"Martial Arts Uniform\" symbol."
+msgid "Martial Arts Uniform"
+msgstr "Martial Arts Uniform"
+
+msgctxt "A label for the \"Goal Net\" symbol."
+msgid "Goal Net"
+msgstr "Goal Net"
+
+msgctxt "A label for the \"Flag in Hole\" symbol."
+msgid "Flag in Hole"
+msgstr "Flag in Hole"
+
+msgctxt "A label for the \"Ice Skate\" symbol."
+msgid "Ice Skate"
+msgstr "Ice Skate"
+
+msgctxt "A label for the \"Fishing Pole\" symbol."
+msgid "Fishing Pole"
+msgstr "Fishing Pole"
+
+msgctxt "A label for the \"Running Shirt\" symbol."
+msgid "Running Shirt"
+msgstr "Running Shirt"
+
+msgctxt "A label for the \"Skis\" symbol."
+msgid "Skis"
+msgstr "Skis"
+
+msgctxt "A label for the \"Sled\" symbol."
+msgid "Sled"
+msgstr "Sled"
+
+msgctxt "A label for the \"Curling Stone\" symbol."
+msgid "Curling Stone"
+msgstr "Curling Stone"
+
+msgctxt "A label for the \"Direct Hit\" symbol."
+msgid "Direct Hit"
+msgstr "Direct Hit"
+
+msgctxt "A label for the \"Pool 8 Ball\" symbol."
+msgid "Pool 8 Ball"
+msgstr "Pool 8 Ball"
+
+msgctxt "A label for the \"Video Game\" symbol."
+msgid "Video Game"
+msgstr "Video Game"
+
+msgctxt "A label for the \"Slot Machine\" symbol."
+msgid "Slot Machine"
+msgstr "Slot Machine"
+
+msgctxt "A label for the \"Game Die\" symbol."
+msgid "Game Die"
+msgstr "Game Die"
+
+msgctxt "A label for the \"Puzzle Piece\" symbol."
+msgid "Puzzle Piece"
+msgstr "Puzzle Piece"
+
+msgctxt "A label for the \"Chess Pawn\" symbol."
+msgid "Chess Pawn"
+msgstr "Chess Pawn"
+
+msgctxt "A label for the \"Performing Arts\" symbol."
+msgid "Performing Arts"
+msgstr "Performing Arts"
+
+msgctxt "A label for the \"Artist Palette\" symbol."
+msgid "Artist Palette"
+msgstr "Artist Palette"
+
+msgctxt "A label for the \"Thread\" symbol."
+msgid "Thread"
+msgstr "Thread"
+
+msgctxt "A label for the \"Yarn\" symbol."
+msgid "Yarn"
+msgstr "Yarn"
+
+msgctxt "A label for the \"Musical Score\" symbol."
+msgid "Musical Score"
+msgstr "Musical Score"
+
+msgctxt "A label for the \"Microphone\" symbol."
+msgid "Microphone"
+msgstr "Microphone"
+
+msgctxt "A label for the \"Headphone\" symbol."
+msgid "Headphone"
+msgstr "Headphone"
+
+msgctxt "A label for the \"Saxophone\" symbol."
+msgid "Saxophone"
+msgstr "Saxophone"
+
+msgctxt "A label for the \"Accordion\" symbol."
+msgid "Accordion"
+msgstr "Accordion"
+
+msgctxt "A label for the \"Guitar\" symbol."
+msgid "Guitar"
+msgstr "Guitar"
+
+msgctxt "A label for the \"Musical Keyboard\" symbol."
+msgid "Musical Keyboard"
+msgstr "Musical Keyboard"
+
+msgctxt "A label for the \"Trumpet\" symbol."
+msgid "Trumpet"
+msgstr "Trumpet"
+
+msgctxt "A label for the \"Violin\" symbol."
+msgid "Violin"
+msgstr "Violin"
+
+msgctxt "A label for the \"Drum\" symbol."
+msgid "Drum"
+msgstr "Drum"
+
+msgctxt "A label for the \"Long Drum\" symbol."
+msgid "Long Drum"
+msgstr "Long Drum"
+
+msgctxt "A label for the \"Clapper Board\" symbol."
+msgid "Clapper Board"
+msgstr "Clapper Board"
+
+msgctxt "A label for the \"Bow and Arrow\" symbol."
+msgid "Bow and Arrow"
+msgstr "Bow and Arrow"
+
+msgctxt "A label for the \"Chequered Flag\" symbol."
+msgid "Chequered Flag"
+msgstr "Chequered Flag"
+
+msgctxt "A label for the \"Triangular Flag\" symbol."
+msgid "Triangular Flag"
+msgstr "Triangular Flag"
+
+msgctxt "A label for the \"Crossed Flags\" symbol."
+msgid "Crossed Flags"
+msgstr "Crossed Flags"
+
+msgctxt "A label for the \"Black Flag\" symbol."
+msgid "Black Flag"
+msgstr "Black Flag"
+
+msgctxt "A label for the \"White Flag\" symbol."
+msgid "White Flag"
+msgstr "White Flag"
+
+msgctxt "A label for the \"Rainbow Flag\" symbol."
+msgid "Rainbow Flag"
+msgstr "Rainbow Flag"
+
+msgctxt "A label for the \"Transgender Flag\" symbol."
+msgid "Transgender Flag"
+msgstr "Transgender Flag"
+
+msgctxt "A label for the \"Pirate Flag\" symbol."
+msgid "Pirate Flag"
+msgstr "Pirate Flag"
+
+msgctxt "A label for the \"Flag: Ascension Island\" symbol."
+msgid "Flag: Ascension Island"
+msgstr "Flag: Ascension Island"
+
+msgctxt "A label for the \"Flag: Andorra\" symbol."
+msgid "Flag: Andorra"
+msgstr "Flag: Andorra"
+
+msgctxt "A label for the \"Flag: United Arab Emirates\" symbol."
+msgid "Flag: United Arab Emirates"
+msgstr "Flag: United Arab Emirates"
+
+msgctxt "A label for the \"Flag: Afghanistan\" symbol."
+msgid "Flag: Afghanistan"
+msgstr "Flag: Afghanistan"
+
+msgctxt "A label for the \"Flag: Antigua & Barbuda\" symbol."
+msgid "Flag: Antigua & Barbuda"
+msgstr "Flag: Antigua & Barbuda"
+
+msgctxt "A label for the \"Flag: Anguilla\" symbol."
+msgid "Flag: Anguilla"
+msgstr "Flag: Anguilla"
+
+msgctxt "A label for the \"Flag: Albania\" symbol."
+msgid "Flag: Albania"
+msgstr "Flag: Albania"
+
+msgctxt "A label for the \"Flag: Armenia\" symbol."
+msgid "Flag: Armenia"
+msgstr "Flag: Armenia"
+
+msgctxt "A label for the \"Flag: Angola\" symbol."
+msgid "Flag: Angola"
+msgstr "Flag: Angola"
+
+msgctxt "A label for the \"Flag: Antarctica\" symbol."
+msgid "Flag: Antarctica"
+msgstr "Flag: Antarctica"
+
+msgctxt "A label for the \"Flag: Argentina\" symbol."
+msgid "Flag: Argentina"
+msgstr "Flag: Argentina"
+
+msgctxt "A label for the \"Flag: American Samoa\" symbol."
+msgid "Flag: American Samoa"
+msgstr "Flag: American Samoa"
+
+msgctxt "A label for the \"Flag: Austria\" symbol."
+msgid "Flag: Austria"
+msgstr "Flag: Austria"
+
+msgctxt "A label for the \"Flag: Australia\" symbol."
+msgid "Flag: Australia"
+msgstr "Flag: Australia"
+
+msgctxt "A label for the \"Flag: Aruba\" symbol."
+msgid "Flag: Aruba"
+msgstr "Flag: Aruba"
+
+msgctxt "A label for the \"Flag: Åland Islands\" symbol."
+msgid "Flag: Åland Islands"
+msgstr "Flag: Åland Islands"
+
+msgctxt "A label for the \"Flag: Azerbaijan\" symbol."
+msgid "Flag: Azerbaijan"
+msgstr "Flag: Azerbaijan"
+
+msgctxt "A label for the \"Flag: Bosnia & Herzegovina\" symbol."
+msgid "Flag: Bosnia & Herzegovina"
+msgstr "Flag: Bosnia & Herzegovina"
+
+msgctxt "A label for the \"Flag: Barbados\" symbol."
+msgid "Flag: Barbados"
+msgstr "Flag: Barbados"
+
+msgctxt "A label for the \"Flag: Bangladesh\" symbol."
+msgid "Flag: Bangladesh"
+msgstr "Flag: Bangladesh"
+
+msgctxt "A label for the \"Flag: Belgium\" symbol."
+msgid "Flag: Belgium"
+msgstr "Flag: Belgium"
+
+msgctxt "A label for the \"Flag: Burkina Faso\" symbol."
+msgid "Flag: Burkina Faso"
+msgstr "Flag: Burkina Faso"
+
+msgctxt "A label for the \"Flag: Bulgaria\" symbol."
+msgid "Flag: Bulgaria"
+msgstr "Flag: Bulgaria"
+
+msgctxt "A label for the \"Flag: Bahrain\" symbol."
+msgid "Flag: Bahrain"
+msgstr "Flag: Bahrain"
+
+msgctxt "A label for the \"Flag: Burundi\" symbol."
+msgid "Flag: Burundi"
+msgstr "Flag: Burundi"
+
+msgctxt "A label for the \"Flag: Benin\" symbol."
+msgid "Flag: Benin"
+msgstr "Flag: Benin"
+
+msgctxt "A label for the \"Flag: St. Barthélemy\" symbol."
+msgid "Flag: St. Barthélemy"
+msgstr "Flag: St. Barthélemy"
+
+msgctxt "A label for the \"Flag: Bermuda\" symbol."
+msgid "Flag: Bermuda"
+msgstr "Flag: Bermuda"
+
+msgctxt "A label for the \"Flag: Brunei\" symbol."
+msgid "Flag: Brunei"
+msgstr "Flag: Brunei"
+
+msgctxt "A label for the \"Flag: Bolivia\" symbol."
+msgid "Flag: Bolivia"
+msgstr "Flag: Bolivia"
+
+msgctxt "A label for the \"Flag: Caribbean Netherlands\" symbol."
+msgid "Flag: Caribbean Netherlands"
+msgstr "Flag: Caribbean Netherlands"
+
+msgctxt "A label for the \"Flag: Brazil\" symbol."
+msgid "Flag: Brazil"
+msgstr "Flag: Brazil"
+
+msgctxt "A label for the \"Flag: Bahamas\" symbol."
+msgid "Flag: Bahamas"
+msgstr "Flag: Bahamas"
+
+msgctxt "A label for the \"Flag: Bhutan\" symbol."
+msgid "Flag: Bhutan"
+msgstr "Flag: Bhutan"
+
+msgctxt "A label for the \"Flag: Bouvet Island\" symbol."
+msgid "Flag: Bouvet Island"
+msgstr "Flag: Bouvet Island"
+
+msgctxt "A label for the \"Flag: Botswana\" symbol."
+msgid "Flag: Botswana"
+msgstr "Flag: Botswana"
+
+msgctxt "A label for the \"Flag: Belarus\" symbol."
+msgid "Flag: Belarus"
+msgstr "Flag: Belarus"
+
+msgctxt "A label for the \"Flag: Belize\" symbol."
+msgid "Flag: Belize"
+msgstr "Flag: Belize"
+
+msgctxt "A label for the \"Flag: Canada\" symbol."
+msgid "Flag: Canada"
+msgstr "Flag: Canada"
+
+msgctxt "A label for the \"Flag: Cocos (Keeling) Islands\" symbol."
+msgid "Flag: Cocos (Keeling) Islands"
+msgstr "Flag: Cocos (Keeling) Islands"
+
+msgctxt "A label for the \"Flag: Congo - Kinshasa\" symbol."
+msgid "Flag: Congo - Kinshasa"
+msgstr "Flag: Congo - Kinshasa"
+
+msgctxt "A label for the \"Flag: Central African Republic\" symbol."
+msgid "Flag: Central African Republic"
+msgstr "Flag: Central African Republic"
+
+msgctxt "A label for the \"Flag: Congo - Brazzaville\" symbol."
+msgid "Flag: Congo - Brazzaville"
+msgstr "Flag: Congo - Brazzaville"
+
+msgctxt "A label for the \"Flag: Switzerland\" symbol."
+msgid "Flag: Switzerland"
+msgstr "Flag: Switzerland"
+
+msgctxt "A label for the \"Flag: Côte d’Ivoire\" symbol."
+msgid "Flag: Côte d’Ivoire"
+msgstr "Flag: Côte d’Ivoire"
+
+msgctxt "A label for the \"Flag: Cook Islands\" symbol."
+msgid "Flag: Cook Islands"
+msgstr "Flag: Cook Islands"
+
+msgctxt "A label for the \"Flag: Chile\" symbol."
+msgid "Flag: Chile"
+msgstr "Flag: Chile"
+
+msgctxt "A label for the \"Flag: Cameroon\" symbol."
+msgid "Flag: Cameroon"
+msgstr "Flag: Cameroon"
+
+msgctxt "A label for the \"Flag: China\" symbol."
+msgid "Flag: China"
+msgstr "Flag: China"
+
+msgctxt "A label for the \"Flag: Colombia\" symbol."
+msgid "Flag: Colombia"
+msgstr "Flag: Colombia"
+
+msgctxt "A label for the \"Flag: Clipperton Island\" symbol."
+msgid "Flag: Clipperton Island"
+msgstr "Flag: Clipperton Island"
+
+msgctxt "A label for the \"Flag: Costa Rica\" symbol."
+msgid "Flag: Costa Rica"
+msgstr "Flag: Costa Rica"
+
+msgctxt "A label for the \"Flag: Cuba\" symbol."
+msgid "Flag: Cuba"
+msgstr "Flag: Cuba"
+
+msgctxt "A label for the \"Flag: Cape Verde\" symbol."
+msgid "Flag: Cape Verde"
+msgstr "Flag: Cape Verde"
+
+msgctxt "A label for the \"Flag: Curaçao\" symbol."
+msgid "Flag: Curaçao"
+msgstr "Flag: Curaçao"
+
+msgctxt "A label for the \"Flag: Christmas Island\" symbol."
+msgid "Flag: Christmas Island"
+msgstr "Flag: Christmas Island"
+
+msgctxt "A label for the \"Flag: Cyprus\" symbol."
+msgid "Flag: Cyprus"
+msgstr "Flag: Cyprus"
+
+msgctxt "A label for the \"Flag: Czechia\" symbol."
+msgid "Flag: Czechia"
+msgstr "Flag: Czechia"
+
+msgctxt "A label for the \"Flag: Germany\" symbol."
+msgid "Flag: Germany"
+msgstr "Flag: Germany"
+
+msgctxt "A label for the \"Flag: Diego Garcia\" symbol."
+msgid "Flag: Diego Garcia"
+msgstr "Flag: Diego Garcia"
+
+msgctxt "A label for the \"Flag: Djibouti\" symbol."
+msgid "Flag: Djibouti"
+msgstr "Flag: Djibouti"
+
+msgctxt "A label for the \"Flag: Denmark\" symbol."
+msgid "Flag: Denmark"
+msgstr "Flag: Denmark"
+
+msgctxt "A label for the \"Flag: Dominica\" symbol."
+msgid "Flag: Dominica"
+msgstr "Flag: Dominica"
+
+msgctxt "A label for the \"Flag: Dominican Republic\" symbol."
+msgid "Flag: Dominican Republic"
+msgstr "Flag: Dominican Republic"
+
+msgctxt "A label for the \"Flag: Algeria\" symbol."
+msgid "Flag: Algeria"
+msgstr "Flag: Algeria"
+
+msgctxt "A label for the \"Flag: Ceuta & Melilla\" symbol."
+msgid "Flag: Ceuta & Melilla"
+msgstr "Flag: Ceuta & Melilla"
+
+msgctxt "A label for the \"Flag: Ecuador\" symbol."
+msgid "Flag: Ecuador"
+msgstr "Flag: Ecuador"
+
+msgctxt "A label for the \"Flag: Estonia\" symbol."
+msgid "Flag: Estonia"
+msgstr "Flag: Estonia"
+
+msgctxt "A label for the \"Flag: Egypt\" symbol."
+msgid "Flag: Egypt"
+msgstr "Flag: Egypt"
+
+msgctxt "A label for the \"Flag: Western Sahara\" symbol."
+msgid "Flag: Western Sahara"
+msgstr "Flag: Western Sahara"
+
+msgctxt "A label for the \"Flag: Eritrea\" symbol."
+msgid "Flag: Eritrea"
+msgstr "Flag: Eritrea"
+
+msgctxt "A label for the \"Flag: Spain\" symbol."
+msgid "Flag: Spain"
+msgstr "Flag: Spain"
+
+msgctxt "A label for the \"Flag: Ethiopia\" symbol."
+msgid "Flag: Ethiopia"
+msgstr "Flag: Ethiopia"
+
+msgctxt "A label for the \"Flag: European Union\" symbol."
+msgid "Flag: European Union"
+msgstr "Flag: European Union"
+
+msgctxt "A label for the \"Flag: Finland\" symbol."
+msgid "Flag: Finland"
+msgstr "Flag: Finland"
+
+msgctxt "A label for the \"Flag: Fiji\" symbol."
+msgid "Flag: Fiji"
+msgstr "Flag: Fiji"
+
+msgctxt "A label for the \"Flag: Falkland Islands\" symbol."
+msgid "Flag: Falkland Islands"
+msgstr "Flag: Falkland Islands"
+
+msgctxt "A label for the \"Flag: Micronesia\" symbol."
+msgid "Flag: Micronesia"
+msgstr "Flag: Micronesia"
+
+msgctxt "A label for the \"Flag: Faroe Islands\" symbol."
+msgid "Flag: Faroe Islands"
+msgstr "Flag: Faroe Islands"
+
+msgctxt "A label for the \"Flag: France\" symbol."
+msgid "Flag: France"
+msgstr "Flag: France"
+
+msgctxt "A label for the \"Flag: Gabon\" symbol."
+msgid "Flag: Gabon"
+msgstr "Flag: Gabon"
+
+msgctxt "A label for the \"Flag: United Kingdom\" symbol."
+msgid "Flag: United Kingdom"
+msgstr "Flag: United Kingdom"
+
+msgctxt "A label for the \"Flag: Grenada\" symbol."
+msgid "Flag: Grenada"
+msgstr "Flag: Grenada"
+
+msgctxt "A label for the \"Flag: Georgia\" symbol."
+msgid "Flag: Georgia"
+msgstr "Flag: Georgia"
+
+msgctxt "A label for the \"Flag: French Guiana\" symbol."
+msgid "Flag: French Guiana"
+msgstr "Flag: French Guiana"
+
+msgctxt "A label for the \"Flag: Guernsey\" symbol."
+msgid "Flag: Guernsey"
+msgstr "Flag: Guernsey"
+
+msgctxt "A label for the \"Flag: Ghana\" symbol."
+msgid "Flag: Ghana"
+msgstr "Flag: Ghana"
+
+msgctxt "A label for the \"Flag: Gibraltar\" symbol."
+msgid "Flag: Gibraltar"
+msgstr "Flag: Gibraltar"
+
+msgctxt "A label for the \"Flag: Greenland\" symbol."
+msgid "Flag: Greenland"
+msgstr "Flag: Greenland"
+
+msgctxt "A label for the \"Flag: Gambia\" symbol."
+msgid "Flag: Gambia"
+msgstr "Flag: Gambia"
+
+msgctxt "A label for the \"Flag: Guinea\" symbol."
+msgid "Flag: Guinea"
+msgstr "Flag: Guinea"
+
+msgctxt "A label for the \"Flag: Guadeloupe\" symbol."
+msgid "Flag: Guadeloupe"
+msgstr "Flag: Guadeloupe"
+
+msgctxt "A label for the \"Flag: Equatorial Guinea\" symbol."
+msgid "Flag: Equatorial Guinea"
+msgstr "Flag: Equatorial Guinea"
+
+msgctxt "A label for the \"Flag: Greece\" symbol."
+msgid "Flag: Greece"
+msgstr "Flag: Greece"
+
+msgctxt "A label for the \"Flag: South Georgia & South Sandwich Islands\" symbol."
+msgid "Flag: South Georgia & South Sandwich Islands"
+msgstr "Flag: South Georgia & South Sandwich Islands"
+
+msgctxt "A label for the \"Flag: Guatemala\" symbol."
+msgid "Flag: Guatemala"
+msgstr "Flag: Guatemala"
+
+msgctxt "A label for the \"Flag: Guam\" symbol."
+msgid "Flag: Guam"
+msgstr "Flag: Guam"
+
+msgctxt "A label for the \"Flag: Guinea-Bissau\" symbol."
+msgid "Flag: Guinea-Bissau"
+msgstr "Flag: Guinea-Bissau"
+
+msgctxt "A label for the \"Flag: Guyana\" symbol."
+msgid "Flag: Guyana"
+msgstr "Flag: Guyana"
+
+msgctxt "A label for the \"Flag: Hong Kong SAR China\" symbol."
+msgid "Flag: Hong Kong SAR China"
+msgstr "Flag: Hong Kong SAR China"
+
+msgctxt "A label for the \"Flag: Heard & McDonald Islands\" symbol."
+msgid "Flag: Heard & McDonald Islands"
+msgstr "Flag: Heard & McDonald Islands"
+
+msgctxt "A label for the \"Flag: Honduras\" symbol."
+msgid "Flag: Honduras"
+msgstr "Flag: Honduras"
+
+msgctxt "A label for the \"Flag: Croatia\" symbol."
+msgid "Flag: Croatia"
+msgstr "Flag: Croatia"
+
+msgctxt "A label for the \"Flag: Haiti\" symbol."
+msgid "Flag: Haiti"
+msgstr "Flag: Haiti"
+
+msgctxt "A label for the \"Flag: Hungary\" symbol."
+msgid "Flag: Hungary"
+msgstr "Flag: Hungary"
+
+msgctxt "A label for the \"Flag: Canary Islands\" symbol."
+msgid "Flag: Canary Islands"
+msgstr "Flag: Canary Islands"
+
+msgctxt "A label for the \"Flag: Indonesia\" symbol."
+msgid "Flag: Indonesia"
+msgstr "Flag: Indonesia"
+
+msgctxt "A label for the \"Flag: Ireland\" symbol."
+msgid "Flag: Ireland"
+msgstr "Flag: Ireland"
+
+msgctxt "A label for the \"Flag: Israel\" symbol."
+msgid "Flag: Israel"
+msgstr "Flag: Israel"
+
+msgctxt "A label for the \"Flag: Isle of Man\" symbol."
+msgid "Flag: Isle of Man"
+msgstr "Flag: Isle of Man"
+
+msgctxt "A label for the \"Flag: India\" symbol."
+msgid "Flag: India"
+msgstr "Flag: India"
+
+msgctxt "A label for the \"Flag: British Indian Ocean Territory\" symbol."
+msgid "Flag: British Indian Ocean Territory"
+msgstr "Flag: British Indian Ocean Territory"
+
+msgctxt "A label for the \"Flag: Iraq\" symbol."
+msgid "Flag: Iraq"
+msgstr "Flag: Iraq"
+
+msgctxt "A label for the \"Flag: Iran\" symbol."
+msgid "Flag: Iran"
+msgstr "Flag: Iran"
+
+msgctxt "A label for the \"Flag: Iceland\" symbol."
+msgid "Flag: Iceland"
+msgstr "Flag: Iceland"
+
+msgctxt "A label for the \"Flag: Italy\" symbol."
+msgid "Flag: Italy"
+msgstr "Flag: Italy"
+
+msgctxt "A label for the \"Flag: Jersey\" symbol."
+msgid "Flag: Jersey"
+msgstr "Flag: Jersey"
+
+msgctxt "A label for the \"Flag: Jamaica\" symbol."
+msgid "Flag: Jamaica"
+msgstr "Flag: Jamaica"
+
+msgctxt "A label for the \"Flag: Jordan\" symbol."
+msgid "Flag: Jordan"
+msgstr "Flag: Jordan"
+
+msgctxt "A label for the \"Flag: Japan\" symbol."
+msgid "Flag: Japan"
+msgstr "Flag: Japan"
+
+msgctxt "A label for the \"Flag: Kenya\" symbol."
+msgid "Flag: Kenya"
+msgstr "Flag: Kenya"
+
+msgctxt "A label for the \"Flag: Kyrgyzstan\" symbol."
+msgid "Flag: Kyrgyzstan"
+msgstr "Flag: Kyrgyzstan"
+
+msgctxt "A label for the \"Flag: Cambodia\" symbol."
+msgid "Flag: Cambodia"
+msgstr "Flag: Cambodia"
+
+msgctxt "A label for the \"Flag: Kiribati\" symbol."
+msgid "Flag: Kiribati"
+msgstr "Flag: Kiribati"
+
+msgctxt "A label for the \"Flag: Comoros\" symbol."
+msgid "Flag: Comoros"
+msgstr "Flag: Comoros"
+
+msgctxt "A label for the \"Flag: St. Kitts & Nevis\" symbol."
+msgid "Flag: St. Kitts & Nevis"
+msgstr "Flag: St. Kitts & Nevis"
+
+msgctxt "A label for the \"Flag: North Korea\" symbol."
+msgid "Flag: North Korea"
+msgstr "Flag: North Korea"
+
+msgctxt "A label for the \"Flag: South Korea\" symbol."
+msgid "Flag: South Korea"
+msgstr "Flag: South Korea"
+
+msgctxt "A label for the \"Flag: Kuwait\" symbol."
+msgid "Flag: Kuwait"
+msgstr "Flag: Kuwait"
+
+msgctxt "A label for the \"Flag: Cayman Islands\" symbol."
+msgid "Flag: Cayman Islands"
+msgstr "Flag: Cayman Islands"
+
+msgctxt "A label for the \"Flag: Kazakhstan\" symbol."
+msgid "Flag: Kazakhstan"
+msgstr "Flag: Kazakhstan"
+
+msgctxt "A label for the \"Flag: Laos\" symbol."
+msgid "Flag: Laos"
+msgstr "Flag: Laos"
+
+msgctxt "A label for the \"Flag: Lebanon\" symbol."
+msgid "Flag: Lebanon"
+msgstr "Flag: Lebanon"
+
+msgctxt "A label for the \"Flag: St. Lucia\" symbol."
+msgid "Flag: St. Lucia"
+msgstr "Flag: St. Lucia"
+
+msgctxt "A label for the \"Flag: Liechtenstein\" symbol."
+msgid "Flag: Liechtenstein"
+msgstr "Flag: Liechtenstein"
+
+msgctxt "A label for the \"Flag: Sri Lanka\" symbol."
+msgid "Flag: Sri Lanka"
+msgstr "Flag: Sri Lanka"
+
+msgctxt "A label for the \"Flag: Liberia\" symbol."
+msgid "Flag: Liberia"
+msgstr "Flag: Liberia"
+
+msgctxt "A label for the \"Flag: Lesotho\" symbol."
+msgid "Flag: Lesotho"
+msgstr "Flag: Lesotho"
+
+msgctxt "A label for the \"Flag: Lithuania\" symbol."
+msgid "Flag: Lithuania"
+msgstr "Flag: Lithuania"
+
+msgctxt "A label for the \"Flag: Luxembourg\" symbol."
+msgid "Flag: Luxembourg"
+msgstr "Flag: Luxembourg"
+
+msgctxt "A label for the \"Flag: Latvia\" symbol."
+msgid "Flag: Latvia"
+msgstr "Flag: Latvia"
+
+msgctxt "A label for the \"Flag: Libya\" symbol."
+msgid "Flag: Libya"
+msgstr "Flag: Libya"
+
+msgctxt "A label for the \"Flag: Morocco\" symbol."
+msgid "Flag: Morocco"
+msgstr "Flag: Morocco"
+
+msgctxt "A label for the \"Flag: Monaco\" symbol."
+msgid "Flag: Monaco"
+msgstr "Flag: Monaco"
+
+msgctxt "A label for the \"Flag: Moldova\" symbol."
+msgid "Flag: Moldova"
+msgstr "Flag: Moldova"
+
+msgctxt "A label for the \"Flag: Montenegro\" symbol."
+msgid "Flag: Montenegro"
+msgstr "Flag: Montenegro"
+
+msgctxt "A label for the \"Flag: St. Martin\" symbol."
+msgid "Flag: St. Martin"
+msgstr "Flag: St. Martin"
+
+msgctxt "A label for the \"Flag: Madagascar\" symbol."
+msgid "Flag: Madagascar"
+msgstr "Flag: Madagascar"
+
+msgctxt "A label for the \"Flag: Marshall Islands\" symbol."
+msgid "Flag: Marshall Islands"
+msgstr "Flag: Marshall Islands"
+
+msgctxt "A label for the \"Flag: North Macedonia\" symbol."
+msgid "Flag: North Macedonia"
+msgstr "Flag: North Macedonia"
+
+msgctxt "A label for the \"Flag: Mali\" symbol."
+msgid "Flag: Mali"
+msgstr "Flag: Mali"
+
+msgctxt "A label for the \"Flag: Myanmar (Burma)\" symbol."
+msgid "Flag: Myanmar (Burma)"
+msgstr "Flag: Myanmar (Burma)"
+
+msgctxt "A label for the \"Flag: Mongolia\" symbol."
+msgid "Flag: Mongolia"
+msgstr "Flag: Mongolia"
+
+msgctxt "A label for the \"Flag: Macao SAR China\" symbol."
+msgid "Flag: Macao SAR China"
+msgstr "Flag: Macao SAR China"
+
+msgctxt "A label for the \"Flag: Northern Mariana Islands\" symbol."
+msgid "Flag: Northern Mariana Islands"
+msgstr "Flag: Northern Mariana Islands"
+
+msgctxt "A label for the \"Flag: Martinique\" symbol."
+msgid "Flag: Martinique"
+msgstr "Flag: Martinique"
+
+msgctxt "A label for the \"Flag: Mauritania\" symbol."
+msgid "Flag: Mauritania"
+msgstr "Flag: Mauritania"
+
+msgctxt "A label for the \"Flag: Montserrat\" symbol."
+msgid "Flag: Montserrat"
+msgstr "Flag: Montserrat"
+
+msgctxt "A label for the \"Flag: Malta\" symbol."
+msgid "Flag: Malta"
+msgstr "Flag: Malta"
+
+msgctxt "A label for the \"Flag: Mauritius\" symbol."
+msgid "Flag: Mauritius"
+msgstr "Flag: Mauritius"
+
+msgctxt "A label for the \"Flag: Maldives\" symbol."
+msgid "Flag: Maldives"
+msgstr "Flag: Maldives"
+
+msgctxt "A label for the \"Flag: Malawi\" symbol."
+msgid "Flag: Malawi"
+msgstr "Flag: Malawi"
+
+msgctxt "A label for the \"Flag: Mexico\" symbol."
+msgid "Flag: Mexico"
+msgstr "Flag: Mexico"
+
+msgctxt "A label for the \"Flag: Malaysia\" symbol."
+msgid "Flag: Malaysia"
+msgstr "Flag: Malaysia"
+
+msgctxt "A label for the \"Flag: Mozambique\" symbol."
+msgid "Flag: Mozambique"
+msgstr "Flag: Mozambique"
+
+msgctxt "A label for the \"Flag: Namibia\" symbol."
+msgid "Flag: Namibia"
+msgstr "Flag: Namibia"
+
+msgctxt "A label for the \"Flag: New Caledonia\" symbol."
+msgid "Flag: New Caledonia"
+msgstr "Flag: New Caledonia"
+
+msgctxt "A label for the \"Flag: Niger\" symbol."
+msgid "Flag: Niger"
+msgstr "Flag: Niger"
+
+msgctxt "A label for the \"Flag: Norfolk Island\" symbol."
+msgid "Flag: Norfolk Island"
+msgstr "Flag: Norfolk Island"
+
+msgctxt "A label for the \"Flag: Nigeria\" symbol."
+msgid "Flag: Nigeria"
+msgstr "Flag: Nigeria"
+
+msgctxt "A label for the \"Flag: Nicaragua\" symbol."
+msgid "Flag: Nicaragua"
+msgstr "Flag: Nicaragua"
+
+msgctxt "A label for the \"Flag: Netherlands\" symbol."
+msgid "Flag: Netherlands"
+msgstr "Flag: Netherlands"
+
+msgctxt "A label for the \"Flag: Norway\" symbol."
+msgid "Flag: Norway"
+msgstr "Flag: Norway"
+
+msgctxt "A label for the \"Flag: Nepal\" symbol."
+msgid "Flag: Nepal"
+msgstr "Flag: Nepal"
+
+msgctxt "A label for the \"Flag: Nauru\" symbol."
+msgid "Flag: Nauru"
+msgstr "Flag: Nauru"
+
+msgctxt "A label for the \"Flag: Niue\" symbol."
+msgid "Flag: Niue"
+msgstr "Flag: Niue"
+
+msgctxt "A label for the \"Flag: New Zealand\" symbol."
+msgid "Flag: New Zealand"
+msgstr "Flag: New Zealand"
+
+msgctxt "A label for the \"Flag: Oman\" symbol."
+msgid "Flag: Oman"
+msgstr "Flag: Oman"
+
+msgctxt "A label for the \"Flag: Panama\" symbol."
+msgid "Flag: Panama"
+msgstr "Flag: Panama"
+
+msgctxt "A label for the \"Flag: Peru\" symbol."
+msgid "Flag: Peru"
+msgstr "Flag: Peru"
+
+msgctxt "A label for the \"Flag: French Polynesia\" symbol."
+msgid "Flag: French Polynesia"
+msgstr "Flag: French Polynesia"
+
+msgctxt "A label for the \"Flag: Papua New Guinea\" symbol."
+msgid "Flag: Papua New Guinea"
+msgstr "Flag: Papua New Guinea"
+
+msgctxt "A label for the \"Flag: Philippines\" symbol."
+msgid "Flag: Philippines"
+msgstr "Flag: Philippines"
+
+msgctxt "A label for the \"Flag: Pakistan\" symbol."
+msgid "Flag: Pakistan"
+msgstr "Flag: Pakistan"
+
+msgctxt "A label for the \"Flag: Poland\" symbol."
+msgid "Flag: Poland"
+msgstr "Flag: Poland"
+
+msgctxt "A label for the \"Flag: St. Pierre & Miquelon\" symbol."
+msgid "Flag: St. Pierre & Miquelon"
+msgstr "Flag: St. Pierre & Miquelon"
+
+msgctxt "A label for the \"Flag: Pitcairn Islands\" symbol."
+msgid "Flag: Pitcairn Islands"
+msgstr "Flag: Pitcairn Islands"
+
+msgctxt "A label for the \"Flag: Puerto Rico\" symbol."
+msgid "Flag: Puerto Rico"
+msgstr "Flag: Puerto Rico"
+
+msgctxt "A label for the \"Flag: Palestinian Territories\" symbol."
+msgid "Flag: Palestinian Territories"
+msgstr "Flag: Palestinian Territories"
+
+msgctxt "A label for the \"Flag: Portugal\" symbol."
+msgid "Flag: Portugal"
+msgstr "Flag: Portugal"
+
+msgctxt "A label for the \"Flag: Palau\" symbol."
+msgid "Flag: Palau"
+msgstr "Flag: Palau"
+
+msgctxt "A label for the \"Flag: Paraguay\" symbol."
+msgid "Flag: Paraguay"
+msgstr "Flag: Paraguay"
+
+msgctxt "A label for the \"Flag: Qatar\" symbol."
+msgid "Flag: Qatar"
+msgstr "Flag: Qatar"
+
+msgctxt "A label for the \"Flag: Réunion\" symbol."
+msgid "Flag: Réunion"
+msgstr "Flag: Réunion"
+
+msgctxt "A label for the \"Flag: Romania\" symbol."
+msgid "Flag: Romania"
+msgstr "Flag: Romania"
+
+msgctxt "A label for the \"Flag: Serbia\" symbol."
+msgid "Flag: Serbia"
+msgstr "Flag: Serbia"
+
+msgctxt "A label for the \"Flag: Russia\" symbol."
+msgid "Flag: Russia"
+msgstr "Flag: Russia"
+
+msgctxt "A label for the \"Flag: Rwanda\" symbol."
+msgid "Flag: Rwanda"
+msgstr "Flag: Rwanda"
+
+msgctxt "A label for the \"Flag: Saudi Arabia\" symbol."
+msgid "Flag: Saudi Arabia"
+msgstr "Flag: Saudi Arabia"
+
+msgctxt "A label for the \"Flag: Solomon Islands\" symbol."
+msgid "Flag: Solomon Islands"
+msgstr "Flag: Solomon Islands"
+
+msgctxt "A label for the \"Flag: Seychelles\" symbol."
+msgid "Flag: Seychelles"
+msgstr "Flag: Seychelles"
+
+msgctxt "A label for the \"Flag: Sudan\" symbol."
+msgid "Flag: Sudan"
+msgstr "Flag: Sudan"
+
+msgctxt "A label for the \"Flag: Sweden\" symbol."
+msgid "Flag: Sweden"
+msgstr "Flag: Sweden"
+
+msgctxt "A label for the \"Flag: Singapore\" symbol."
+msgid "Flag: Singapore"
+msgstr "Flag: Singapore"
+
+msgctxt "A label for the \"Flag: St. Helena\" symbol."
+msgid "Flag: St. Helena"
+msgstr "Flag: St. Helena"
+
+msgctxt "A label for the \"Flag: Slovenia\" symbol."
+msgid "Flag: Slovenia"
+msgstr "Flag: Slovenia"
+
+msgctxt "A label for the \"Flag: Svalbard & Jan Mayen\" symbol."
+msgid "Flag: Svalbard & Jan Mayen"
+msgstr "Flag: Svalbard & Jan Mayen"
+
+msgctxt "A label for the \"Flag: Slovakia\" symbol."
+msgid "Flag: Slovakia"
+msgstr "Flag: Slovakia"
+
+msgctxt "A label for the \"Flag: Sierra Leone\" symbol."
+msgid "Flag: Sierra Leone"
+msgstr "Flag: Sierra Leone"
+
+msgctxt "A label for the \"Flag: San Marino\" symbol."
+msgid "Flag: San Marino"
+msgstr "Flag: San Marino"
+
+msgctxt "A label for the \"Flag: Senegal\" symbol."
+msgid "Flag: Senegal"
+msgstr "Flag: Senegal"
+
+msgctxt "A label for the \"Flag: Somalia\" symbol."
+msgid "Flag: Somalia"
+msgstr "Flag: Somalia"
+
+msgctxt "A label for the \"Flag: Suriname\" symbol."
+msgid "Flag: Suriname"
+msgstr "Flag: Suriname"
+
+msgctxt "A label for the \"Flag: South Sudan\" symbol."
+msgid "Flag: South Sudan"
+msgstr "Flag: South Sudan"
+
+msgctxt "A label for the \"Flag: São Tomé & Príncipe\" symbol."
+msgid "Flag: São Tomé & Príncipe"
+msgstr "Flag: São Tomé & Príncipe"
+
+msgctxt "A label for the \"Flag: El Salvador\" symbol."
+msgid "Flag: El Salvador"
+msgstr "Flag: El Salvador"
+
+msgctxt "A label for the \"Flag: Sint Maarten\" symbol."
+msgid "Flag: Sint Maarten"
+msgstr "Flag: Sint Maarten"
+
+msgctxt "A label for the \"Flag: Syria\" symbol."
+msgid "Flag: Syria"
+msgstr "Flag: Syria"
+
+msgctxt "A label for the \"Flag: Eswatini\" symbol."
+msgid "Flag: Eswatini"
+msgstr "Flag: Eswatini"
+
+msgctxt "A label for the \"Flag: Tristan da Cunha\" symbol."
+msgid "Flag: Tristan da Cunha"
+msgstr "Flag: Tristan da Cunha"
+
+msgctxt "A label for the \"Flag: Turks & Caicos Islands\" symbol."
+msgid "Flag: Turks & Caicos Islands"
+msgstr "Flag: Turks & Caicos Islands"
+
+msgctxt "A label for the \"Flag: Chad\" symbol."
+msgid "Flag: Chad"
+msgstr "Flag: Chad"
+
+msgctxt "A label for the \"Flag: French Southern Territories\" symbol."
+msgid "Flag: French Southern Territories"
+msgstr "Flag: French Southern Territories"
+
+msgctxt "A label for the \"Flag: Togo\" symbol."
+msgid "Flag: Togo"
+msgstr "Flag: Togo"
+
+msgctxt "A label for the \"Flag: Thailand\" symbol."
+msgid "Flag: Thailand"
+msgstr "Flag: Thailand"
+
+msgctxt "A label for the \"Flag: Tajikistan\" symbol."
+msgid "Flag: Tajikistan"
+msgstr "Flag: Tajikistan"
+
+msgctxt "A label for the \"Flag: Tokelau\" symbol."
+msgid "Flag: Tokelau"
+msgstr "Flag: Tokelau"
+
+msgctxt "A label for the \"Flag: Timor-Leste\" symbol."
+msgid "Flag: Timor-Leste"
+msgstr "Flag: Timor-Leste"
+
+msgctxt "A label for the \"Flag: Turkmenistan\" symbol."
+msgid "Flag: Turkmenistan"
+msgstr "Flag: Turkmenistan"
+
+msgctxt "A label for the \"Flag: Tunisia\" symbol."
+msgid "Flag: Tunisia"
+msgstr "Flag: Tunisia"
+
+msgctxt "A label for the \"Flag: Tonga\" symbol."
+msgid "Flag: Tonga"
+msgstr "Flag: Tonga"
+
+msgctxt "A label for the \"Flag: Turkey\" symbol."
+msgid "Flag: Turkey"
+msgstr "Flag: Turkey"
+
+msgctxt "A label for the \"Flag: Trinidad & Tobago\" symbol."
+msgid "Flag: Trinidad & Tobago"
+msgstr "Flag: Trinidad & Tobago"
+
+msgctxt "A label for the \"Flag: Tuvalu\" symbol."
+msgid "Flag: Tuvalu"
+msgstr "Flag: Tuvalu"
+
+msgctxt "A label for the \"Flag: Taiwan\" symbol."
+msgid "Flag: Taiwan"
+msgstr "Flag: Taiwan"
+
+msgctxt "A label for the \"Flag: Tanzania\" symbol."
+msgid "Flag: Tanzania"
+msgstr "Flag: Tanzania"
+
+msgctxt "A label for the \"Flag: Ukraine\" symbol."
+msgid "Flag: Ukraine"
+msgstr "Flag: Ukraine"
+
+msgctxt "A label for the \"Flag: Uganda\" symbol."
+msgid "Flag: Uganda"
+msgstr "Flag: Uganda"
+
+msgctxt "A label for the \"Flag: U.S. Outlying Islands\" symbol."
+msgid "Flag: U.S. Outlying Islands"
+msgstr "Flag: U.S. Outlying Islands"
+
+msgctxt "A label for the \"Flag: United Nations\" symbol."
+msgid "Flag: United Nations"
+msgstr "Flag: United Nations"
+
+msgctxt "A label for the \"Flag: United States\" symbol."
+msgid "Flag: United States"
+msgstr "Flag: United States"
+
+msgctxt "A label for the \"Flag: Uruguay\" symbol."
+msgid "Flag: Uruguay"
+msgstr "Flag: Uruguay"
+
+msgctxt "A label for the \"Flag: Uzbekistan\" symbol."
+msgid "Flag: Uzbekistan"
+msgstr "Flag: Uzbekistan"
+
+msgctxt "A label for the \"Flag: Vatican City\" symbol."
+msgid "Flag: Vatican City"
+msgstr "Flag: Vatican City"
+
+msgctxt "A label for the \"Flag: St. Vincent & Grenadines\" symbol."
+msgid "Flag: St. Vincent & Grenadines"
+msgstr "Flag: St. Vincent & Grenadines"
+
+msgctxt "A label for the \"Flag: Venezuela\" symbol."
+msgid "Flag: Venezuela"
+msgstr "Flag: Venezuela"
+
+msgctxt "A label for the \"Flag: British Virgin Islands\" symbol."
+msgid "Flag: British Virgin Islands"
+msgstr "Flag: British Virgin Islands"
+
+msgctxt "A label for the \"Flag: U.S. Virgin Islands\" symbol."
+msgid "Flag: U.S. Virgin Islands"
+msgstr "Flag: U.S. Virgin Islands"
+
+msgctxt "A label for the \"Flag: Vietnam\" symbol."
+msgid "Flag: Vietnam"
+msgstr "Flag: Vietnam"
+
+msgctxt "A label for the \"Flag: Vanuatu\" symbol."
+msgid "Flag: Vanuatu"
+msgstr "Flag: Vanuatu"
+
+msgctxt "A label for the \"Flag: Wallis & Futuna\" symbol."
+msgid "Flag: Wallis & Futuna"
+msgstr "Flag: Wallis & Futuna"
+
+msgctxt "A label for the \"Flag: Samoa\" symbol."
+msgid "Flag: Samoa"
+msgstr "Flag: Samoa"
+
+msgctxt "A label for the \"Flag: Kosovo\" symbol."
+msgid "Flag: Kosovo"
+msgstr "Flag: Kosovo"
+
+msgctxt "A label for the \"Flag: Yemen\" symbol."
+msgid "Flag: Yemen"
+msgstr "Flag: Yemen"
+
+msgctxt "A label for the \"Flag: Mayotte\" symbol."
+msgid "Flag: Mayotte"
+msgstr "Flag: Mayotte"
+
+msgctxt "A label for the \"Flag: South Africa\" symbol."
+msgid "Flag: South Africa"
+msgstr "Flag: South Africa"
+
+msgctxt "A label for the \"Flag: Zambia\" symbol."
+msgid "Flag: Zambia"
+msgstr "Flag: Zambia"
+
+msgctxt "A label for the \"Flag: Zimbabwe\" symbol."
+msgid "Flag: Zimbabwe"
+msgstr "Flag: Zimbabwe"
+
+msgctxt "A label for the \"Flag: England\" symbol."
+msgid "Flag: England"
+msgstr "Flag: England"
+
+msgctxt "A label for the \"Flag: Scotland\" symbol."
+msgid "Flag: Scotland"
+msgstr "Flag: Scotland"
+
+msgctxt "A label for the \"Flag: Wales\" symbol."
+msgid "Flag: Wales"
+msgstr "Flag: Wales"
+
+msgctxt "A label for the \"Red Apple\" symbol."
+msgid "Red Apple"
+msgstr "Red Apple"
+
+msgctxt "A label for the \"Grapes\" symbol."
+msgid "Grapes"
+msgstr "Grapes"
+
+msgctxt "A label for the \"Melon\" symbol."
+msgid "Melon"
+msgstr "Melon"
+
+msgctxt "A label for the \"Watermelon\" symbol."
+msgid "Watermelon"
+msgstr "Watermelon"
+
+msgctxt "A label for the \"Tangerine\" symbol."
+msgid "Tangerine"
+msgstr "Tangerine"
+
+msgctxt "A label for the \"Lemon\" symbol."
+msgid "Lemon"
+msgstr "Lemon"
+
+msgctxt "A label for the \"Banana\" symbol."
+msgid "Banana"
+msgstr "Banana"
+
+msgctxt "A label for the \"Pineapple\" symbol."
+msgid "Pineapple"
+msgstr "Pineapple"
+
+msgctxt "A label for the \"Mango\" symbol."
+msgid "Mango"
+msgstr "Mango"
+
+msgctxt "A label for the \"Red Apple\" symbol."
+msgid "Red Apple"
+msgstr "Red Apple"
+
+msgctxt "A label for the \"Green Apple\" symbol."
+msgid "Green Apple"
+msgstr "Green Apple"
+
+msgctxt "A label for the \"Pear\" symbol."
+msgid "Pear"
+msgstr "Pear"
+
+msgctxt "A label for the \"Peach\" symbol."
+msgid "Peach"
+msgstr "Peach"
+
+msgctxt "A label for the \"Cherries\" symbol."
+msgid "Cherries"
+msgstr "Cherries"
+
+msgctxt "A label for the \"Strawberry\" symbol."
+msgid "Strawberry"
+msgstr "Strawberry"
+
+msgctxt "A label for the \"Blueberries\" symbol."
+msgid "Blueberries"
+msgstr "Blueberries"
+
+msgctxt "A label for the \"Kiwi Fruit\" symbol."
+msgid "Kiwi Fruit"
+msgstr "Kiwi Fruit"
+
+msgctxt "A label for the \"Tomato\" symbol."
+msgid "Tomato"
+msgstr "Tomato"
+
+msgctxt "A label for the \"Olive\" symbol."
+msgid "Olive"
+msgstr "Olive"
+
+msgctxt "A label for the \"Coconut\" symbol."
+msgid "Coconut"
+msgstr "Coconut"
+
+msgctxt "A label for the \"Avocado\" symbol."
+msgid "Avocado"
+msgstr "Avocado"
+
+msgctxt "A label for the \"Eggplant\" symbol."
+msgid "Eggplant"
+msgstr "Eggplant"
+
+msgctxt "A label for the \"Potato\" symbol."
+msgid "Potato"
+msgstr "Potato"
+
+msgctxt "A label for the \"Carrot\" symbol."
+msgid "Carrot"
+msgstr "Carrot"
+
+msgctxt "A label for the \"Ear of Corn\" symbol."
+msgid "Ear of Corn"
+msgstr "Ear of Corn"
+
+msgctxt "A label for the \"Hot Pepper\" symbol."
+msgid "Hot Pepper"
+msgstr "Hot Pepper"
+
+msgctxt "A label for the \"Bell Pepper\" symbol."
+msgid "Bell Pepper"
+msgstr "Bell Pepper"
+
+msgctxt "A label for the \"Cucumber\" symbol."
+msgid "Cucumber"
+msgstr "Cucumber"
+
+msgctxt "A label for the \"Leafy Green\" symbol."
+msgid "Leafy Green"
+msgstr "Leafy Green"
+
+msgctxt "A label for the \"Broccoli\" symbol."
+msgid "Broccoli"
+msgstr "Broccoli"
+
+msgctxt "A label for the \"Garlic\" symbol."
+msgid "Garlic"
+msgstr "Garlic"
+
+msgctxt "A label for the \"Onion\" symbol."
+msgid "Onion"
+msgstr "Onion"
+
+msgctxt "A label for the \"Mushroom\" symbol."
+msgid "Mushroom"
+msgstr "Mushroom"
+
+msgctxt "A label for the \"Peanuts\" symbol."
+msgid "Peanuts"
+msgstr "Peanuts"
+
+msgctxt "A label for the \"Chestnut\" symbol."
+msgid "Chestnut"
+msgstr "Chestnut"
+
+msgctxt "A label for the \"Bread\" symbol."
+msgid "Bread"
+msgstr "Bread"
+
+msgctxt "A label for the \"Croissant\" symbol."
+msgid "Croissant"
+msgstr "Croissant"
+
+msgctxt "A label for the \"Baguette Bread\" symbol."
+msgid "Baguette Bread"
+msgstr "Baguette Bread"
+
+msgctxt "A label for the \"Flatbread\" symbol."
+msgid "Flatbread"
+msgstr "Flatbread"
+
+msgctxt "A label for the \"Pretzel\" symbol."
+msgid "Pretzel"
+msgstr "Pretzel"
+
+msgctxt "A label for the \"Bagel\" symbol."
+msgid "Bagel"
+msgstr "Bagel"
+
+msgctxt "A label for the \"Pancakes\" symbol."
+msgid "Pancakes"
+msgstr "Pancakes"
+
+msgctxt "A label for the \"Waffle\" symbol."
+msgid "Waffle"
+msgstr "Waffle"
+
+msgctxt "A label for the \"Cheese Wedge\" symbol."
+msgid "Cheese Wedge"
+msgstr "Cheese Wedge"
+
+msgctxt "A label for the \"Meat on Bone\" symbol."
+msgid "Meat on Bone"
+msgstr "Meat on Bone"
+
+msgctxt "A label for the \"Poultry Leg\" symbol."
+msgid "Poultry Leg"
+msgstr "Poultry Leg"
+
+msgctxt "A label for the \"Cut of Meat\" symbol."
+msgid "Cut of Meat"
+msgstr "Cut of Meat"
+
+msgctxt "A label for the \"Bacon\" symbol."
+msgid "Bacon"
+msgstr "Bacon"
+
+msgctxt "A label for the \"Hamburger\" symbol."
+msgid "Hamburger"
+msgstr "Hamburger"
+
+msgctxt "A label for the \"French Fries\" symbol."
+msgid "French Fries"
+msgstr "French Fries"
+
+msgctxt "A label for the \"Pizza\" symbol."
+msgid "Pizza"
+msgstr "Pizza"
+
+msgctxt "A label for the \"Hot Dog\" symbol."
+msgid "Hot Dog"
+msgstr "Hot Dog"
+
+msgctxt "A label for the \"Sandwich\" symbol."
+msgid "Sandwich"
+msgstr "Sandwich"
+
+msgctxt "A label for the \"Taco\" symbol."
+msgid "Taco"
+msgstr "Taco"
+
+msgctxt "A label for the \"Burrito\" symbol."
+msgid "Burrito"
+msgstr "Burrito"
+
+msgctxt "A label for the \"Tamale\" symbol."
+msgid "Tamale"
+msgstr "Tamale"
+
+msgctxt "A label for the \"Stuffed Flatbread\" symbol."
+msgid "Stuffed Flatbread"
+msgstr "Stuffed Flatbread"
+
+msgctxt "A label for the \"Falafel\" symbol."
+msgid "Falafel"
+msgstr "Falafel"
+
+msgctxt "A label for the \"Egg\" symbol."
+msgid "Egg"
+msgstr "Egg"
+
+msgctxt "A label for the \"Cooking\" symbol."
+msgid "Cooking"
+msgstr "Cooking"
+
+msgctxt "A label for the \"Shallow Pan of Food\" symbol."
+msgid "Shallow Pan of Food"
+msgstr "Shallow Pan of Food"
+
+msgctxt "A label for the \"Pot of Food\" symbol."
+msgid "Pot of Food"
+msgstr "Pot of Food"
+
+msgctxt "A label for the \"Fondue\" symbol."
+msgid "Fondue"
+msgstr "Fondue"
+
+msgctxt "A label for the \"Bowl with Spoon\" symbol."
+msgid "Bowl with Spoon"
+msgstr "Bowl with Spoon"
+
+msgctxt "A label for the \"Green Salad\" symbol."
+msgid "Green Salad"
+msgstr "Green Salad"
+
+msgctxt "A label for the \"Popcorn\" symbol."
+msgid "Popcorn"
+msgstr "Popcorn"
+
+msgctxt "A label for the \"Butter\" symbol."
+msgid "Butter"
+msgstr "Butter"
+
+msgctxt "A label for the \"Salt\" symbol."
+msgid "Salt"
+msgstr "Salt"
+
+msgctxt "A label for the \"Canned Food\" symbol."
+msgid "Canned Food"
+msgstr "Canned Food"
+
+msgctxt "A label for the \"Bento Box\" symbol."
+msgid "Bento Box"
+msgstr "Bento Box"
+
+msgctxt "A label for the \"Rice Cracker\" symbol."
+msgid "Rice Cracker"
+msgstr "Rice Cracker"
+
+msgctxt "A label for the \"Rice Ball\" symbol."
+msgid "Rice Ball"
+msgstr "Rice Ball"
+
+msgctxt "A label for the \"Cooked Rice\" symbol."
+msgid "Cooked Rice"
+msgstr "Cooked Rice"
+
+msgctxt "A label for the \"Curry Rice\" symbol."
+msgid "Curry Rice"
+msgstr "Curry Rice"
+
+msgctxt "A label for the \"Steaming Bowl\" symbol."
+msgid "Steaming Bowl"
+msgstr "Steaming Bowl"
+
+msgctxt "A label for the \"Spaghetti\" symbol."
+msgid "Spaghetti"
+msgstr "Spaghetti"
+
+msgctxt "A label for the \"Roasted Sweet Potato\" symbol."
+msgid "Roasted Sweet Potato"
+msgstr "Roasted Sweet Potato"
+
+msgctxt "A label for the \"Oden\" symbol."
+msgid "Oden"
+msgstr "Oden"
+
+msgctxt "A label for the \"Sushi\" symbol."
+msgid "Sushi"
+msgstr "Sushi"
+
+msgctxt "A label for the \"Fried Shrimp\" symbol."
+msgid "Fried Shrimp"
+msgstr "Fried Shrimp"
+
+msgctxt "A label for the \"Fish Cake with Swirl\" symbol."
+msgid "Fish Cake with Swirl"
+msgstr "Fish Cake with Swirl"
+
+msgctxt "A label for the \"Moon Cake\" symbol."
+msgid "Moon Cake"
+msgstr "Moon Cake"
+
+msgctxt "A label for the \"Dango\" symbol."
+msgid "Dango"
+msgstr "Dango"
+
+msgctxt "A label for the \"Dumpling\" symbol."
+msgid "Dumpling"
+msgstr "Dumpling"
+
+msgctxt "A label for the \"Fortune Cookie\" symbol."
+msgid "Fortune Cookie"
+msgstr "Fortune Cookie"
+
+msgctxt "A label for the \"Takeout Box\" symbol."
+msgid "Takeout Box"
+msgstr "Takeout Box"
+
+msgctxt "A label for the \"Oyster\" symbol."
+msgid "Oyster"
+msgstr "Oyster"
+
+msgctxt "A label for the \"Soft Ice Cream\" symbol."
+msgid "Soft Ice Cream"
+msgstr "Soft Ice Cream"
+
+msgctxt "A label for the \"Shaved Ice\" symbol."
+msgid "Shaved Ice"
+msgstr "Shaved Ice"
+
+msgctxt "A label for the \"Ice Cream\" symbol."
+msgid "Ice Cream"
+msgstr "Ice Cream"
+
+msgctxt "A label for the \"Doughnut\" symbol."
+msgid "Doughnut"
+msgstr "Doughnut"
+
+msgctxt "A label for the \"Cookie\" symbol."
+msgid "Cookie"
+msgstr "Cookie"
+
+msgctxt "A label for the \"Birthday Cake\" symbol."
+msgid "Birthday Cake"
+msgstr "Birthday Cake"
+
+msgctxt "A label for the \"Shortcake\" symbol."
+msgid "Shortcake"
+msgstr "Shortcake"
+
+msgctxt "A label for the \"Cupcake\" symbol."
+msgid "Cupcake"
+msgstr "Cupcake"
+
+msgctxt "A label for the \"Pie\" symbol."
+msgid "Pie"
+msgstr "Pie"
+
+msgctxt "A label for the \"Chocolate Bar\" symbol."
+msgid "Chocolate Bar"
+msgstr "Chocolate Bar"
+
+msgctxt "A label for the \"Candy\" symbol."
+msgid "Candy"
+msgstr "Candy"
+
+msgctxt "A label for the \"Lollipop\" symbol."
+msgid "Lollipop"
+msgstr "Lollipop"
+
+msgctxt "A label for the \"Custard\" symbol."
+msgid "Custard"
+msgstr "Custard"
+
+msgctxt "A label for the \"Honey Pot\" symbol."
+msgid "Honey Pot"
+msgstr "Honey Pot"
+
+msgctxt "A label for the \"Baby Bottle\" symbol."
+msgid "Baby Bottle"
+msgstr "Baby Bottle"
+
+msgctxt "A label for the \"Glass of Milk\" symbol."
+msgid "Glass of Milk"
+msgstr "Glass of Milk"
+
+msgctxt "A label for the \"Hot Beverage\" symbol."
+msgid "Hot Beverage"
+msgstr "Hot Beverage"
+
+msgctxt "A label for the \"Teapot\" symbol."
+msgid "Teapot"
+msgstr "Teapot"
+
+msgctxt "A label for the \"Teacup Without Handle\" symbol."
+msgid "Teacup Without Handle"
+msgstr "Teacup Without Handle"
+
+msgctxt "A label for the \"Sake\" symbol."
+msgid "Sake"
+msgstr "Sake"
+
+msgctxt "A label for the \"Bottle with Popping Cork\" symbol."
+msgid "Bottle with Popping Cork"
+msgstr "Bottle with Popping Cork"
+
+msgctxt "A label for the \"Wine Glass\" symbol."
+msgid "Wine Glass"
+msgstr "Wine Glass"
+
+msgctxt "A label for the \"Cocktail Glass\" symbol."
+msgid "Cocktail Glass"
+msgstr "Cocktail Glass"
+
+msgctxt "A label for the \"Tropical Drink\" symbol."
+msgid "Tropical Drink"
+msgstr "Tropical Drink"
+
+msgctxt "A label for the \"Beer Mug\" symbol."
+msgid "Beer Mug"
+msgstr "Beer Mug"
+
+msgctxt "A label for the \"Clinking Beer Mugs\" symbol."
+msgid "Clinking Beer Mugs"
+msgstr "Clinking Beer Mugs"
+
+msgctxt "A label for the \"Clinking Glasses\" symbol."
+msgid "Clinking Glasses"
+msgstr "Clinking Glasses"
+
+msgctxt "A label for the \"Tumbler Glass\" symbol."
+msgid "Tumbler Glass"
+msgstr "Tumbler Glass"
+
+msgctxt "A label for the \"Cup with Straw\" symbol."
+msgid "Cup with Straw"
+msgstr "Cup with Straw"
+
+msgctxt "A label for the \"Bubble Tea\" symbol."
+msgid "Bubble Tea"
+msgstr "Bubble Tea"
+
+msgctxt "A label for the \"Beverage Box\" symbol."
+msgid "Beverage Box"
+msgstr "Beverage Box"
+
+msgctxt "A label for the \"Mate\" symbol."
+msgid "Mate"
+msgstr "Mate"
+
+msgctxt "A label for the \"Ice\" symbol."
+msgid "Ice"
+msgstr "Ice"
+
+msgctxt "A label for the \"Chopsticks\" symbol."
+msgid "Chopsticks"
+msgstr "Chopsticks"
+
+msgctxt "A label for the \"Fork and Knife with Plate\" symbol."
+msgid "Fork and Knife with Plate"
+msgstr "Fork and Knife with Plate"
+
+msgctxt "A label for the \"Fork and Knife\" symbol."
+msgid "Fork and Knife"
+msgstr "Fork and Knife"
+
+msgctxt "A label for the \"Spoo\" symbol."
+msgid "Spoo"
+msgstr "Spoo"
+
+msgctxt "A label for the \"See-No-Evil Monkey\" symbol."
+msgid "See-No-Evil Monkey"
+msgstr "See-No-Evil Monkey"
+
+msgctxt "A label for the \"Hear-No-Evil Monkey\" symbol."
+msgid "Hear-No-Evil Monkey"
+msgstr "Hear-No-Evil Monkey"
+
+msgctxt "A label for the \"Speak-No-Evil Monkey\" symbol."
+msgid "Speak-No-Evil Monkey"
+msgstr "Speak-No-Evil Monkey"
+
+msgctxt "A label for the \"Collision\" symbol."
+msgid "Collision"
+msgstr "Collision"
+
+msgctxt "A label for the \"Dizzy\" symbol."
+msgid "Dizzy"
+msgstr "Dizzy"
+
+msgctxt "A label for the \"Sweat Droplets\" symbol."
+msgid "Sweat Droplets"
+msgstr "Sweat Droplets"
+
+msgctxt "A label for the \"Dashing Away\" symbol."
+msgid "Dashing Away"
+msgstr "Dashing Away"
+
+msgctxt "A label for the \"Monkey Face\" symbol."
+msgid "Monkey Face"
+msgstr "Monkey Face"
+
+msgctxt "A label for the \"Monkey\" symbol."
+msgid "Monkey"
+msgstr "Monkey"
+
+msgctxt "A label for the \"Gorilla\" symbol."
+msgid "Gorilla"
+msgstr "Gorilla"
+
+msgctxt "A label for the \"Orangutan\" symbol."
+msgid "Orangutan"
+msgstr "Orangutan"
+
+msgctxt "A label for the \"Dog Face\" symbol."
+msgid "Dog Face"
+msgstr "Dog Face"
+
+msgctxt "A label for the \"Dog\" symbol."
+msgid "Dog"
+msgstr "Dog"
+
+msgctxt "A label for the \"Guide Dog\" symbol."
+msgid "Guide Dog"
+msgstr "Guide Dog"
+
+msgctxt "A label for the \"Service Dog\" symbol."
+msgid "Service Dog"
+msgstr "Service Dog"
+
+msgctxt "A label for the \"Poodle\" symbol."
+msgid "Poodle"
+msgstr "Poodle"
+
+msgctxt "A label for the \"Wolf\" symbol."
+msgid "Wolf"
+msgstr "Wolf"
+
+msgctxt "A label for the \"Fox\" symbol."
+msgid "Fox"
+msgstr "Fox"
+
+msgctxt "A label for the \"Raccoon\" symbol."
+msgid "Raccoon"
+msgstr "Raccoon"
+
+msgctxt "A label for the \"Cat Face\" symbol."
+msgid "Cat Face"
+msgstr "Cat Face"
+
+msgctxt "A label for the \"Cat\" symbol."
+msgid "Cat"
+msgstr "Cat"
+
+msgctxt "A label for the \"Black Cat\" symbol."
+msgid "Black Cat"
+msgstr "Black Cat"
+
+msgctxt "A label for the \"Lion\" symbol."
+msgid "Lion"
+msgstr "Lion"
+
+msgctxt "A label for the \"Tiger Face\" symbol."
+msgid "Tiger Face"
+msgstr "Tiger Face"
+
+msgctxt "A label for the \"Tiger\" symbol."
+msgid "Tiger"
+msgstr "Tiger"
+
+msgctxt "A label for the \"Leopard\" symbol."
+msgid "Leopard"
+msgstr "Leopard"
+
+msgctxt "A label for the \"Horse Face\" symbol."
+msgid "Horse Face"
+msgstr "Horse Face"
+
+msgctxt "A label for the \"Horse\" symbol."
+msgid "Horse"
+msgstr "Horse"
+
+msgctxt "A label for the \"Unicorn\" symbol."
+msgid "Unicorn"
+msgstr "Unicorn"
+
+msgctxt "A label for the \"Zebra\" symbol."
+msgid "Zebra"
+msgstr "Zebra"
+
+msgctxt "A label for the \"Deer\" symbol."
+msgid "Deer"
+msgstr "Deer"
+
+msgctxt "A label for the \"Bison\" symbol."
+msgid "Bison"
+msgstr "Bison"
+
+msgctxt "A label for the \"Cow Face\" symbol."
+msgid "Cow Face"
+msgstr "Cow Face"
+
+msgctxt "A label for the \"Ox\" symbol."
+msgid "Ox"
+msgstr "Ox"
+
+msgctxt "A label for the \"Water Buffalo\" symbol."
+msgid "Water Buffalo"
+msgstr "Water Buffalo"
+
+msgctxt "A label for the \"Cow\" symbol."
+msgid "Cow"
+msgstr "Cow"
+
+msgctxt "A label for the \"Pig Face\" symbol."
+msgid "Pig Face"
+msgstr "Pig Face"
+
+msgctxt "A label for the \"Pig\" symbol."
+msgid "Pig"
+msgstr "Pig"
+
+msgctxt "A label for the \"Boar\" symbol."
+msgid "Boar"
+msgstr "Boar"
+
+msgctxt "A label for the \"Pig Nose\" symbol."
+msgid "Pig Nose"
+msgstr "Pig Nose"
+
+msgctxt "A label for the \"Ram\" symbol."
+msgid "Ram"
+msgstr "Ram"
+
+msgctxt "A label for the \"Ewe\" symbol."
+msgid "Ewe"
+msgstr "Ewe"
+
+msgctxt "A label for the \"Goat\" symbol."
+msgid "Goat"
+msgstr "Goat"
+
+msgctxt "A label for the \"Camel\" symbol."
+msgid "Camel"
+msgstr "Camel"
+
+msgctxt "A label for the \"Two-Hump Camel\" symbol."
+msgid "Two-Hump Camel"
+msgstr "Two-Hump Camel"
+
+msgctxt "A label for the \"Llama\" symbol."
+msgid "Llama"
+msgstr "Llama"
+
+msgctxt "A label for the \"Giraffe\" symbol."
+msgid "Giraffe"
+msgstr "Giraffe"
+
+msgctxt "A label for the \"Elephant\" symbol."
+msgid "Elephant"
+msgstr "Elephant"
+
+msgctxt "A label for the \"Mammoth\" symbol."
+msgid "Mammoth"
+msgstr "Mammoth"
+
+msgctxt "A label for the \"Rhinoceros\" symbol."
+msgid "Rhinoceros"
+msgstr "Rhinoceros"
+
+msgctxt "A label for the \"Hippopotamus\" symbol."
+msgid "Hippopotamus"
+msgstr "Hippopotamus"
+
+msgctxt "A label for the \"Mouse Face\" symbol."
+msgid "Mouse Face"
+msgstr "Mouse Face"
+
+msgctxt "A label for the \"Mouse\" symbol."
+msgid "Mouse"
+msgstr "Mouse"
+
+msgctxt "A label for the \"Rat\" symbol."
+msgid "Rat"
+msgstr "Rat"
+
+msgctxt "A label for the \"Hamster\" symbol."
+msgid "Hamster"
+msgstr "Hamster"
+
+msgctxt "A label for the \"Rabbit Face\" symbol."
+msgid "Rabbit Face"
+msgstr "Rabbit Face"
+
+msgctxt "A label for the \"Rabbit\" symbol."
+msgid "Rabbit"
+msgstr "Rabbit"
+
+msgctxt "A label for the \"Chipmunk\" symbol."
+msgid "Chipmunk"
+msgstr "Chipmunk"
+
+msgctxt "A label for the \"Beaver\" symbol."
+msgid "Beaver"
+msgstr "Beaver"
+
+msgctxt "A label for the \"Hedgehog\" symbol."
+msgid "Hedgehog"
+msgstr "Hedgehog"
+
+msgctxt "A label for the \"Bat\" symbol."
+msgid "Bat"
+msgstr "Bat"
+
+msgctxt "A label for the \"Bear\" symbol."
+msgid "Bear"
+msgstr "Bear"
+
+msgctxt "A label for the \"Polar Bear\" symbol."
+msgid "Polar Bear"
+msgstr "Polar Bear"
+
+msgctxt "A label for the \"Koala\" symbol."
+msgid "Koala"
+msgstr "Koala"
+
+msgctxt "A label for the \"Panda\" symbol."
+msgid "Panda"
+msgstr "Panda"
+
+msgctxt "A label for the \"Sloth\" symbol."
+msgid "Sloth"
+msgstr "Sloth"
+
+msgctxt "A label for the \"Otter\" symbol."
+msgid "Otter"
+msgstr "Otter"
+
+msgctxt "A label for the \"Skunk\" symbol."
+msgid "Skunk"
+msgstr "Skunk"
+
+msgctxt "A label for the \"Kangaroo\" symbol."
+msgid "Kangaroo"
+msgstr "Kangaroo"
+
+msgctxt "A label for the \"Badger\" symbol."
+msgid "Badger"
+msgstr "Badger"
+
+msgctxt "A label for the \"Paw Prints\" symbol."
+msgid "Paw Prints"
+msgstr "Paw Prints"
+
+msgctxt "A label for the \"Turkey\" symbol."
+msgid "Turkey"
+msgstr "Turkey"
+
+msgctxt "A label for the \"Chicken\" symbol."
+msgid "Chicken"
+msgstr "Chicken"
+
+msgctxt "A label for the \"Rooster\" symbol."
+msgid "Rooster"
+msgstr "Rooster"
+
+msgctxt "A label for the \"Hatching Chick\" symbol."
+msgid "Hatching Chick"
+msgstr "Hatching Chick"
+
+msgctxt "A label for the \"Baby Chick\" symbol."
+msgid "Baby Chick"
+msgstr "Baby Chick"
+
+msgctxt "A label for the \"Front-Facing Baby Chick\" symbol."
+msgid "Front-Facing Baby Chick"
+msgstr "Front-Facing Baby Chick"
+
+msgctxt "A label for the \"Bird\" symbol."
+msgid "Bird"
+msgstr "Bird"
+
+msgctxt "A label for the \"Penguin\" symbol."
+msgid "Penguin"
+msgstr "Penguin"
+
+msgctxt "A label for the \"Dove\" symbol."
+msgid "Dove"
+msgstr "Dove"
+
+msgctxt "A label for the \"Eagle\" symbol."
+msgid "Eagle"
+msgstr "Eagle"
+
+msgctxt "A label for the \"Duck\" symbol."
+msgid "Duck"
+msgstr "Duck"
+
+msgctxt "A label for the \"Swan\" symbol."
+msgid "Swan"
+msgstr "Swan"
+
+msgctxt "A label for the \"Owl\" symbol."
+msgid "Owl"
+msgstr "Owl"
+
+msgctxt "A label for the \"Dodo\" symbol."
+msgid "Dodo"
+msgstr "Dodo"
+
+msgctxt "A label for the \"Feather\" symbol."
+msgid "Feather"
+msgstr "Feather"
+
+msgctxt "A label for the \"Flamingo\" symbol."
+msgid "Flamingo"
+msgstr "Flamingo"
+
+msgctxt "A label for the \"Peacock\" symbol."
+msgid "Peacock"
+msgstr "Peacock"
+
+msgctxt "A label for the \"Parrot\" symbol."
+msgid "Parrot"
+msgstr "Parrot"
+
+msgctxt "A label for the \"Frog\" symbol."
+msgid "Frog"
+msgstr "Frog"
+
+msgctxt "A label for the \"Crocodile\" symbol."
+msgid "Crocodile"
+msgstr "Crocodile"
+
+msgctxt "A label for the \"Turtle\" symbol."
+msgid "Turtle"
+msgstr "Turtle"
+
+msgctxt "A label for the \"Lizard\" symbol."
+msgid "Lizard"
+msgstr "Lizard"
+
+msgctxt "A label for the \"Snake\" symbol."
+msgid "Snake"
+msgstr "Snake"
+
+msgctxt "A label for the \"Dragon Face\" symbol."
+msgid "Dragon Face"
+msgstr "Dragon Face"
+
+msgctxt "A label for the \"Dragon\" symbol."
+msgid "Dragon"
+msgstr "Dragon"
+
+msgctxt "A label for the \"Sauropod\" symbol."
+msgid "Sauropod"
+msgstr "Sauropod"
+
+msgctxt "A label for the \"T-Rex\" symbol."
+msgid "T-Rex"
+msgstr "T-Rex"
+
+msgctxt "A label for the \"Spouting Whale\" symbol."
+msgid "Spouting Whale"
+msgstr "Spouting Whale"
+
+msgctxt "A label for the \"Whale\" symbol."
+msgid "Whale"
+msgstr "Whale"
+
+msgctxt "A label for the \"Dolphin\" symbol."
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgctxt "A label for the \"Seal\" symbol."
+msgid "Seal"
+msgstr "Seal"
+
+msgctxt "A label for the \"Fish\" symbol."
+msgid "Fish"
+msgstr "Fish"
+
+msgctxt "A label for the \"Tropical Fish\" symbol."
+msgid "Tropical Fish"
+msgstr "Tropical Fish"
+
+msgctxt "A label for the \"Blowfish\" symbol."
+msgid "Blowfish"
+msgstr "Blowfish"
+
+msgctxt "A label for the \"Shark\" symbol."
+msgid "Shark"
+msgstr "Shark"
+
+msgctxt "A label for the \"Octopus\" symbol."
+msgid "Octopus"
+msgstr "Octopus"
+
+msgctxt "A label for the \"Spiral Shell\" symbol."
+msgid "Spiral Shell"
+msgstr "Spiral Shell"
+
+msgctxt "A label for the \"Snail\" symbol."
+msgid "Snail"
+msgstr "Snail"
+
+msgctxt "A label for the \"Butterfly\" symbol."
+msgid "Butterfly"
+msgstr "Butterfly"
+
+msgctxt "A label for the \"Bug\" symbol."
+msgid "Bug"
+msgstr "Bug"
+
+msgctxt "A label for the \"Ant\" symbol."
+msgid "Ant"
+msgstr "Ant"
+
+msgctxt "A label for the \"Honeybee\" symbol."
+msgid "Honeybee"
+msgstr "Honeybee"
+
+msgctxt "A label for the \"Beetle\" symbol."
+msgid "Beetle"
+msgstr "Beetle"
+
+msgctxt "A label for the \"Lady Beetle\" symbol."
+msgid "Lady Beetle"
+msgstr "Lady Beetle"
+
+msgctxt "A label for the \"Cricket\" symbol."
+msgid "Cricket"
+msgstr "Cricket"
+
+msgctxt "A label for the \"Cockroach\" symbol."
+msgid "Cockroach"
+msgstr "Cockroach"
+
+msgctxt "A label for the \"Spider\" symbol."
+msgid "Spider"
+msgstr "Spider"
+
+msgctxt "A label for the \"Spider Web\" symbol."
+msgid "Spider Web"
+msgstr "Spider Web"
+
+msgctxt "A label for the \"Scorpion\" symbol."
+msgid "Scorpion"
+msgstr "Scorpion"
+
+msgctxt "A label for the \"Mosquito\" symbol."
+msgid "Mosquito"
+msgstr "Mosquito"
+
+msgctxt "A label for the \"Fly\" symbol."
+msgid "Fly"
+msgstr "Fly"
+
+msgctxt "A label for the \"Worm\" symbol."
+msgid "Worm"
+msgstr "Worm"
+
+msgctxt "A label for the \"Microbe\" symbol."
+msgid "Microbe"
+msgstr "Microbe"
+
+msgctxt "A label for the \"Bouquet\" symbol."
+msgid "Bouquet"
+msgstr "Bouquet"
+
+msgctxt "A label for the \"Cherry Blossom\" symbol."
+msgid "Cherry Blossom"
+msgstr "Cherry Blossom"
+
+msgctxt "A label for the \"White Flower\" symbol."
+msgid "White Flower"
+msgstr "White Flower"
+
+msgctxt "A label for the \"Rosette\" symbol."
+msgid "Rosette"
+msgstr "Rosette"
+
+msgctxt "A label for the \"Rose\" symbol."
+msgid "Rose"
+msgstr "Rose"
+
+msgctxt "A label for the \"Wilted Flower\" symbol."
+msgid "Wilted Flower"
+msgstr "Wilted Flower"
+
+msgctxt "A label for the \"Hibiscus\" symbol."
+msgid "Hibiscus"
+msgstr "Hibiscus"
+
+msgctxt "A label for the \"Sunflower\" symbol."
+msgid "Sunflower"
+msgstr "Sunflower"
+
+msgctxt "A label for the \"Blossom\" symbol."
+msgid "Blossom"
+msgstr "Blossom"
+
+msgctxt "A label for the \"Tulip\" symbol."
+msgid "Tulip"
+msgstr "Tulip"
+
+msgctxt "A label for the \"Seedling\" symbol."
+msgid "Seedling"
+msgstr "Seedling"
+
+msgctxt "A label for the \"Potted Plant\" symbol."
+msgid "Potted Plant"
+msgstr "Potted Plant"
+
+msgctxt "A label for the \"Evergreen Tree\" symbol."
+msgid "Evergreen Tree"
+msgstr "Evergreen Tree"
+
+msgctxt "A label for the \"Deciduous Tree\" symbol."
+msgid "Deciduous Tree"
+msgstr "Deciduous Tree"
+
+msgctxt "A label for the \"Palm Tree\" symbol."
+msgid "Palm Tree"
+msgstr "Palm Tree"
+
+msgctxt "A label for the \"Cactus\" symbol."
+msgid "Cactus"
+msgstr "Cactus"
+
+msgctxt "A label for the \"Sheaf of Rice\" symbol."
+msgid "Sheaf of Rice"
+msgstr "Sheaf of Rice"
+
+msgctxt "A label for the \"Herb\" symbol."
+msgid "Herb"
+msgstr "Herb"
+
+msgctxt "A label for the \"Shamrock\" symbol."
+msgid "Shamrock"
+msgstr "Shamrock"
+
+msgctxt "A label for the \"Four Leaf Clover\" symbol."
+msgid "Four Leaf Clover"
+msgstr "Four Leaf Clover"
+
+msgctxt "A label for the \"Maple Leaf\" symbol."
+msgid "Maple Leaf"
+msgstr "Maple Leaf"
+
+msgctxt "A label for the \"Fallen Leaf\" symbol."
+msgid "Fallen Leaf"
+msgstr "Fallen Leaf"
+
+msgctxt "A label for the \"Leaf Fluttering in Wind\" symbol."
+msgid "Leaf Fluttering in Wind"
+msgstr "Leaf Fluttering in Wind"
+
+msgctxt "A label for the \"Mushroom\" symbol."
+msgid "Mushroom"
+msgstr "Mushroom"
+
+msgctxt "A label for the \"Chestnut\" symbol."
+msgid "Chestnut"
+msgstr "Chestnut"
+
+msgctxt "A label for the \"Crab\" symbol."
+msgid "Crab"
+msgstr "Crab"
+
+msgctxt "A label for the \"Lobster\" symbol."
+msgid "Lobster"
+msgstr "Lobster"
+
+msgctxt "A label for the \"Shrimp\" symbol."
+msgid "Shrimp"
+msgstr "Shrimp"
+
+msgctxt "A label for the \"Squid\" symbol."
+msgid "Squid"
+msgstr "Squid"
+
+msgctxt "A label for the \"Globe Showing Europe-Africa\" symbol."
+msgid "Globe Showing Europe-Africa"
+msgstr "Globe Showing Europe-Africa"
+
+msgctxt "A label for the \"Globe Showing Americas\" symbol."
+msgid "Globe Showing Americas"
+msgstr "Globe Showing Americas"
+
+msgctxt "A label for the \"Globe Showing Asia-Australia\" symbol."
+msgid "Globe Showing Asia-Australia"
+msgstr "Globe Showing Asia-Australia"
+
+msgctxt "A label for the \"Globe with Meridians\" symbol."
+msgid "Globe with Meridians"
+msgstr "Globe with Meridians"
+
+msgctxt "A label for the \"Rock\" symbol."
+msgid "Rock"
+msgstr "Rock"
+
+msgctxt "A label for the \"New Moon\" symbol."
+msgid "New Moon"
+msgstr "New Moon"
+
+msgctxt "A label for the \"Waxing Crescent Moon\" symbol."
+msgid "Waxing Crescent Moon"
+msgstr "Waxing Crescent Moon"
+
+msgctxt "A label for the \"Waxing Gibbous Moon\" symbol."
+msgid "Waxing Gibbous Moon"
+msgstr "Waxing Gibbous Moon"
+
+msgctxt "A label for the \"Full Moon\" symbol."
+msgid "Full Moon"
+msgstr "Full Moon"
+
+msgctxt "A label for the \"Waning Gibbous Moon\" symbol."
+msgid "Waning Gibbous Moon"
+msgstr "Waning Gibbous Moon"
+
+msgctxt "A label for the \"Last Quarter Moon\" symbol."
+msgid "Last Quarter Moon"
+msgstr "Last Quarter Moon"
+
+msgctxt "A label for the \"Waning Crescent Moon\" symbol."
+msgid "Waning Crescent Moon"
+msgstr "Waning Crescent Moon"
+
+msgctxt "A label for the \"Crescent Moon\" symbol."
+msgid "Crescent Moon"
+msgstr "Crescent Moon"
+
+msgctxt "A label for the \"New Moon Face\" symbol."
+msgid "New Moon Face"
+msgstr "New Moon Face"
+
+msgctxt "A label for the \"First Quarter Moon Face\" symbol."
+msgid "First Quarter Moon Face"
+msgstr "First Quarter Moon Face"
+
+msgctxt "A label for the \"Last Quarter Moon Face\" symbol."
+msgid "Last Quarter Moon Face"
+msgstr "Last Quarter Moon Face"
+
+msgctxt "A label for the \"Sun\" symbol."
+msgid "Sun"
+msgstr "Sun"
+
+msgctxt "A label for the \"Full Moon Face\" symbol."
+msgid "Full Moon Face"
+msgstr "Full Moon Face"
+
+msgctxt "A label for the \"Sun with Face\" symbol."
+msgid "Sun with Face"
+msgstr "Sun with Face"
+
+msgctxt "A label for the \"Star\" symbol."
+msgid "Star"
+msgstr "Star"
+
+msgctxt "A label for the \"Glowing Star\" symbol."
+msgid "Glowing Star"
+msgstr "Glowing Star"
+
+msgctxt "A label for the \"Shooting Star\" symbol."
+msgid "Shooting Star"
+msgstr "Shooting Star"
+
+msgctxt "A label for the \"Milky Way\" symbol."
+msgid "Milky Way"
+msgstr "Milky Way"
+
+msgctxt "A label for the \"Cloud\" symbol."
+msgid "Cloud"
+msgstr "Cloud"
+
+msgctxt "A label for the \"Sun Behind Cloud\" symbol."
+msgid "Sun Behind Cloud"
+msgstr "Sun Behind Cloud"
+
+msgctxt "A label for the \"Cloud with Lightning\" symbol."
+msgid "Cloud with Lightning"
+msgstr "Cloud with Lightning"
+
+msgctxt "A label for the \"Tornado\" symbol."
+msgid "Tornado"
+msgstr "Tornado"
+
+msgctxt "A label for the \"Fog\" symbol."
+msgid "Fog"
+msgstr "Fog"
+
+msgctxt "A label for the \"Wind Face\" symbol."
+msgid "Wind Face"
+msgstr "Wind Face"
+
+msgctxt "A label for the \"Cyclone\" symbol."
+msgid "Cyclone"
+msgstr "Cyclone"
+
+msgctxt "A label for the \"Rainbow\" symbol."
+msgid "Rainbow"
+msgstr "Rainbow"
+
+msgctxt "A label for the \"Umbrella\" symbol."
+msgid "Umbrella"
+msgstr "Umbrella"
+
+msgctxt "A label for the \"Umbrella with Rain Drops\" symbol."
+msgid "Umbrella with Rain Drops"
+msgstr "Umbrella with Rain Drops"
+
+msgctxt "A label for the \"High Voltage\" symbol."
+msgid "High Voltage"
+msgstr "High Voltage"
+
+msgctxt "A label for the \"Snowflake\" symbol."
+msgid "Snowflake"
+msgstr "Snowflake"
+
+msgctxt "A label for the \"Snowman\" symbol."
+msgid "Snowman"
+msgstr "Snowman"
+
+msgctxt "A label for the \"Snowman Without Snow\" symbol."
+msgid "Snowman Without Snow"
+msgstr "Snowman Without Snow"
+
+msgctxt "A label for the \"Comet\" symbol."
+msgid "Comet"
+msgstr "Comet"
+
+msgctxt "A label for the \"Fire\" symbol."
+msgid "Fire"
+msgstr "Fire"
+
+msgctxt "A label for the \"Droplet\" symbol."
+msgid "Droplet"
+msgstr "Droplet"
+
+msgctxt "A label for the \"Water Wave\" symbol."
+msgid "Water Wave"
+msgstr "Water Wave"
+
+msgctxt "A label for the \"Christmas Tree\" symbol."
+msgid "Christmas Tree"
+msgstr "Christmas Tree"
+
+msgctxt "A label for the \"Sparkles\" symbol."
+msgid "Sparkles"
+msgstr "Sparkles"
+
+msgctxt "A label for the \"Tanabata Tree\" symbol."
+msgid "Tanabata Tree"
+msgstr "Tanabata Tree"
+
+msgctxt "A label for the \"Pine Decoration\" symbol."
+msgid "Pine Decoration"
+msgstr "Pine Decoration"
+
+msgctxt "A label for the \"Love Letter\" symbol."
+msgid "Love Letter"
+msgstr "Love Letter"
+
+msgctxt "A label for the \"Hole\" symbol."
+msgid "Hole"
+msgstr "Hole"
+
+msgctxt "A label for the \"Bomb\" symbol."
+msgid "Bomb"
+msgstr "Bomb"
+
+msgctxt "A label for the \"Person Taking Bath\" symbol."
+msgid "Person Taking Bath"
+msgstr "Person Taking Bath"
+
+msgctxt "A label for the \"Person in Bed\" symbol."
+msgid "Person in Bed"
+msgstr "Person in Bed"
+
+msgctxt "A label for the \"Kitchen Knife\" symbol."
+msgid "Kitchen Knife"
+msgstr "Kitchen Knife"
+
+msgctxt "A label for the \"Amphora\" symbol."
+msgid "Amphora"
+msgstr "Amphora"
+
+msgctxt "A label for the \"World Map\" symbol."
+msgid "World Map"
+msgstr "World Map"
+
+msgctxt "A label for the \"Compass\" symbol."
+msgid "Compass"
+msgstr "Compass"
+
+msgctxt "A label for the \"Brick\" symbol."
+msgid "Brick"
+msgstr "Brick"
+
+msgctxt "A label for the \"Barber Pole\" symbol."
+msgid "Barber Pole"
+msgstr "Barber Pole"
+
+msgctxt "A label for the \"Manual Wheelchair\" symbol."
+msgid "Manual Wheelchair"
+msgstr "Manual Wheelchair"
+
+msgctxt "A label for the \"Motorized Wheelchair\" symbol."
+msgid "Motorized Wheelchair"
+msgstr "Motorized Wheelchair"
+
+msgctxt "A label for the \"Oil Drum\" symbol."
+msgid "Oil Drum"
+msgstr "Oil Drum"
+
+msgctxt "A label for the \"Bellhop Bell\" symbol."
+msgid "Bellhop Bell"
+msgstr "Bellhop Bell"
+
+msgctxt "A label for the \"Luggage\" symbol."
+msgid "Luggage"
+msgstr "Luggage"
+
+msgctxt "A label for the \"Hourglass Done\" symbol."
+msgid "Hourglass Done"
+msgstr "Hourglass Done"
+
+msgctxt "A label for the \"Hourglass Not Done\" symbol."
+msgid "Hourglass Not Done"
+msgstr "Hourglass Not Done"
+
+msgctxt "A label for the \"Watch\" symbol."
+msgid "Watch"
+msgstr "Watch"
+
+msgctxt "A label for the \"Alarm Clock\" symbol."
+msgid "Alarm Clock"
+msgstr "Alarm Clock"
+
+msgctxt "A label for the \"Stopwatch\" symbol."
+msgid "Stopwatch"
+msgstr "Stopwatch"
+
+msgctxt "A label for the \"Timer Clock\" symbol."
+msgid "Timer Clock"
+msgstr "Timer Clock"
+
+msgctxt "A label for the \"Mantelpiece Clock\" symbol."
+msgid "Mantelpiece Clock"
+msgstr "Mantelpiece Clock"
+
+msgctxt "A label for the \"Thermometer\" symbol."
+msgid "Thermometer"
+msgstr "Thermometer"
+
+msgctxt "A label for the \"Umbrella on Ground\" symbol."
+msgid "Umbrella on Ground"
+msgstr "Umbrella on Ground"
+
+msgctxt "A label for the \"Firecracker\" symbol."
+msgid "Firecracker"
+msgstr "Firecracker"
+
+msgctxt "A label for the \"Balloon\" symbol."
+msgid "Balloon"
+msgstr "Balloon"
+
+msgctxt "A label for the \"Party Popper\" symbol."
+msgid "Party Popper"
+msgstr "Party Popper"
+
+msgctxt "A label for the \"Confetti Ball\" symbol."
+msgid "Confetti Ball"
+msgstr "Confetti Ball"
+
+msgctxt "A label for the \"Japanese Dolls\" symbol."
+msgid "Japanese Dolls"
+msgstr "Japanese Dolls"
+
+msgctxt "A label for the \"Carp Streamer\" symbol."
+msgid "Carp Streamer"
+msgstr "Carp Streamer"
+
+msgctxt "A label for the \"Wind Chime\" symbol."
+msgid "Wind Chime"
+msgstr "Wind Chime"
+
+msgctxt "A label for the \"Red Envelope\" symbol."
+msgid "Red Envelope"
+msgstr "Red Envelope"
+
+msgctxt "A label for the \"Ribbon\" symbol."
+msgid "Ribbon"
+msgstr "Ribbon"
+
+msgctxt "A label for the \"Wrapped Gift\" symbol."
+msgid "Wrapped Gift"
+msgstr "Wrapped Gift"
+
+msgctxt "A label for the \"Diving Mask\" symbol."
+msgid "Diving Mask"
+msgstr "Diving Mask"
+
+msgctxt "A label for the \"Yo-Yo\" symbol."
+msgid "Yo-Yo"
+msgstr "Yo-Yo"
+
+msgctxt "A label for the \"Kite\" symbol."
+msgid "Kite"
+msgstr "Kite"
+
+msgctxt "A label for the \"Crystal Ball\" symbol."
+msgid "Crystal Ball"
+msgstr "Crystal Ball"
+
+msgctxt "A label for the \"Magic Wand\" symbol."
+msgid "Magic Wand"
+msgstr "Magic Wand"
+
+msgctxt "A label for the \"Nazar Amulet\" symbol."
+msgid "Nazar Amulet"
+msgstr "Nazar Amulet"
+
+msgctxt "A label for the \"Joystick\" symbol."
+msgid "Joystick"
+msgstr "Joystick"
+
+msgctxt "A label for the \"Teddy Bear\" symbol."
+msgid "Teddy Bear"
+msgstr "Teddy Bear"
+
+msgctxt "A label for the \"Piñata\" symbol."
+msgid "Piñata"
+msgstr "Piñata"
+
+msgctxt "A label for the \"Nesting Dolls\" symbol."
+msgid "Nesting Dolls"
+msgstr "Nesting Dolls"
+
+msgctxt "A label for the \"Framed Picture\" symbol."
+msgid "Framed Picture"
+msgstr "Framed Picture"
+
+msgctxt "A label for the \"Thread\" symbol."
+msgid "Thread"
+msgstr "Thread"
+
+msgctxt "A label for the \"Sewing Needle\" symbol."
+msgid "Sewing Needle"
+msgstr "Sewing Needle"
+
+msgctxt "A label for the \"Yarn\" symbol."
+msgid "Yarn"
+msgstr "Yarn"
+
+msgctxt "A label for the \"Knot\" symbol."
+msgid "Knot"
+msgstr "Knot"
+
+msgctxt "A label for the \"Shopping Bags\" symbol."
+msgid "Shopping Bags"
+msgstr "Shopping Bags"
+
+msgctxt "A label for the \"Prayer Beads\" symbol."
+msgid "Prayer Beads"
+msgstr "Prayer Beads"
+
+msgctxt "A label for the \"Gem Stone\" symbol."
+msgid "Gem Stone"
+msgstr "Gem Stone"
+
+msgctxt "A label for the \"Postal Horn\" symbol."
+msgid "Postal Horn"
+msgstr "Postal Horn"
+
+msgctxt "A label for the \"Studio Microphone\" symbol."
+msgid "Studio Microphone"
+msgstr "Studio Microphone"
+
+msgctxt "A label for the \"Level Slider\" symbol."
+msgid "Level Slider"
+msgstr "Level Slider"
+
+msgctxt "A label for the \"Control Knobs\" symbol."
+msgid "Control Knobs"
+msgstr "Control Knobs"
+
+msgctxt "A label for the \"Radio\" symbol."
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt "A label for the \"Banjo\" symbol."
+msgid "Banjo"
+msgstr "Banjo"
+
+msgctxt "A label for the \"Mobile Phone\" symbol."
+msgid "Mobile Phone"
+msgstr "Mobile Phone"
+
+msgctxt "A label for the \"Mobile Phone with Arrow\" symbol."
+msgid "Mobile Phone with Arrow"
+msgstr "Mobile Phone with Arrow"
+
+msgctxt "A label for the \"Telephone\" symbol."
+msgid "Telephone"
+msgstr "Telephone"
+
+msgctxt "A label for the \"Telephone Receiver\" symbol."
+msgid "Telephone Receiver"
+msgstr "Telephone Receiver"
+
+msgctxt "A label for the \"Pager\" symbol."
+msgid "Pager"
+msgstr "Pager"
+
+msgctxt "A label for the \"Fax Machine\" symbol."
+msgid "Fax Machine"
+msgstr "Fax Machine"
+
+msgctxt "A label for the \"Battery\" symbol."
+msgid "Battery"
+msgstr "Battery"
+
+msgctxt "A label for the \"Electric Plug\" symbol."
+msgid "Electric Plug"
+msgstr "Electric Plug"
+
+msgctxt "A label for the \"Laptop\" symbol."
+msgid "Laptop"
+msgstr "Laptop"
+
+msgctxt "A label for the \"Desktop Computer\" symbol."
+msgid "Desktop Computer"
+msgstr "Desktop Computer"
+
+msgctxt "A label for the \"Printer\" symbol."
+msgid "Printer"
+msgstr "Printer"
+
+msgctxt "A label for the \"Keyboard\" symbol."
+msgid "Keyboard"
+msgstr "Keyboard"
+
+msgctxt "A label for the \"Computer Mouse\" symbol."
+msgid "Computer Mouse"
+msgstr "Computer Mouse"
+
+msgctxt "A label for the \"Trackball\" symbol."
+msgid "Trackball"
+msgstr "Trackball"
+
+msgctxt "A label for the \"Computer Disk\" symbol."
+msgid "Computer Disk"
+msgstr "Computer Disk"
+
+msgctxt "A label for the \"Floppy Disk\" symbol."
+msgid "Floppy Disk"
+msgstr "Floppy Disk"
+
+msgctxt "A label for the \"Optical Disk\" symbol."
+msgid "Optical Disk"
+msgstr "Optical Disk"
+
+msgctxt "A label for the \"DVD\" symbol."
+msgid "DVD"
+msgstr "DVD"
+
+msgctxt "A label for the \"Abacus\" symbol."
+msgid "Abacus"
+msgstr "Abacus"
+
+msgctxt "A label for the \"Movie Camera\" symbol."
+msgid "Movie Camera"
+msgstr "Movie Camera"
+
+msgctxt "A label for the \"Film Frames\" symbol."
+msgid "Film Frames"
+msgstr "Film Frames"
+
+msgctxt "A label for the \"Film Projector\" symbol."
+msgid "Film Projector"
+msgstr "Film Projector"
+
+msgctxt "A label for the \"Television\" symbol."
+msgid "Television"
+msgstr "Television"
+
+msgctxt "A label for the \"Camera\" symbol."
+msgid "Camera"
+msgstr "Camera"
+
+msgctxt "A label for the \"Camera with Flash\" symbol."
+msgid "Camera with Flash"
+msgstr "Camera with Flash"
+
+msgctxt "A label for the \"Video Camera\" symbol."
+msgid "Video Camera"
+msgstr "Video Camera"
+
+msgctxt "A label for the \"Videocassette\" symbol."
+msgid "Videocassette"
+msgstr "Videocassette"
+
+msgctxt "A label for the \"Magnifying Glass Tilted Left\" symbol."
+msgid "Magnifying Glass Tilted Left"
+msgstr "Magnifying Glass Tilted Left"
+
+msgctxt "A label for the \"Magnifying Glass Tilted Right\" symbol."
+msgid "Magnifying Glass Tilted Right"
+msgstr "Magnifying Glass Tilted Right"
+
+msgctxt "A label for the \"Candle\" symbol."
+msgid "Candle"
+msgstr "Candle"
+
+msgctxt "A label for the \"Light Bulb\" symbol."
+msgid "Light Bulb"
+msgstr "Light Bulb"
+
+msgctxt "A label for the \"Flashlight\" symbol."
+msgid "Flashlight"
+msgstr "Flashlight"
+
+msgctxt "A label for the \"Red Paper Lantern\" symbol."
+msgid "Red Paper Lantern"
+msgstr "Red Paper Lantern"
+
+msgctxt "A label for the \"Diya Lamp\" symbol."
+msgid "Diya Lamp"
+msgstr "Diya Lamp"
+
+msgctxt "A label for the \"Notebook with Decorative Cover\" symbol."
+msgid "Notebook with Decorative Cover"
+msgstr "Notebook with Decorative Cover"
+
+msgctxt "A label for the \"Closed Book\" symbol."
+msgid "Closed Book"
+msgstr "Closed Book"
+
+msgctxt "A label for the \"Open Book\" symbol."
+msgid "Open Book"
+msgstr "Open Book"
+
+msgctxt "A label for the \"Green Book\" symbol."
+msgid "Green Book"
+msgstr "Green Book"
+
+msgctxt "A label for the \"Blue Book\" symbol."
+msgid "Blue Book"
+msgstr "Blue Book"
+
+msgctxt "A label for the \"Orange Book\" symbol."
+msgid "Orange Book"
+msgstr "Orange Book"
+
+msgctxt "A label for the \"Books\" symbol."
+msgid "Books"
+msgstr "Books"
+
+msgctxt "A label for the \"Notebook\" symbol."
+msgid "Notebook"
+msgstr "Notebook"
+
+msgctxt "A label for the \"Ledger\" symbol."
+msgid "Ledger"
+msgstr "Ledger"
+
+msgctxt "A label for the \"Page with Curl\" symbol."
+msgid "Page with Curl"
+msgstr "Page with Curl"
+
+msgctxt "A label for the \"Scroll\" symbol."
+msgid "Scroll"
+msgstr "Scroll"
+
+msgctxt "A label for the \"Page Facing Up\" symbol."
+msgid "Page Facing Up"
+msgstr "Page Facing Up"
+
+msgctxt "A label for the \"Newspaper\" symbol."
+msgid "Newspaper"
+msgstr "Newspaper"
+
+msgctxt "A label for the \"Rolled-Up Newspaper\" symbol."
+msgid "Rolled-Up Newspaper"
+msgstr "Rolled-Up Newspaper"
+
+msgctxt "A label for the \"Bookmark Tabs\" symbol."
+msgid "Bookmark Tabs"
+msgstr "Bookmark Tabs"
+
+msgctxt "A label for the \"Bookmark\" symbol."
+msgid "Bookmark"
+msgstr "Bookmark"
+
+msgctxt "A label for the \"Label\" symbol."
+msgid "Label"
+msgstr "Label"
+
+msgctxt "A label for the \"Money Bag\" symbol."
+msgid "Money Bag"
+msgstr "Money Bag"
+
+msgctxt "A label for the \"Coin\" symbol."
+msgid "Coin"
+msgstr "Coin"
+
+msgctxt "A label for the \"Yen Banknote\" symbol."
+msgid "Yen Banknote"
+msgstr "Yen Banknote"
+
+msgctxt "A label for the \"Dollar Banknote\" symbol."
+msgid "Dollar Banknote"
+msgstr "Dollar Banknote"
+
+msgctxt "A label for the \"Euro Banknote\" symbol."
+msgid "Euro Banknote"
+msgstr "Euro Banknote"
+
+msgctxt "A label for the \"Pound Banknote\" symbol."
+msgid "Pound Banknote"
+msgstr "Pound Banknote"
+
+msgctxt "A label for the \"Money with Wings\" symbol."
+msgid "Money with Wings"
+msgstr "Money with Wings"
+
+msgctxt "A label for the \"Credit Card\" symbol."
+msgid "Credit Card"
+msgstr "Credit Card"
+
+msgctxt "A label for the \"Receipt\" symbol."
+msgid "Receipt"
+msgstr "Receipt"
+
+msgctxt "A label for the \"Envelope\" symbol."
+msgid "Envelope"
+msgstr "Envelope"
+
+msgctxt "A label for the \"E-Mail\" symbol."
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgctxt "A label for the \"Incoming Envelope\" symbol."
+msgid "Incoming Envelope"
+msgstr "Incoming Envelope"
+
+msgctxt "A label for the \"Envelope with Arrow\" symbol."
+msgid "Envelope with Arrow"
+msgstr "Envelope with Arrow"
+
+msgctxt "A label for the \"Outbox Tray\" symbol."
+msgid "Outbox Tray"
+msgstr "Outbox Tray"
+
+msgctxt "A label for the \"Inbox Tray\" symbol."
+msgid "Inbox Tray"
+msgstr "Inbox Tray"
+
+msgctxt "A label for the \"Package\" symbol."
+msgid "Package"
+msgstr "Package"
+
+msgctxt "A label for the \"Closed Mailbox with Raised Flag\" symbol."
+msgid "Closed Mailbox with Raised Flag"
+msgstr "Closed Mailbox with Raised Flag"
+
+msgctxt "A label for the \"Closed Mailbox with Lowered Flag\" symbol."
+msgid "Closed Mailbox with Lowered Flag"
+msgstr "Closed Mailbox with Lowered Flag"
+
+msgctxt "A label for the \"Open Mailbox with Raised Flag\" symbol."
+msgid "Open Mailbox with Raised Flag"
+msgstr "Open Mailbox with Raised Flag"
+
+msgctxt "A label for the \"Open Mailbox with Lowered Flag\" symbol."
+msgid "Open Mailbox with Lowered Flag"
+msgstr "Open Mailbox with Lowered Flag"
+
+msgctxt "A label for the \"Postbox\" symbol."
+msgid "Postbox"
+msgstr "Postbox"
+
+msgctxt "A label for the \"Ballot Box with Ballot\" symbol."
+msgid "Ballot Box with Ballot"
+msgstr "Ballot Box with Ballot"
+
+msgctxt "A label for the \"Pencil\" symbol."
+msgid "Pencil"
+msgstr "Pencil"
+
+msgctxt "A label for the \"Black Nib\" symbol."
+msgid "Black Nib"
+msgstr "Black Nib"
+
+msgctxt "A label for the \"Fountain Pen\" symbol."
+msgid "Fountain Pen"
+msgstr "Fountain Pen"
+
+msgctxt "A label for the \"Pen\" symbol."
+msgid "Pen"
+msgstr "Pen"
+
+msgctxt "A label for the \"Paintbrush\" symbol."
+msgid "Paintbrush"
+msgstr "Paintbrush"
+
+msgctxt "A label for the \"Crayon\" symbol."
+msgid "Crayon"
+msgstr "Crayon"
+
+msgctxt "A label for the \"Memo\" symbol."
+msgid "Memo"
+msgstr "Memo"
+
+msgctxt "A label for the \"File Folder\" symbol."
+msgid "File Folder"
+msgstr "File Folder"
+
+msgctxt "A label for the \"Open File Folder\" symbol."
+msgid "Open File Folder"
+msgstr "Open File Folder"
+
+msgctxt "A label for the \"Card Index Dividers\" symbol."
+msgid "Card Index Dividers"
+msgstr "Card Index Dividers"
+
+msgctxt "A label for the \"Calendar\" symbol."
+msgid "Calendar"
+msgstr "Calendar"
+
+msgctxt "A label for the \"Tear-Off Calendar\" symbol."
+msgid "Tear-Off Calendar"
+msgstr "Tear-Off Calendar"
+
+msgctxt "A label for the \"Spiral Notepad\" symbol."
+msgid "Spiral Notepad"
+msgstr "Spiral Notepad"
+
+msgctxt "A label for the \"Spiral Calendar\" symbol."
+msgid "Spiral Calendar"
+msgstr "Spiral Calendar"
+
+msgctxt "A label for the \"Card Index\" symbol."
+msgid "Card Index"
+msgstr "Card Index"
+
+msgctxt "A label for the \"Chart Increasing\" symbol."
+msgid "Chart Increasing"
+msgstr "Chart Increasing"
+
+msgctxt "A label for the \"Chart Decreasing\" symbol."
+msgid "Chart Decreasing"
+msgstr "Chart Decreasing"
+
+msgctxt "A label for the \"Bar Chart\" symbol."
+msgid "Bar Chart"
+msgstr "Bar Chart"
+
+msgctxt "A label for the \"Clipboard\" symbol."
+msgid "Clipboard"
+msgstr "Clipboard"
+
+msgctxt "A label for the \"Pushpin\" symbol."
+msgid "Pushpin"
+msgstr "Pushpin"
+
+msgctxt "A label for the \"Round Pushpin\" symbol."
+msgid "Round Pushpin"
+msgstr "Round Pushpin"
+
+msgctxt "A label for the \"Paperclip\" symbol."
+msgid "Paperclip"
+msgstr "Paperclip"
+
+msgctxt "A label for the \"Linked Paperclips\" symbol."
+msgid "Linked Paperclips"
+msgstr "Linked Paperclips"
+
+msgctxt "A label for the \"Straight Ruler\" symbol."
+msgid "Straight Ruler"
+msgstr "Straight Ruler"
+
+msgctxt "A label for the \"Triangular Ruler\" symbol."
+msgid "Triangular Ruler"
+msgstr "Triangular Ruler"
+
+msgctxt "A label for the \"Scissors\" symbol."
+msgid "Scissors"
+msgstr "Scissors"
+
+msgctxt "A label for the \"Card File Box\" symbol."
+msgid "Card File Box"
+msgstr "Card File Box"
+
+msgctxt "A label for the \"File Cabinet\" symbol."
+msgid "File Cabinet"
+msgstr "File Cabinet"
+
+msgctxt "A label for the \"Wastebasket\" symbol."
+msgid "Wastebasket"
+msgstr "Wastebasket"
+
+msgctxt "A label for the \"Lock\" symbol."
+msgid "Lock"
+msgstr "Lock"
+
+msgctxt "A label for the \"Open Lock\" symbol."
+msgid "Open Lock"
+msgstr "Open Lock"
+
+msgctxt "A label for the \"Locked with Pen\" symbol."
+msgid "Locked with Pen"
+msgstr "Locked with Pen"
+
+msgctxt "A label for the \"Locked with Key\" symbol."
+msgid "Locked with Key"
+msgstr "Locked with Key"
+
+msgctxt "A label for the \"Key\" symbol."
+msgid "Key"
+msgstr "Key"
+
+msgctxt "A label for the \"Old Key\" symbol."
+msgid "Old Key"
+msgstr "Old Key"
+
+msgctxt "A label for the \"Hammer\" symbol."
+msgid "Hammer"
+msgstr "Hammer"
+
+msgctxt "A label for the \"Axe\" symbol."
+msgid "Axe"
+msgstr "Axe"
+
+msgctxt "A label for the \"Pick\" symbol."
+msgid "Pick"
+msgstr "Pick"
+
+msgctxt "A label for the \"Hammer and Pick\" symbol."
+msgid "Hammer and Pick"
+msgstr "Hammer and Pick"
+
+msgctxt "A label for the \"Hammer and Wrench\" symbol."
+msgid "Hammer and Wrench"
+msgstr "Hammer and Wrench"
+
+msgctxt "A label for the \"Dagger\" symbol."
+msgid "Dagger"
+msgstr "Dagger"
+
+msgctxt "A label for the \"Crossed Swords\" symbol."
+msgid "Crossed Swords"
+msgstr "Crossed Swords"
+
+msgctxt "A label for the \"Pistol\" symbol."
+msgid "Pistol"
+msgstr "Pistol"
+
+msgctxt "A label for the \"Boomerang\" symbol."
+msgid "Boomerang"
+msgstr "Boomerang"
+
+msgctxt "A label for the \"Bow and Arrow\" symbol."
+msgid "Bow and Arrow"
+msgstr "Bow and Arrow"
+
+msgctxt "A label for the \"Shield\" symbol."
+msgid "Shield"
+msgstr "Shield"
+
+msgctxt "A label for the \"Carpentry Saw\" symbol."
+msgid "Carpentry Saw"
+msgstr "Carpentry Saw"
+
+msgctxt "A label for the \"Wrench\" symbol."
+msgid "Wrench"
+msgstr "Wrench"
+
+msgctxt "A label for the \"Screwdriver\" symbol."
+msgid "Screwdriver"
+msgstr "Screwdriver"
+
+msgctxt "A label for the \"Nut and Bolt\" symbol."
+msgid "Nut and Bolt"
+msgstr "Nut and Bolt"
+
+msgctxt "A label for the \"Gear\" symbol."
+msgid "Gear"
+msgstr "Gear"
+
+msgctxt "A label for the \"Clamp\" symbol."
+msgid "Clamp"
+msgstr "Clamp"
+
+msgctxt "A label for the \"Balance Scale\" symbol."
+msgid "Balance Scale"
+msgstr "Balance Scale"
+
+msgctxt "A label for the \"Link\" symbol."
+msgid "Link"
+msgstr "Link"
+
+msgctxt "A label for the \"Chains\" symbol."
+msgid "Chains"
+msgstr "Chains"
+
+msgctxt "A label for the \"Hook\" symbol."
+msgid "Hook"
+msgstr "Hook"
+
+msgctxt "A label for the \"Toolbox\" symbol."
+msgid "Toolbox"
+msgstr "Toolbox"
+
+msgctxt "A label for the \"Magnet\" symbol."
+msgid "Magnet"
+msgstr "Magnet"
+
+msgctxt "A label for the \"Ladder\" symbol."
+msgid "Ladder"
+msgstr "Ladder"
+
+msgctxt "A label for the \"Alembic\" symbol."
+msgid "Alembic"
+msgstr "Alembic"
+
+msgctxt "A label for the \"Test Tube\" symbol."
+msgid "Test Tube"
+msgstr "Test Tube"
+
+msgctxt "A label for the \"Petri Dish\" symbol."
+msgid "Petri Dish"
+msgstr "Petri Dish"
+
+msgctxt "A label for the \"Dna\" symbol."
+msgid "Dna"
+msgstr "Dna"
+
+msgctxt "A label for the \"Microscope\" symbol."
+msgid "Microscope"
+msgstr "Microscope"
+
+msgctxt "A label for the \"Telescope\" symbol."
+msgid "Telescope"
+msgstr "Telescope"
+
+msgctxt "A label for the \"Satellite Antenna\" symbol."
+msgid "Satellite Antenna"
+msgstr "Satellite Antenna"
+
+msgctxt "A label for the \"Syringe\" symbol."
+msgid "Syringe"
+msgstr "Syringe"
+
+msgctxt "A label for the \"Drop of Blood\" symbol."
+msgid "Drop of Blood"
+msgstr "Drop of Blood"
+
+msgctxt "A label for the \"Pill\" symbol."
+msgid "Pill"
+msgstr "Pill"
+
+msgctxt "A label for the \"Adhesive Bandage\" symbol."
+msgid "Adhesive Bandage"
+msgstr "Adhesive Bandage"
+
+msgctxt "A label for the \"Stethoscope\" symbol."
+msgid "Stethoscope"
+msgstr "Stethoscope"
+
+msgctxt "A label for the \"Door\" symbol."
+msgid "Door"
+msgstr "Door"
+
+msgctxt "A label for the \"Elevator\" symbol."
+msgid "Elevator"
+msgstr "Elevator"
+
+msgctxt "A label for the \"Mirror\" symbol."
+msgid "Mirror"
+msgstr "Mirror"
+
+msgctxt "A label for the \"Window\" symbol."
+msgid "Window"
+msgstr "Window"
+
+msgctxt "A label for the \"Bed\" symbol."
+msgid "Bed"
+msgstr "Bed"
+
+msgctxt "A label for the \"Couch and Lamp\" symbol."
+msgid "Couch and Lamp"
+msgstr "Couch and Lamp"
+
+msgctxt "A label for the \"Chair\" symbol."
+msgid "Chair"
+msgstr "Chair"
+
+msgctxt "A label for the \"Toilet\" symbol."
+msgid "Toilet"
+msgstr "Toilet"
+
+msgctxt "A label for the \"Shower\" symbol."
+msgid "Shower"
+msgstr "Shower"
+
+msgctxt "A label for the \"Bathtub\" symbol."
+msgid "Bathtub"
+msgstr "Bathtub"
+
+msgctxt "A label for the \"Razor\" symbol."
+msgid "Razor"
+msgstr "Razor"
+
+msgctxt "A label for the \"Lotion Bottle\" symbol."
+msgid "Lotion Bottle"
+msgstr "Lotion Bottle"
+
+msgctxt "A label for the \"Safety Pin\" symbol."
+msgid "Safety Pin"
+msgstr "Safety Pin"
+
+msgctxt "A label for the \"Broom\" symbol."
+msgid "Broom"
+msgstr "Broom"
+
+msgctxt "A label for the \"Basket\" symbol."
+msgid "Basket"
+msgstr "Basket"
+
+msgctxt "A label for the \"Roll of Toilet Paper\" symbol."
+msgid "Roll of Toilet Paper"
+msgstr "Roll of Toilet Paper"
+
+msgctxt "A label for the \"Soap\" symbol."
+msgid "Soap"
+msgstr "Soap"
+
+msgctxt "A label for the \"Toothbrush\" symbol."
+msgid "Toothbrush"
+msgstr "Toothbrush"
+
+msgctxt "A label for the \"Sponge\" symbol."
+msgid "Sponge"
+msgstr "Sponge"
+
+msgctxt "A label for the \"Fire Extinguisher\" symbol."
+msgid "Fire Extinguisher"
+msgstr "Fire Extinguisher"
+
+msgctxt "A label for the \"Shopping Cart\" symbol."
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+msgctxt "A label for the \"Cigarette\" symbol."
+msgid "Cigarette"
+msgstr "Cigarette"
+
+msgctxt "A label for the \"Coffin\" symbol."
+msgid "Coffin"
+msgstr "Coffin"
+
+msgctxt "A label for the \"Headstone\" symbol."
+msgid "Headstone"
+msgstr "Headstone"
+
+msgctxt "A label for the \"Funeral Urn\" symbol."
+msgid "Funeral Urn"
+msgstr "Funeral Urn"
+
+msgctxt "A label for the \"Moai\" symbol."
+msgid "Moai"
+msgstr "Moai"
+
+msgctxt "A label for the \"Placard\" symbol."
+msgid "Placard"
+msgstr "Placard"
+
+msgctxt "A label for the \"Potable Water\" symbol."
+msgid "Potable Water"
+msgstr "Potable Water"
+
+msgctxt "A label for the \"Grinning Face\" symbol."
+msgid "Grinning Face"
+msgstr "Grinning Face"
+
+msgctxt "A label for the \"Grinning Face with Big Eyes\" symbol."
+msgid "Grinning Face with Big Eyes"
+msgstr "Grinning Face with Big Eyes"
+
+msgctxt "A label for the \"Grinning Face with Smiling Eyes\" symbol."
+msgid "Grinning Face with Smiling Eyes"
+msgstr "Grinning Face with Smiling Eyes"
+
+msgctxt "A label for the \"Beaming Face with Smiling Eyes\" symbol."
+msgid "Beaming Face with Smiling Eyes"
+msgstr "Beaming Face with Smiling Eyes"
+
+msgctxt "A label for the \"Grinning Squinting Face\" symbol."
+msgid "Grinning Squinting Face"
+msgstr "Grinning Squinting Face"
+
+msgctxt "A label for the \"Grinning Face with Sweat\" symbol."
+msgid "Grinning Face with Sweat"
+msgstr "Grinning Face with Sweat"
+
+msgctxt "A label for the \"Rolling on the Floor Laughing\" symbol."
+msgid "Rolling on the Floor Laughing"
+msgstr "Rolling on the Floor Laughing"
+
+msgctxt "A label for the \"Face with Tears of Joy\" symbol."
+msgid "Face with Tears of Joy"
+msgstr "Face with Tears of Joy"
+
+msgctxt "A label for the \"Slightly Smiling Face\" symbol."
+msgid "Slightly Smiling Face"
+msgstr "Slightly Smiling Face"
+
+msgctxt "A label for the \"Upside-Down Face\" symbol."
+msgid "Upside-Down Face"
+msgstr "Upside-Down Face"
+
+msgctxt "A label for the \"Winking Face\" symbol."
+msgid "Winking Face"
+msgstr "Winking Face"
+
+msgctxt "A label for the \"Smiling Face with Smiling Eyes\" symbol."
+msgid "Smiling Face with Smiling Eyes"
+msgstr "Smiling Face with Smiling Eyes"
+
+msgctxt "A label for the \"Smiling Face with Halo\" symbol."
+msgid "Smiling Face with Halo"
+msgstr "Smiling Face with Halo"
+
+msgctxt "A label for the \"Smiling Face with Hearts\" symbol."
+msgid "Smiling Face with Hearts"
+msgstr "Smiling Face with Hearts"
+
+msgctxt "A label for the \"Smiling Face with Heart-Eyes\" symbol."
+msgid "Smiling Face with Heart-Eyes"
+msgstr "Smiling Face with Heart-Eyes"
+
+msgctxt "A label for the \"Star-Struck\" symbol."
+msgid "Star-Struck"
+msgstr "Star-Struck"
+
+msgctxt "A label for the \"Face Blowing a Kiss\" symbol."
+msgid "Face Blowing a Kiss"
+msgstr "Face Blowing a Kiss"
+
+msgctxt "A label for the \"Kissing Face\" symbol."
+msgid "Kissing Face"
+msgstr "Kissing Face"
+
+msgctxt "A label for the \"Smiling Face\" symbol."
+msgid "Smiling Face"
+msgstr "Smiling Face"
+
+msgctxt "A label for the \"Kissing Face with Closed Eyes\" symbol."
+msgid "Kissing Face with Closed Eyes"
+msgstr "Kissing Face with Closed Eyes"
+
+msgctxt "A label for the \"Kissing Face with Smiling Eyes\" symbol."
+msgid "Kissing Face with Smiling Eyes"
+msgstr "Kissing Face with Smiling Eyes"
+
+msgctxt "A label for the \"Smiling Face with Tear\" symbol."
+msgid "Smiling Face with Tear"
+msgstr "Smiling Face with Tear"
+
+msgctxt "A label for the \"Face Savoring Food\" symbol."
+msgid "Face Savoring Food"
+msgstr "Face Savoring Food"
+
+msgctxt "A label for the \"Face with Tongue\" symbol."
+msgid "Face with Tongue"
+msgstr "Face with Tongue"
+
+msgctxt "A label for the \"Winking Face with Tongue\" symbol."
+msgid "Winking Face with Tongue"
+msgstr "Winking Face with Tongue"
+
+msgctxt "A label for the \"Zany Face\" symbol."
+msgid "Zany Face"
+msgstr "Zany Face"
+
+msgctxt "A label for the \"Squinting Face with Tongue\" symbol."
+msgid "Squinting Face with Tongue"
+msgstr "Squinting Face with Tongue"
+
+msgctxt "A label for the \"Money-Mouth Face\" symbol."
+msgid "Money-Mouth Face"
+msgstr "Money-Mouth Face"
+
+msgctxt "A label for the \"Hugging Face\" symbol."
+msgid "Hugging Face"
+msgstr "Hugging Face"
+
+msgctxt "A label for the \"Face with Hand Over Mouth\" symbol."
+msgid "Face with Hand Over Mouth"
+msgstr "Face with Hand Over Mouth"
+
+msgctxt "A label for the \"Shushing Face\" symbol."
+msgid "Shushing Face"
+msgstr "Shushing Face"
+
+msgctxt "A label for the \"Thinking Face\" symbol."
+msgid "Thinking Face"
+msgstr "Thinking Face"
+
+msgctxt "A label for the \"Zipper-Mouth Face\" symbol."
+msgid "Zipper-Mouth Face"
+msgstr "Zipper-Mouth Face"
+
+msgctxt "A label for the \"Face with Raised Eyebrow\" symbol."
+msgid "Face with Raised Eyebrow"
+msgstr "Face with Raised Eyebrow"
+
+msgctxt "A label for the \"Neutral Face\" symbol."
+msgid "Neutral Face"
+msgstr "Neutral Face"
+
+msgctxt "A label for the \"Expressionless Face\" symbol."
+msgid "Expressionless Face"
+msgstr "Expressionless Face"
+
+msgctxt "A label for the \"Face Without Mouth\" symbol."
+msgid "Face Without Mouth"
+msgstr "Face Without Mouth"
+
+msgctxt "A label for the \"Smirking Face\" symbol."
+msgid "Smirking Face"
+msgstr "Smirking Face"
+
+msgctxt "A label for the \"Unamused Face\" symbol."
+msgid "Unamused Face"
+msgstr "Unamused Face"
+
+msgctxt "A label for the \"Face with Rolling Eyes\" symbol."
+msgid "Face with Rolling Eyes"
+msgstr "Face with Rolling Eyes"
+
+msgctxt "A label for the \"Grimacing Face\" symbol."
+msgid "Grimacing Face"
+msgstr "Grimacing Face"
+
+msgctxt "A label for the \"Lying Face\" symbol."
+msgid "Lying Face"
+msgstr "Lying Face"
+
+msgctxt "A label for the \"Relieved Face\" symbol."
+msgid "Relieved Face"
+msgstr "Relieved Face"
+
+msgctxt "A label for the \"Pensive Face\" symbol."
+msgid "Pensive Face"
+msgstr "Pensive Face"
+
+msgctxt "A label for the \"Sleepy Face\" symbol."
+msgid "Sleepy Face"
+msgstr "Sleepy Face"
+
+msgctxt "A label for the \"Drooling Face\" symbol."
+msgid "Drooling Face"
+msgstr "Drooling Face"
+
+msgctxt "A label for the \"Sleeping Face\" symbol."
+msgid "Sleeping Face"
+msgstr "Sleeping Face"
+
+msgctxt "A label for the \"Face with Medical Mask\" symbol."
+msgid "Face with Medical Mask"
+msgstr "Face with Medical Mask"
+
+msgctxt "A label for the \"Face with Thermometer\" symbol."
+msgid "Face with Thermometer"
+msgstr "Face with Thermometer"
+
+msgctxt "A label for the \"Face with Head-Bandage\" symbol."
+msgid "Face with Head-Bandage"
+msgstr "Face with Head-Bandage"
+
+msgctxt "A label for the \"Nauseated Face\" symbol."
+msgid "Nauseated Face"
+msgstr "Nauseated Face"
+
+msgctxt "A label for the \"Face Vomiting\" symbol."
+msgid "Face Vomiting"
+msgstr "Face Vomiting"
+
+msgctxt "A label for the \"Sneezing Face\" symbol."
+msgid "Sneezing Face"
+msgstr "Sneezing Face"
+
+msgctxt "A label for the \"Hot Face\" symbol."
+msgid "Hot Face"
+msgstr "Hot Face"
+
+msgctxt "A label for the \"Cold Face\" symbol."
+msgid "Cold Face"
+msgstr "Cold Face"
+
+msgctxt "A label for the \"Woozy Face\" symbol."
+msgid "Woozy Face"
+msgstr "Woozy Face"
+
+msgctxt "A label for the \"Dizzy Face\" symbol."
+msgid "Dizzy Face"
+msgstr "Dizzy Face"
+
+msgctxt "A label for the \"Exploding Head\" symbol."
+msgid "Exploding Head"
+msgstr "Exploding Head"
+
+msgctxt "A label for the \"Cowboy Hat Face\" symbol."
+msgid "Cowboy Hat Face"
+msgstr "Cowboy Hat Face"
+
+msgctxt "A label for the \"Partying Face\" symbol."
+msgid "Partying Face"
+msgstr "Partying Face"
+
+msgctxt "A label for the \"Disguised Face\" symbol."
+msgid "Disguised Face"
+msgstr "Disguised Face"
+
+msgctxt "A label for the \"Smiling Face with Sunglasses\" symbol."
+msgid "Smiling Face with Sunglasses"
+msgstr "Smiling Face with Sunglasses"
+
+msgctxt "A label for the \"Nerd Face\" symbol."
+msgid "Nerd Face"
+msgstr "Nerd Face"
+
+msgctxt "A label for the \"Face with Monocle\" symbol."
+msgid "Face with Monocle"
+msgstr "Face with Monocle"
+
+msgctxt "A label for the \"Confused Face\" symbol."
+msgid "Confused Face"
+msgstr "Confused Face"
+
+msgctxt "A label for the \"Worried Face\" symbol."
+msgid "Worried Face"
+msgstr "Worried Face"
+
+msgctxt "A label for the \"Slightly Frowning Face\" symbol."
+msgid "Slightly Frowning Face"
+msgstr "Slightly Frowning Face"
+
+msgctxt "A label for the \"Frowning Face\" symbol."
+msgid "Frowning Face"
+msgstr "Frowning Face"
+
+msgctxt "A label for the \"Face with Open Mouth\" symbol."
+msgid "Face with Open Mouth"
+msgstr "Face with Open Mouth"
+
+msgctxt "A label for the \"Hushed Face\" symbol."
+msgid "Hushed Face"
+msgstr "Hushed Face"
+
+msgctxt "A label for the \"Astonished Face\" symbol."
+msgid "Astonished Face"
+msgstr "Astonished Face"
+
+msgctxt "A label for the \"Flushed Face\" symbol."
+msgid "Flushed Face"
+msgstr "Flushed Face"
+
+msgctxt "A label for the \"Pleading Face\" symbol."
+msgid "Pleading Face"
+msgstr "Pleading Face"
+
+msgctxt "A label for the \"Frowning Face with Open Mouth\" symbol."
+msgid "Frowning Face with Open Mouth"
+msgstr "Frowning Face with Open Mouth"
+
+msgctxt "A label for the \"Anguished Face\" symbol."
+msgid "Anguished Face"
+msgstr "Anguished Face"
+
+msgctxt "A label for the \"Fearful Face\" symbol."
+msgid "Fearful Face"
+msgstr "Fearful Face"
+
+msgctxt "A label for the \"Anxious Face with Sweat\" symbol."
+msgid "Anxious Face with Sweat"
+msgstr "Anxious Face with Sweat"
+
+msgctxt "A label for the \"Sad but Relieved Face\" symbol."
+msgid "Sad but Relieved Face"
+msgstr "Sad but Relieved Face"
+
+msgctxt "A label for the \"Crying Face\" symbol."
+msgid "Crying Face"
+msgstr "Crying Face"
+
+msgctxt "A label for the \"Loudly Crying Face\" symbol."
+msgid "Loudly Crying Face"
+msgstr "Loudly Crying Face"
+
+msgctxt "A label for the \"Face Screaming in Fear\" symbol."
+msgid "Face Screaming in Fear"
+msgstr "Face Screaming in Fear"
+
+msgctxt "A label for the \"Confounded Face\" symbol."
+msgid "Confounded Face"
+msgstr "Confounded Face"
+
+msgctxt "A label for the \"Persevering Face\" symbol."
+msgid "Persevering Face"
+msgstr "Persevering Face"
+
+msgctxt "A label for the \"Disappointed Face\" symbol."
+msgid "Disappointed Face"
+msgstr "Disappointed Face"
+
+msgctxt "A label for the \"Downcast Face with Sweat\" symbol."
+msgid "Downcast Face with Sweat"
+msgstr "Downcast Face with Sweat"
+
+msgctxt "A label for the \"Weary Face\" symbol."
+msgid "Weary Face"
+msgstr "Weary Face"
+
+msgctxt "A label for the \"Tired Face\" symbol."
+msgid "Tired Face"
+msgstr "Tired Face"
+
+msgctxt "A label for the \"Yawning Face\" symbol."
+msgid "Yawning Face"
+msgstr "Yawning Face"
+
+msgctxt "A label for the \"Face with Steam From Nose\" symbol."
+msgid "Face with Steam From Nose"
+msgstr "Face with Steam From Nose"
+
+msgctxt "A label for the \"Pouting Face\" symbol."
+msgid "Pouting Face"
+msgstr "Pouting Face"
+
+msgctxt "A label for the \"Angry Face\" symbol."
+msgid "Angry Face"
+msgstr "Angry Face"
+
+msgctxt "A label for the \"Face with Symbols on Mouth\" symbol."
+msgid "Face with Symbols on Mouth"
+msgstr "Face with Symbols on Mouth"
+
+msgctxt "A label for the \"Smiling Face with Horns\" symbol."
+msgid "Smiling Face with Horns"
+msgstr "Smiling Face with Horns"
+
+msgctxt "A label for the \"Angry Face with Horns\" symbol."
+msgid "Angry Face with Horns"
+msgstr "Angry Face with Horns"
+
+msgctxt "A label for the \"Skull\" symbol."
+msgid "Skull"
+msgstr "Skull"
+
+msgctxt "A label for the \"Skull and Crossbones\" symbol."
+msgid "Skull and Crossbones"
+msgstr "Skull and Crossbones"
+
+msgctxt "A label for the \"Pile of Poo\" symbol."
+msgid "Pile of Poo"
+msgstr "Pile of Poo"
+
+msgctxt "A label for the \"Clown Face\" symbol."
+msgid "Clown Face"
+msgstr "Clown Face"
+
+msgctxt "A label for the \"Ogre\" symbol."
+msgid "Ogre"
+msgstr "Ogre"
+
+msgctxt "A label for the \"Goblin\" symbol."
+msgid
+
+ "Goblin"
+msgstr "Goblin"
+
+msgctxt "A label for the \"Ghost\" symbol."
+msgid "Ghost"
+msgstr "Ghost"
+
+msgctxt "A label for the \"Alien\" symbol."
+msgid "Alien"
+msgstr "Alien"
+
+msgctxt "A label for the \"Alien Monster\" symbol."
+msgid "Alien Monster"
+msgstr "Alien Monster"
+
+msgctxt "A label for the \"Robot\" symbol."
+msgid "Robot"
+msgstr "Robot"
+
+msgctxt "A label for the \"Grinning Cat\" symbol."
+msgid "Grinning Cat"
+msgstr "Grinning Cat"
+
+msgctxt "A label for the \"Grinning Cat with Smiling Eyes\" symbol."
+msgid "Grinning Cat with Smiling Eyes"
+msgstr "Grinning Cat with Smiling Eyes"
+
+msgctxt "A label for the \"Cat with Tears of Joy\" symbol."
+msgid "Cat with Tears of Joy"
+msgstr "Cat with Tears of Joy"
+
+msgctxt "A label for the \"Smiling Cat with Heart-Eyes\" symbol."
+msgid "Smiling Cat with Heart-Eyes"
+msgstr "Smiling Cat with Heart-Eyes"
+
+msgctxt "A label for the \"Cat with Wry Smile\" symbol."
+msgid "Cat with Wry Smile"
+msgstr "Cat with Wry Smile"
+
+msgctxt "A label for the \"Kissing Cat\" symbol."
+msgid "Kissing Cat"
+msgstr "Kissing Cat"
+
+msgctxt "A label for the \"Weary Cat\" symbol."
+msgid "Weary Cat"
+msgstr "Weary Cat"
+
+msgctxt "A label for the \"Crying Cat\" symbol."
+msgid "Crying Cat"
+msgstr "Crying Cat"
+
+msgctxt "A label for the \"Pouting Cat\" symbol."
+msgid "Pouting Cat"
+msgstr "Pouting Cat"
+
+msgctxt "A label for the \"Person Rowing Boat\" symbol."
+msgid "Person Rowing Boat"
+msgstr "Person Rowing Boat"
+
+msgctxt "A label for the \"Map of Japan\" symbol."
+msgid "Map of Japan"
+msgstr "Map of Japan"
+
+msgctxt "A label for the \"Snow-Capped Mountain\" symbol."
+msgid "Snow-Capped Mountain"
+msgstr "Snow-Capped Mountain"
+
+msgctxt "A label for the \"Mountain\" symbol."
+msgid "Mountain"
+msgstr "Mountain"
+
+msgctxt "A label for the \"Volcano\" symbol."
+msgid "Volcano"
+msgstr "Volcano"
+
+msgctxt "A label for the \"Mount Fuji\" symbol."
+msgid "Mount Fuji"
+msgstr "Mount Fuji"
+
+msgctxt "A label for the \"Camping\" symbol."
+msgid "Camping"
+msgstr "Camping"
+
+msgctxt "A label for the \"Beach with Umbrella\" symbol."
+msgid "Beach with Umbrella"
+msgstr "Beach with Umbrella"
+
+msgctxt "A label for the \"Desert\" symbol."
+msgid "Desert"
+msgstr "Desert"
+
+msgctxt "A label for the \"Desert Island\" symbol."
+msgid "Desert Island"
+msgstr "Desert Island"
+
+msgctxt "A label for the \"National Park\" symbol."
+msgid "National Park"
+msgstr "National Park"
+
+msgctxt "A label for the \"Stadium\" symbol."
+msgid "Stadium"
+msgstr "Stadium"
+
+msgctxt "A label for the \"Classical Building\" symbol."
+msgid "Classical Building"
+msgstr "Classical Building"
+
+msgctxt "A label for the \"Building Construction\" symbol."
+msgid "Building Construction"
+msgstr "Building Construction"
+
+msgctxt "A label for the \"Hut\" symbol."
+msgid "Hut"
+msgstr "Hut"
+
+msgctxt "A label for the \"Houses\" symbol."
+msgid "Houses"
+msgstr "Houses"
+
+msgctxt "A label for the \"Derelict House\" symbol."
+msgid "Derelict House"
+msgstr "Derelict House"
+
+msgctxt "A label for the \"House\" symbol."
+msgid "House"
+msgstr "House"
+
+msgctxt "A label for the \"House with Garden\" symbol."
+msgid "House with Garden"
+msgstr "House with Garden"
+
+msgctxt "A label for the \"Office Building\" symbol."
+msgid "Office Building"
+msgstr "Office Building"
+
+msgctxt "A label for the \"Japanese Post Office\" symbol."
+msgid "Japanese Post Office"
+msgstr "Japanese Post Office"
+
+msgctxt "A label for the \"Post Office\" symbol."
+msgid "Post Office"
+msgstr "Post Office"
+
+msgctxt "A label for the \"Hospital\" symbol."
+msgid "Hospital"
+msgstr "Hospital"
+
+msgctxt "A label for the \"Bank\" symbol."
+msgid "Bank"
+msgstr "Bank"
+
+msgctxt "A label for the \"Hotel\" symbol."
+msgid "Hotel"
+msgstr "Hotel"
+
+msgctxt "A label for the \"Love Hotel\" symbol."
+msgid "Love Hotel"
+msgstr "Love Hotel"
+
+msgctxt "A label for the \"Convenience Store\" symbol."
+msgid "Convenience Store"
+msgstr "Convenience Store"
+
+msgctxt "A label for the \"School\" symbol."
+msgid "School"
+msgstr "School"
+
+msgctxt "A label for the \"Department Store\" symbol."
+msgid "Department Store"
+msgstr "Department Store"
+
+msgctxt "A label for the \"Factory\" symbol."
+msgid "Factory"
+msgstr "Factory"
+
+msgctxt "A label for the \"Japanese Castle\" symbol."
+msgid "Japanese Castle"
+msgstr "Japanese Castle"
+
+msgctxt "A label for the \"Castle\" symbol."
+msgid "Castle"
+msgstr "Castle"
+
+msgctxt "A label for the \"Wedding\" symbol."
+msgid "Wedding"
+msgstr "Wedding"
+
+msgctxt "A label for the \"Tokyo Tower\" symbol."
+msgid "Tokyo Tower"
+msgstr "Tokyo Tower"
+
+msgctxt "A label for the \"Statue of Liberty\" symbol."
+msgid "Statue of Liberty"
+msgstr "Statue of Liberty"
+
+msgctxt "A label for the \"Church\" symbol."
+msgid "Church"
+msgstr "Church"
+
+msgctxt "A label for the \"Mosque\" symbol."
+msgid "Mosque"
+msgstr "Mosque"
+
+msgctxt "A label for the \"Hindu Temple\" symbol."
+msgid "Hindu Temple"
+msgstr "Hindu Temple"
+
+msgctxt "A label for the \"Synagogue\" symbol."
+msgid "Synagogue"
+msgstr "Synagogue"
+
+msgctxt "A label for the \"Shinto Shrine\" symbol."
+msgid "Shinto Shrine"
+msgstr "Shinto Shrine"
+
+msgctxt "A label for the \"Kaaba\" symbol."
+msgid "Kaaba"
+msgstr "Kaaba"
+
+msgctxt "A label for the \"Fountain\" symbol."
+msgid "Fountain"
+msgstr "Fountain"
+
+msgctxt "A label for the \"Tent\" symbol."
+msgid "Tent"
+msgstr "Tent"
+
+msgctxt "A label for the \"Foggy\" symbol."
+msgid "Foggy"
+msgstr "Foggy"
+
+msgctxt "A label for the \"Night with Stars\" symbol."
+msgid "Night with Stars"
+msgstr "Night with Stars"
+
+msgctxt "A label for the \"Cityscape\" symbol."
+msgid "Cityscape"
+msgstr "Cityscape"
+
+msgctxt "A label for the \"Sunrise Over Mountains\" symbol."
+msgid "Sunrise Over Mountains"
+msgstr "Sunrise Over Mountains"
+
+msgctxt "A label for the \"Sunrise\" symbol."
+msgid "Sunrise"
+msgstr "Sunrise"
+
+msgctxt "A label for the \"Cityscape at Dusk\" symbol."
+msgid "Cityscape at Dusk"
+msgstr "Cityscape at Dusk"
+
+msgctxt "A label for the \"Sunset\" symbol."
+msgid "Sunset"
+msgstr "Sunset"
+
+msgctxt "A label for the \"Bridge at Night\" symbol."
+msgid "Bridge at Night"
+msgstr "Bridge at Night"
+
+msgctxt "A label for the \"Carousel Horse\" symbol."
+msgid "Carousel Horse"
+msgstr "Carousel Horse"
+
+msgctxt "A label for the \"Ferris Wheel\" symbol."
+msgid "Ferris Wheel"
+msgstr "Ferris Wheel"
+
+msgctxt "A label for the \"Roller Coaster\" symbol."
+msgid "Roller Coaster"
+msgstr "Roller Coaster"
+
+msgctxt "A label for the \"Locomotive\" symbol."
+msgid "Locomotive"
+msgstr "Locomotive"
+
+msgctxt "A label for the \"Railway Car\" symbol."
+msgid "Railway Car"
+msgstr "Railway Car"
+
+msgctxt "A label for the \"High-Speed Train\" symbol."
+msgid "High-Speed Train"
+msgstr "High-Speed Train"
+
+msgctxt "A label for the \"Bullet Train\" symbol."
+msgid "Bullet Train"
+msgstr "Bullet Train"
+
+msgctxt "A label for the \"Train\" symbol."
+msgid "Train"
+msgstr "Train"
+
+msgctxt "A label for the \"Metro\" symbol."
+msgid "Metro"
+msgstr "Metro"
+
+msgctxt "A label for the \"Light Rail\" symbol."
+msgid "Light Rail"
+msgstr "Light Rail"
+
+msgctxt "A label for the \"Station\" symbol."
+msgid "Station"
+msgstr "Station"
+
+msgctxt "A label for the \"Tram\" symbol."
+msgid "Tram"
+msgstr "Tram"
+
+msgctxt "A label for the \"Monorail\" symbol."
+msgid "Monorail"
+msgstr "Monorail"
+
+msgctxt "A label for the \"Mountain Railway\" symbol."
+msgid "Mountain Railway"
+msgstr "Mountain Railway"
+
+msgctxt "A label for the \"Tram Car\" symbol."
+msgid "Tram Car"
+msgstr "Tram Car"
+
+msgctxt "A label for the \"Bus\" symbol."
+msgid "Bus"
+msgstr "Bus"
+
+msgctxt "A label for the \"Oncoming Bus\" symbol."
+msgid "Oncoming Bus"
+msgstr "Oncoming Bus"
+
+msgctxt "A label for the \"Trolleybus\" symbol."
+msgid "Trolleybus"
+msgstr "Trolleybus"
+
+msgctxt "A label for the \"Minibus\" symbol."
+msgid "Minibus"
+msgstr "Minibus"
+
+msgctxt "A label for the \"Ambulance\" symbol."
+msgid "Ambulance"
+msgstr "Ambulance"
+
+msgctxt "A label for the \"Fire Engine\" symbol."
+msgid "Fire Engine"
+msgstr "Fire Engine"
+
+msgctxt "A label for the \"Police Car\" symbol."
+msgid "Police Car"
+msgstr "Police Car"
+
+msgctxt "A label for the \"Oncoming Police Car\" symbol."
+msgid "Oncoming Police Car"
+msgstr "Oncoming Police Car"
+
+msgctxt "A label for the \"Taxi\" symbol."
+msgid "Taxi"
+msgstr "Taxi"
+
+msgctxt "A label for the \"Oncoming Taxi\" symbol."
+msgid "Oncoming Taxi"
+msgstr "Oncoming Taxi"
+
+msgctxt "A label for the \"Automobile\" symbol."
+msgid "Automobile"
+msgstr "Automobile"
+
+msgctxt "A label for the \"Oncoming Automobile\" symbol."
+msgid "Oncoming Automobile"
+msgstr "Oncoming Automobile"
+
+msgctxt "A label for the \"Sport Utility Vehicle\" symbol."
+msgid "Sport Utility Vehicle"
+msgstr "Sport Utility Vehicle"
+
+msgctxt "A label for the \"Pickup Truck\" symbol."
+msgid "Pickup Truck"
+msgstr "Pickup Truck"
+
+msgctxt "A label for the \"Delivery Truck\" symbol."
+msgid "Delivery Truck"
+msgstr "Delivery Truck"
+
+msgctxt "A label for the \"Articulated Lorry\" symbol."
+msgid "Articulated Lorry"
+msgstr "Articulated Lorry"
+
+msgctxt "A label for the \"Tractor\" symbol."
+msgid "Tractor"
+msgstr "Tractor"
+
+msgctxt "A label for the \"Racing Car\" symbol."
+msgid "Racing Car"
+msgstr "Racing Car"
+
+msgctxt "A label for the \"Motorcycle\" symbol."
+msgid "Motorcycle"
+msgstr "Motorcycle"
+
+msgctxt "A label for the \"Motor Scooter\" symbol."
+msgid "Motor Scooter"
+msgstr "Motor Scooter"
+
+msgctxt "A label for the \"Auto Rickshaw\" symbol."
+msgid "Auto Rickshaw"
+msgstr "Auto Rickshaw"
+
+msgctxt "A label for the \"Bicycle\" symbol."
+msgid "Bicycle"
+msgstr "Bicycle"
+
+msgctxt "A label for the \"Kick Scooter\" symbol."
+msgid "Kick Scooter"
+msgstr "Kick Scooter"
+
+msgctxt "A label for the \"Bus Stop\" symbol."
+msgid "Bus Stop"
+msgstr "Bus Stop"
+
+msgctxt "A label for the \"Motorway\" symbol."
+msgid "Motorway"
+msgstr "Motorway"
+
+msgctxt "A label for the \"Railway Track\" symbol."
+msgid "Railway Track"
+msgstr "Railway Track"
+
+msgctxt "A label for the \"Fuel Pump\" symbol."
+msgid "Fuel Pump"
+msgstr "Fuel Pump"
+
+msgctxt "A label for the \"Police Car Light\" symbol."
+msgid "Police Car Light"
+msgstr "Police Car Light"
+
+msgctxt "A label for the \"Horizontal Traffic Light\" symbol."
+msgid "Horizontal Traffic Light"
+msgstr "Horizontal Traffic Light"
+
+msgctxt "A label for the \"Vertical Traffic Light\" symbol."
+msgid "Vertical Traffic Light"
+msgstr "Vertical Traffic Light"
+
+msgctxt "A label for the \"Construction\" symbol."
+msgid "Construction"
+msgstr "Construction"
+
+msgctxt "A label for the \"Anchor\" symbol."
+msgid "Anchor"
+msgstr "Anchor"
+
+msgctxt "A label for the \"Sailboat\" symbol."
+msgid "Sailboat"
+msgstr "Sailboat"
+
+msgctxt "A label for the \"Speedboat\" symbol."
+msgid "Speedboat"
+msgstr "Speedboat"
+
+msgctxt "A label for the \"Passenger Ship\" symbol."
+msgid "Passenger Ship"
+msgstr "Passenger Ship"
+
+msgctxt "A label for the \"Ferry\" symbol."
+msgid "Ferry"
+msgstr "Ferry"
+
+msgctxt "A label for the \"Motor Boat\" symbol."
+msgid "Motor Boat"
+msgstr "Motor Boat"
+
+msgctxt "A label for the \"Ship\" symbol."
+msgid "Ship"
+msgstr "Ship"
+
+msgctxt "A label for the \"Airplane\" symbol."
+msgid "Airplane"
+msgstr "Airplane"
+
+msgctxt "A label for the \"Small Airplane\" symbol."
+msgid "Small Airplane"
+msgstr "Small Airplane"
+
+msgctxt "A label for the \"Airplane Departure\" symbol."
+msgid "Airplane Departure"
+msgstr "Airplane Departure"
+
+msgctxt "A label for the \"Airplane Arrival\" symbol."
+msgid "Airplane Arrival"
+msgstr "Airplane Arrival"
+
+msgctxt "A label for the \"Parachute\" symbol."
+msgid "Parachute"
+msgstr "Parachute"
+
+msgctxt "A label for the \"Seat\" symbol."
+msgid "Seat"
+msgstr "Seat"
+
+msgctxt "A label for the \"Helicopter\" symbol."
+msgid "Helicopter"
+msgstr "Helicopter"
+
+msgctxt "A label for the \"Suspension Railway\" symbol."
+msgid "Suspension Railway"
+msgstr "Suspension Railway"
+
+msgctxt "A label for the \"Mountain Cableway\" symbol."
+msgid "Mountain Cableway"
+msgstr "Mountain Cableway"
+
+msgctxt "A label for the \"Aerial Tramway\" symbol."
+msgid "Aerial Tramway"
+msgstr "Aerial Tramway"
+
+msgctxt "A label for the \"Satellite\" symbol."
+msgid "Satellite"
+msgstr "Satellite"
+
+msgctxt "A label for the \"Rocket\" symbol."
+msgid "Rocket"
+msgstr "Rocket"
+
+msgctxt "A label for the \"Flying Saucer\" symbol."
+msgid "Flying Saucer"
+msgstr "Flying Saucer"
+
+msgctxt "A label for the \"Ringed Planet\" symbol."
+msgid "Ringed Planet"
+msgstr "Ringed Planet"
+
+msgctxt "A label for the \"Shooting Star\" symbol."
+msgid "Shooting Star"
+msgstr "Shooting Star"
+
+msgctxt "A label for the \"Milky Way\" symbol."
+msgid "Milky Way"
+msgstr "Milky Way"
+
+msgctxt "A label for the \"Umbrella on Ground\" symbol."
+msgid "Umbrella on Ground"
+msgstr "Umbrella on Ground"
+
+msgctxt "A label for the \"Fireworks\" symbol."
+msgid "Fireworks"
+msgstr "Fireworks"
+
+msgctxt "A label for the \"Sparkler\" symbol."
+msgid "Sparkler"
+msgstr "Sparkler"
+
+msgctxt "A label for the \"Moon Viewing Ceremony\" symbol."
+msgid "Moon Viewing Ceremony"
+msgstr "Moon Viewing Ceremony"
+
+msgctxt "A label for the \"Yen Banknote\" symbol."
+msgid "Yen Banknote"
+msgstr "Yen Banknote"
+
+msgctxt "A label for the \"Dollar Banknote\" symbol."
+msgid "Dollar Banknote"
+msgstr "Dollar Banknote"
+
+msgctxt "A label for the \"Euro Banknote\" symbol."
+msgid "Euro Banknote"
+msgstr "Euro Banknote"
+
+msgctxt "A label for the \"Pound Banknote\" symbol."
+msgid "Pound Banknote"
+msgstr "Pound Banknote"
+
+msgctxt "A label for the \"Moai\" symbol."
+msgid "Moai"
+msgstr "Moai"
+
+msgctxt "A label for the \"Passport Control\" symbol."
+msgid "Passport Control"
+msgstr "Passport Control"
+
+msgctxt "A label for the \"Customs\" symbol."
+msgid "Customs"
+msgstr "Customs"
+
+msgctxt "A label for the \"Baggage Claim\" symbol."
+msgid "Baggage Claim"
+msgstr "Baggage Claim"
+
+msgctxt "A label for the \"Left Luggage\" symbol."
+msgid "Left Luggage"
+msgstr "Left Luggage"
+
+msgctxt "A label for the \"Heart with Arrow\" symbol."
+msgid "Heart with Arrow"
+msgstr "Heart with Arrow"
+
+msgctxt "A label for the \"Heart with Ribbon\" symbol."
+msgid "Heart with Ribbon"
+msgstr "Heart with Ribbon"
+
+msgctxt "A label for the \"Sparkling Heart\" symbol."
+msgid "Sparkling Heart"
+msgstr "Sparkling Heart"
+
+msgctxt "A label for the \"Growing Heart\" symbol."
+msgid "Growing Heart"
+msgstr "Growing Heart"
+
+msgctxt "A label for the \"Beating Heart\" symbol."
+msgid "Beating Heart"
+msgstr "Beating Heart"
+
+msgctxt "A label for the \"Revolving Hearts\" symbol."
+msgid "Revolving Hearts"
+msgstr "Revolving Hearts"
+
+msgctxt "A label for the \"Two Hearts\" symbol."
+msgid "Two Hearts"
+msgstr "Two Hearts"
+
+msgctxt "A label for the \"Heart Decoration\" symbol."
+msgid "Heart Decoration"
+msgstr "Heart Decoration"
+
+msgctxt "A label for the \"Heart Exclamation\" symbol."
+msgid "Heart Exclamation"
+msgstr "Heart Exclamation"
+
+msgctxt "A label for the \"Broken Heart\" symbol."
+msgid "Broken Heart"
+msgstr "Broken Heart"
+
+msgctxt "A label for the \"Red Heart\" symbol."
+msgid "Red Heart"
+msgstr "Red Heart"
+
+msgctxt "A label for the \"Orange Heart\" symbol."
+msgid "Orange Heart"
+msgstr "Orange Heart"
+
+msgctxt "A label for the \"Yellow Heart\" symbol."
+msgid "Yellow Heart"
+msgstr "Yellow Heart"
+
+msgctxt "A label for the \"Green Heart\" symbol."
+msgid "Green Heart"
+msgstr "Green Heart"
+
+msgctxt "A label for the \"Blue Heart\" symbol."
+msgid "Blue Heart"
+msgstr "Blue Heart"
+
+msgctxt "A label for the \"Purple Heart\" symbol."
+msgid "Purple Heart"
+msgstr "Purple Heart"
+
+msgctxt "A label for the \"Brown Heart\" symbol."
+msgid "Brown Heart"
+msgstr "Brown Heart"
+
+msgctxt "A label for the \"Black Heart\" symbol."
+msgid "Black Heart"
+msgstr "Black Heart"
+
+msgctxt "A label for the \"White Heart\" symbol."
+msgid "White Heart"
+msgstr "White Heart"
+
+msgctxt "A label for the \"Hundred Points\" symbol."
+msgid "Hundred Points"
+msgstr "Hundred Points"
+
+msgctxt "A label for the \"Anger Symbol\" symbol."
+msgid "Anger Symbol"
+msgstr "Anger Symbol"
+
+msgctxt "A label for the \"Speech Balloon\" symbol."
+msgid "Speech Balloon"
+msgstr "Speech Balloon"
+
+msgctxt "A label for the \"Eye in Speech Bubble\" symbol."
+msgid "Eye in Speech Bubble"
+msgstr "Eye in Speech Bubble"
+
+msgctxt "A label for the \"Left Speech Bubble\" symbol."
+msgid "Left Speech Bubble"
+msgstr "Left Speech Bubble"
+
+msgctxt "A label for the \"Right Anger Bubble\" symbol."
+msgid "Right Anger Bubble"
+msgstr "Right Anger Bubble"
+
+msgctxt "A label for the \"Thought Balloon\" symbol."
+msgid "Thought Balloon"
+msgstr "Thought Balloon"
+
+msgctxt "A label for the \"Zzz\" symbol."
+msgid "Zzz"
+msgstr "Zzz"
+
+msgctxt "A label for the \"White Flower\" symbol."
+msgid "White Flower"
+msgstr "White Flower"
+
+msgctxt "A label for the \"Hot Springs\" symbol."
+msgid "Hot Springs"
+msgstr "Hot Springs"
+
+msgctxt "A label for the \"Barber Pole\" symbol."
+msgid "Barber Pole"
+msgstr "Barber Pole"
+
+msgctxt "A label for the \"Stop Sign\" symbol."
+msgid "Stop Sign"
+msgstr "Stop Sign"
+
+msgctxt "A label for the \"Twelve O’Clock\" symbol."
+msgid "Twelve O’Clock"
+msgstr "Twelve O’Clock"
+
+msgctxt "A label for the \"Twelve-Thirty\" symbol."
+msgid "Twelve-Thirty"
+msgstr "Twelve-Thirty"
+
+msgctxt "A label for the \"One O’Clock\" symbol."
+msgid "One O’Clock"
+msgstr "One O’Clock"
+
+msgctxt "A label for the \"One-Thirty\" symbol."
+msgid "One-Thirty"
+msgstr "One-Thirty"
+
+msgctxt "A label for the \"Two O’Clock\" symbol."
+msgid "Two O’Clock"
+msgstr "Two O’Clock"
+
+msgctxt "A label for the \"Two-Thirty\" symbol."
+msgid "Two-Thirty"
+msgstr "Two-Thirty"
+
+msgctxt "A label for the \"Three O’Clock\" symbol."
+msgid "Three O’Clock"
+msgstr "Three O’Clock"
+
+msgctxt "A label for the \"Three-Thirty\" symbol."
+msgid "Three-Thirty"
+msgstr "Three-Thirty"
+
+msgctxt "A label for the \"Four O’Clock\" symbol."
+msgid "Four O’Clock"
+msgstr "Four O’Clock"
+
+msgctxt "A label for the \"Four-Thirty\" symbol."
+msgid "Four-Thirty"
+msgstr "Four-Thirty"
+
+msgctxt "A label for the \"Five O’Clock\" symbol."
+msgid "Five O’Clock"
+msgstr "Five O’Clock"
+
+msgctxt "A label for the \"Five-Thirty\" symbol."
+msgid "Five-Thirty"
+msgstr "Five-Thirty"
+
+msgctxt "A label for the \"Six O’Clock\" symbol."
+msgid "Six O’Clock"
+msgstr "Six O’Clock"
+
+msgctxt "A label for the \"Six-Thirty\" symbol."
+msgid "Six-Thirty"
+msgstr "Six-Thirty"
+
+msgctxt "A label for the \"Seven O’Clock\" symbol."
+msgid "Seven O’Clock"
+msgstr "Seven O’Clock"
+
+msgctxt "A label for the \"Seven-Thirty\" symbol."
+msgid "Seven-Thirty"
+msgstr "Seven-Thirty"
+
+msgctxt "A label for the \"Eight O’Clock\" symbol."
+msgid "Eight O’Clock"
+msgstr "Eight O’Clock"
+
+msgctxt "A label for the \"Eight-Thirty\" symbol."
+msgid "Eight-Thirty"
+msgstr "Eight-Thirty"
+
+msgctxt "A label for the \"Nine O’Clock\" symbol."
+msgid "Nine O’Clock"
+msgstr "Nine O’Clock"
+
+msgctxt "A label for the \"Nine-Thirty\" symbol."
+msgid "Nine-Thirty"
+msgstr "Nine-Thirty"
+
+msgctxt "A label for the \"Ten O’Clock\" symbol."
+msgid "Ten O’Clock"
+msgstr "Ten O’Clock"
+
+msgctxt "A label for the \"Ten-Thirty\" symbol."
+msgid "Ten-Thirty"
+msgstr "Ten-Thirty"
+
+msgctxt "A label for the \"Eleven O’Clock\" symbol."
+msgid "Eleven O’Clock"
+msgstr "Eleven O’Clock"
+
+msgctxt "A label for the \"Eleven-Thirty\" symbol."
+msgid "Eleven-Thirty"
+msgstr "Eleven-Thirty"
+
+msgctxt "A label for the \"Cyclone\" symbol."
+msgid "Cyclone"
+msgstr "Cyclone"
+
+msgctxt "A label for the \"Spade Suit\" symbol."
+msgid "Spade Suit"
+msgstr "Spade Suit"
+
+msgctxt "A label for the \"Heart Suit\" symbol."
+msgid "Heart Suit"
+msgstr "Heart Suit"
+
+msgctxt "A label for the \"Diamond Suit\" symbol."
+msgid "Diamond Suit"
+msgstr "Diamond Suit"
+
+msgctxt "A label for the \"Club Suit\" symbol."
+msgid "Club Suit"
+msgstr "Club Suit"
+
+msgctxt "A label for the \"Joker\" symbol."
+msgid "Joker"
+msgstr "Joker"
+
+msgctxt "A label for the \"Mahjong Red Dragon\" symbol."
+msgid "Mahjong Red Dragon"
+msgstr "Mahjong Red Dragon"
+
+msgctxt "A label for the \"Flower Playing Cards\" symbol."
+msgid "Flower Playing Cards"
+msgstr "Flower Playing Cards"
+
+msgctxt "A label for the \"Muted Speaker\" symbol."
+msgid "Muted Speaker"
+msgstr "Muted Speaker"
+
+msgctxt "A label for the \"Speaker Low Volume\" symbol."
+msgid "Speaker Low Volume"
+msgstr "Speaker Low Volume"
+
+msgctxt "A label for the \"Speaker Medium Volume\" symbol."
+msgid "Speaker Medium Volume"
+msgstr "Speaker Medium Volume"
+
+msgctxt "A label for the \"Speaker High Volume\" symbol."
+msgid "Speaker High Volume"
+msgstr "Speaker High Volume"
+
+msgctxt "A label for the \"Loudspeaker\" symbol."
+msgid "Loudspeaker"
+msgstr "Loudspeaker"
+
+msgctxt "A label for the \"Megaphone\" symbol."
+msgid "Megaphone"
+msgstr "Megaphone"
+
+msgctxt "A label for the \"Postal Horn\" symbol."
+msgid "Postal Horn"
+msgstr "Postal Horn"
+
+msgctxt "A label for the \"Bell\" symbol."
+msgid "Bell"
+msgstr "Bell"
+
+msgctxt "A label for the \"Bell with Slash\" symbol."
+msgid "Bell with Slash"
+msgstr "Bell with Slash"
+
+msgctxt "A label for the \"Musical Note\" symbol."
+msgid "Musical Note"
+msgstr "Musical Note"
+
+msgctxt "A label for the \"Musical Notes\" symbol."
+msgid "Musical Notes"
+msgstr "Musical Notes"
+
+msgctxt "A label for the \"Chart Increasing with Yen\" symbol."
+msgid "Chart Increasing with Yen"
+msgstr "Chart Increasing with Yen"
+
+msgctxt "A label for the \"Elevator\" symbol."
+msgid "Elevator"
+msgstr "Elevator"
+
+msgctxt "A label for the \"ATM Sign\" symbol."
+msgid "ATM Sign"
+msgstr "ATM Sign"
+
+msgctxt "A label for the \"Litter in Bin Sign\" symbol."
+msgid "Litter in Bin Sign"
+msgstr "Litter in Bin Sign"
+
+msgctxt "A label for the \"Potable Water\" symbol."
+msgid "Potable Water"
+msgstr "Potable Water"
+
+msgctxt "A label for the \"Wheelchair Symbol\" symbol."
+msgid "Wheelchair Symbol"
+msgstr "Wheelchair Symbol"
+
+msgctxt "A label for the \"Men’s Room\" symbol."
+msgid "Men’s Room"
+msgstr "Men’s Room"
+
+msgctxt "A label for the \"Women’s Room\" symbol."
+msgid "Women’s Room"
+msgstr "Women’s Room"
+
+msgctxt "A label for the \"Restroom\" symbol."
+msgid "Restroom"
+msgstr "Restroom"
+
+msgctxt "A label for the \"Baby Symbol\" symbol."
+msgid "Baby Symbol"
+msgstr "Baby Symbol"
+
+msgctxt "A label for the \"Water Closet\" symbol."
+msgid "Water Closet"
+msgstr "Water Closet"
+
+msgctxt "A label for the \"Warning\" symbol."
+msgid "Warning"
+msgstr "Warning"
+
+msgctxt "A label for the \"Children Crossing\" symbol."
+msgid "Children Crossing"
+msgstr "Children Crossing"
+
+msgctxt "A label for the \"No Entry\" symbol."
+msgid "No Entry"
+msgstr "No Entry"
+
+msgctxt "A label for the \"Prohibited\" symbol."
+msgid "Prohibited"
+msgstr "Prohibited"
+
+msgctxt "A label for the \"No Bicycles\" symbol."
+msgid "No Bicycles"
+msgstr "No Bicycles"
+
+msgctxt "A label for the \"No Smoking\" symbol."
+msgid "No Smoking"
+msgstr "No Smoking"
+
+msgctxt "A label for the \"No Littering\" symbol."
+msgid "No Littering"
+msgstr "No Littering"
+
+msgctxt "A label for the \"Non-Potable Water\" symbol."
+msgid "Non-Potable Water"
+msgstr "Non-Potable Water"
+
+msgctxt "A label for the \"No Pedestrians\" symbol."
+msgid "No Pedestrians"
+msgstr "No Pedestrians"
+
+msgctxt "A label for the \"No Mobile Phones\" symbol."
+msgid "No Mobile Phones"
+msgstr "No Mobile Phones"
+
+msgctxt "A label for the \"No One Under Eighteen\" symbol."
+msgid "No One Under Eighteen"
+msgstr "No One Under Eighteen"
+
+msgctxt "A label for the \"Radioactive\" symbol."
+msgid "Radioactive"
+msgstr "Radioactive"
+
+msgctxt "A label for the \"Biohazard\" symbol."
+msgid "Biohazard"
+msgstr "Biohazard"
+
+msgctxt "A label for the \"Up Arrow\" symbol."
+msgid "Up Arrow"
+msgstr "Up Arrow"
+
+msgctxt "A label for the \"Up-Right Arrow\" symbol."
+msgid "Up-Right Arrow"
+msgstr "Up-Right Arrow"
+
+msgctxt "A label for the \"Right Arrow\" symbol."
+msgid "Right Arrow"
+msgstr "Right Arrow"
+
+msgctxt "A label for the \"Down-Right Arrow\" symbol."
+msgid "Down-Right Arrow"
+msgstr "Down-Right Arrow"
+
+msgctxt "A label for the \"Down Arrow\" symbol."
+msgid "Down Arrow"
+msgstr "Down Arrow"
+
+msgctxt "A label for the \"Down-Left Arrow\" symbol."
+msgid "Down-Left Arrow"
+msgstr "Down-Left Arrow"
+
+msgctxt "A label for the \"Left Arrow\" symbol."
+msgid "Left Arrow"
+msgstr "Left Arrow"
+
+msgctxt "A label for the \"Up-Left Arrow\" symbol."
+msgid "Up-Left Arrow"
+msgstr "Up-Left Arrow"
+
+msgctxt "A label for the \"Up-Down Arrow\" symbol."
+msgid "Up-Down Arrow"
+msgstr "Up-Down Arrow"
+
+msgctxt "A label for the \"Left-Right Arrow\" symbol."
+msgid "Left-Right Arrow"
+msgstr "Left-Right Arrow"
+
+msgctxt "A label for the \"Right Arrow Curving Left\" symbol."
+msgid "Right Arrow Curving Left"
+msgstr "Right Arrow Curving Left"
+
+msgctxt "A label for the \"Left Arrow Curving Right\" symbol."
+msgid "Left Arrow Curving Right"
+msgstr "Left Arrow Curving Right"
+
+msgctxt "A label for the \"Right Arrow Curving Up\" symbol."
+msgid "Right Arrow Curving Up"
+msgstr "Right Arrow Curving Up"
+
+msgctxt "A label for the \"Right Arrow Curving Down\" symbol."
+msgid "Right Arrow Curving Down"
+msgstr "Right Arrow Curving Down"
+
+msgctxt "A label for the \"Clockwise Vertical Arrows\" symbol."
+msgid "Clockwise Vertical Arrows"
+msgstr "Clockwise Vertical Arrows"
+
+msgctxt "A label for the \"Counterclockwise Arrows Button\" symbol."
+msgid "Counterclockwise Arrows Button"
+msgstr "Counterclockwise Arrows Button"
+
+msgctxt "A label for the \"Back Arrow\" symbol."
+msgid "Back Arrow"
+msgstr "Back Arrow"
+
+msgctxt "A label for the \"End Arrow\" symbol."
+msgid "End Arrow"
+msgstr "End Arrow"
+
+msgctxt "A label for the \"On! Arrow\" symbol."
+msgid "On! Arrow"
+msgstr "On! Arrow"
+
+msgctxt "A label for the \"Soon Arrow\" symbol."
+msgid "Soon Arrow"
+msgstr "Soon Arrow"
+
+msgctxt "A label for the \"Top Arrow\" symbol."
+msgid "Top Arrow"
+msgstr "Top Arrow"
+
+msgctxt "A label for the \"Place of Worship\" symbol."
+msgid "Place of Worship"
+msgstr "Place of Worship"
+
+msgctxt "A label for the \"Atom Symbol\" symbol."
+msgid "Atom Symbol"
+msgstr "Atom Symbol"
+
+msgctxt "A label for the \"Om\" symbol."
+msgid "Om"
+msgstr "Om"
+
+msgctxt "A label for the \"Star of David\" symbol."
+msgid "Star of David"
+msgstr "Star of David"
+
+msgctxt "A label for the \"Wheel of Dharma\" symbol."
+msgid "Wheel of Dharma"
+msgstr "Wheel of Dharma"
+
+msgctxt "A label for the \"Yin Yang\" symbol."
+msgid "Yin Yang"
+msgstr "Yin Yang"
+
+msgctxt "A label for the \"Latin Cross\" symbol."
+msgid "Latin Cross"
+msgstr "Latin Cross"
+
+msgctxt "A label for the \"Orthodox Cross\" symbol."
+msgid "Orthodox Cross"
+msgstr "Orthodox Cross"
+
+msgctxt "A label for the \"Star and Crescent\" symbol."
+msgid "Star and Crescent"
+msgstr "Star and Crescent"
+
+msgctxt "A label for the \"Peace Symbol\" symbol."
+msgid "Peace Symbol"
+msgstr "Peace Symbol"
+
+msgctxt "A label for the \"Menorah\" symbol."
+msgid "Menorah"
+msgstr "Menorah"
+
+msgctxt "A label for the \"Dotted Six-Pointed Star\" symbol."
+msgid "Dotted Six-Pointed Star"
+msgstr "Dotted Six-Pointed Star"
+
+msgctxt "A label for the \"Aries\" symbol."
+msgid "Aries"
+msgstr "Aries"
+
+msgctxt "A label for the \"Taurus\" symbol."
+msgid "Taurus"
+msgstr "Taurus"
+
+msgctxt "A label for the \"Gemini\" symbol."
+msgid "Gemini"
+msgstr "Gemini"
+
+msgctxt "A label for the \"Cancer\" symbol."
+msgid "Cancer"
+msgstr "Cancer"
+
+msgctxt "A label for the \"Leo\" symbol."
+msgid "Leo"
+msgstr "Leo"
+
+msgctxt "A label for the \"Virgo\" symbol."
+msgid "Virgo"
+msgstr "Virgo"
+
+msgctxt "A label for the \"Libra\" symbol."
+msgid "Libra"
+msgstr "Libra"
+
+msgctxt "A label for the \"Scorpio\" symbol."
+msgid "Scorpio"
+msgstr "Scorpio"
+
+msgctxt "A label for the \"Sagittarius\" symbol."
+msgid "Sagittarius"
+msgstr "Sagittarius"
+
+msgctxt "A label for the \"Capricorn\" symbol."
+msgid "Capricorn"
+msgstr "Capricorn"
+
+msgctxt "A label for the \"Aquarius\" symbol."
+msgid "Aquarius"
+msgstr "Aquarius"
+
+msgctxt "A label for the \"Pisces\" symbol."
+msgid "Pisces"
+msgstr "Pisces"
+
+msgctxt "A label for the \"Ophiuchus\" symbol."
+msgid "Ophiuchus"
+msgstr "Ophiuchus"
+
+msgctxt "A label for the \"Shuffle Tracks Button\" symbol."
+msgid "Shuffle Tracks Button"
+msgstr "Shuffle Tracks Button"
+
+msgctxt "A label for the \"Repeat Button\" symbol."
+msgid "Repeat Button"
+msgstr "Repeat Button"
+
+msgctxt "A label for the \"Repeat Single Button\" symbol."
+msgid "Repeat Single Button"
+msgstr "Repeat Single Button"
+
+msgctxt "A label for the \"Play Button\" symbol."
+msgid "Play Button"
+msgstr "Play Button"
+
+msgctxt "A label for the \"Fast-Forward Button\" symbol."
+msgid "Fast-Forward Button"
+msgstr "Fast-Forward Button"
+
+msgctxt "A label for the \"Next Track Button\" symbol."
+msgid "Next Track Button"
+msgstr "Next Track Button"
+
+msgctxt "A label for the \"Play or Pause Button\" symbol."
+msgid "Play or Pause Button"
+msgstr "Play or Pause Button"
+
+msgctxt "A label for the \"Reverse Button\" symbol."
+msgid "Reverse Button"
+msgstr "Reverse Button"
+
+msgctxt "A label for the \"Fast Reverse Button\" symbol."
+msgid "Fast Reverse Button"
+msgstr "Fast Reverse Button"
+
+msgctxt "A label for the \"Last Track Button\" symbol."
+msgid "Last Track Button"
+msgstr "Last Track Button"
+
+msgctxt "A label for the \"Upwards Button\" symbol."
+msgid "Upwards Button"
+msgstr "Upwards Button"
+
+msgctxt "A label for the \"Fast Up Button\" symbol."
+msgid "Fast Up Button"
+msgstr "Fast Up Button"
+
+msgctxt "A label for the \"Downwards Button\" symbol."
+msgid "Downwards Button"
+msgstr "Downwards Button"
+
+msgctxt "A label for the \"Fast Down Button\" symbol."
+msgid "Fast Down Button"
+msgstr "Fast Down Button"
+
+msgctxt "A label for the \"Pause Button\" symbol."
+msgid "Pause Button"
+msgstr "Pause Button"
+
+msgctxt "A label for the \"Stop Button\" symbol."
+msgid "Stop Button"
+msgstr "Stop Button"
+
+msgctxt "A label for the \"Record Button\" symbol."
+msgid "Record Button"
+msgstr "Record Button"
+
+msgctxt "A label for the \"Eject Button\" symbol."
+msgid "Eject Button"
+msgstr "Eject Button"
+
+msgctxt "A label for the \"Cinema\" symbol."
+msgid "Cinema"
+msgstr "Cinema"
+
+msgctxt "A label for the \"Dim Button\" symbol."
+msgid "Dim Button"
+msgstr "Dim Button"
+
+msgctxt "A label for the \"Bright Button\" symbol."
+msgid "Bright Button"
+msgstr "Bright Button"
+
+msgctxt "A label for the \"Antenna Bars\" symbol."
+msgid "Antenna Bars"
+msgstr "Antenna Bars"
+
+msgctxt "A label for the \"Vibration Mode\" symbol."
+msgid "Vibration Mode"
+msgstr "Vibration Mode"
+
+msgctxt "A label for the \"Mobile Phone Off\" symbol."
+msgid "Mobile Phone Off"
+msgstr "Mobile Phone Off"
+
+msgctxt "A label for the \"Female Sign\" symbol."
+msgid "Female Sign"
+msgstr "Female Sign"
+
+msgctxt "A label for the \"Male Sign\" symbol."
+msgid "Male Sign"
+msgstr "Male Sign"
+
+msgctxt "A label for the \"Multiply\" symbol."
+msgid "Multiply"
+msgstr "Multiply"
+
+msgctxt "A label for the \"Plus\" symbol."
+msgid "Plus"
+msgstr "Plus"
+
+msgctxt "A label for the \"Minus\" symbol."
+msgid "Minus"
+msgstr "Minus"
+
+msgctxt "A label for the \"Divide\" symbol."
+msgid "Divide"
+msgstr "Divide"
+
+msgctxt "A label for the \"Infinity\" symbol."
+msgid "Infinity"
+msgstr "Infinity"
+
+msgctxt "A label for the \"Double Exclamation Mark\" symbol."
+msgid "Double Exclamation Mark"
+msgstr "Double Exclamation Mark"
+
+msgctxt "A label for the \"Exclamation Question Mark\" symbol."
+msgid "Exclamation Question Mark"
+msgstr "Exclamation Question Mark"
+
+msgctxt "A label for the \"Question Mark\" symbol."
+msgid "Question Mark"
+msgstr "Question Mark"
+
+msgctxt "A label for the \"White Question Mark\" symbol."
+msgid "White Question Mark"
+msgstr "White Question Mark"
+
+msgctxt "A label for the \"White Exclamation Mark\" symbol."
+msgid "White Exclamation Mark"
+msgstr "White Exclamation Mark"
+
+msgctxt "A label for the \"Exclamation Mark\" symbol."
+msgid "Exclamation Mark"
+msgstr "Exclamation Mark"
+
+msgctxt "A label for the \"Wavy Dash\" symbol."
+msgid "Wavy Dash"
+msgstr "Wavy Dash"
+
+msgctxt "A label for the \"Currency Exchange\" symbol."
+msgid "Currency Exchange"
+msgstr "Currency Exchange"
+
+msgctxt "A label for the \"Heavy Dollar Sign\" symbol."
+msgid "Heavy Dollar Sign"
+msgstr "Heavy Dollar Sign"
+
+msgctxt "A label for the \"Medical Symbol\" symbol."
+msgid "Medical Symbol"
+msgstr "Medical Symbol"
+
+msgctxt "A label for the \"Recycling Symbol\" symbol."
+msgid "Recycling Symbol"
+msgstr "Recycling Symbol"
+
+msgctxt "A label for the \"Fleur-de-lis\" symbol."
+msgid "Fleur-de-lis"
+msgstr "Fleur-de-lis"
+
+msgctxt "A label for the \"Trident Emblem\" symbol."
+msgid "Trident Emblem"
+msgstr "Trident Emblem"
+
+msgctxt "A label for the \"Name Badge\" symbol."
+msgid "Name Badge"
+msgstr "Name Badge"
+
+msgctxt "A label for the \"Japanese Symbol for Beginner\" symbol."
+msgid "Japanese Symbol for Beginner"
+msgstr "Japanese Symbol for Beginner"
+
+msgctxt "A label for the \"Hollow Red Circle\" symbol."
+msgid "Hollow Red Circle"
+msgstr "Hollow Red Circle"
+
+msgctxt "A label for the \"Check Mark Button\" symbol."
+msgid "Check Mark Button"
+msgstr "Check Mark Button"
+
+msgctxt "A label for the \"Check Box with Check\" symbol."
+msgid "Check Box with Check"
+msgstr "Check Box with Check"
+
+msgctxt "A label for the \"Check Mark\" symbol."
+msgid "Check Mark"
+msgstr "Check Mark"
+
+msgctxt "A label for the \"Cross Mark\" symbol."
+msgid "Cross Mark"
+msgstr "Cross Mark"
+
+msgctxt "A label for the \"Cross Mark Button\" symbol."
+msgid "Cross Mark Button"
+msgstr "Cross Mark Button"
+
+msgctxt "A label for the \"Curly Loop\" symbol."
+msgid "Curly Loop"
+msgstr "Curly Loop"
+
+msgctxt "A label for the \"Double Curly Loop\" symbol."
+msgid "Double Curly Loop"
+msgstr "Double Curly Loop"
+
+msgctxt "A label for the \"Part Alternation Mark\" symbol."
+msgid "Part Alternation Mark"
+msgstr "Part Alternation Mark"
+
+msgctxt "A label for the \"Eight-Spoked Asterisk\" symbol."
+msgid "Eight-Spoked Asterisk"
+msgstr "Eight-Spoked Asterisk"
+
+msgctxt "A label for the \"Eight-Pointed Star\" symbol."
+msgid "Eight-Pointed Star"
+msgstr "Eight-Pointed Star"
+
+msgctxt "A label for the \"Sparkle\" symbol."
+msgid "Sparkle"
+msgstr "Sparkle"
+
+msgctxt "A label for the \"Copyright\" symbol."
+msgid "Copyright"
+msgstr "Copyright"
+
+msgctxt "A label for the \"Registered\" symbol."
+msgid "Registered"
+msgstr "Registered"
+
+msgctxt "A label for the \"Trade Mark\" symbol."
+msgid "Trade Mark"
+msgstr "Trade Mark"
+
+msgctxt "A label for the \"Keycap Number Sign\" symbol."
+msgid "Keycap Number Sign"
+msgstr "Keycap Number Sign"
+
+msgctxt "A label for the \"Keycap Asterisk\" symbol."
+msgid "Keycap Asterisk"
+msgstr "Keycap Asterisk"
+
+msgctxt "A label for the \"Keycap Digit Zero\" symbol."
+msgid "Keycap Digit Zero"
+msgstr "Keycap Digit Zero"
+
+msgctxt "A label for the \"Keycap Digit One\" symbol."
+msgid "Keycap Digit One"
+msgstr "Keycap Digit One"
+
+msgctxt "A label for the \"Keycap Digit Two\" symbol."
+msgid "Keycap Digit Two"
+msgstr "Keycap Digit Two"
+
+msgctxt "A label for the \"Keycap Digit Three\" symbol."
+msgid "Keycap Digit Three"
+msgstr "Keycap Digit Three"
+
+msgctxt "A label for the \"Keycap Digit Four\" symbol."
+msgid "Keycap Digit Four"
+msgstr "Keycap Digit Four"
+
+msgctxt "A label for the \"Keycap Digit Five\" symbol."
+msgid "Keycap Digit Five"
+msgstr "Keycap Digit Five"
+
+msgctxt "A label for the \"Keycap Digit Six\" symbol."
+msgid "Keycap Digit Six"
+msgstr "Keycap Digit Six"
+
+msgctxt "A label for the \"Keycap Digit Seven\" symbol."
+msgid "Keycap Digit Seven"
+msgstr "Keycap Digit Seven"
+
+msgctxt "A label for the \"Keycap Digit Eight\" symbol."
+msgid "Keycap Digit Eight"
+msgstr "Keycap Digit Eight"
+
+msgctxt "A label for the \"Keycap Digit Nine\" symbol."
+msgid "Keycap Digit Nine"
+msgstr "Keycap Digit Nine"
+
+msgctxt "A label for the \"Keycap: 10\" symbol."
+msgid "Keycap: 10"
+msgstr "Keycap: 10"
+
+msgctxt "A label for the \"Input Latin Uppercase\" symbol."
+msgid "Input Latin Uppercase"
+msgstr "Input Latin Uppercase"
+
+msgctxt "A label for the \"Input Latin Lowercase\" symbol."
+msgid "Input Latin Lowercase"
+msgstr "Input Latin Lowercase"
+
+msgctxt "A label for the \"Input Numbers\" symbol."
+msgid "Input Numbers"
+msgstr "Input Numbers"
+
+msgctxt "A label for the \"Input Symbols\" symbol."
+msgid "Input Symbols"
+msgstr "Input Symbols"
+
+msgctxt "A label for the \"Input Latin Letters\" symbol."
+msgid "Input Latin Letters"
+msgstr "Input Latin Letters"
+
+msgctxt "A label for the \"A Button (Blood Type)\" symbol."
+msgid "A Button (Blood Type)"
+msgstr "A Button (Blood Type)"
+
+msgctxt "A label for the \"AB Button (Blood Type)\" symbol."
+msgid "AB Button (Blood Type)"
+msgstr "AB Button (Blood Type)"
+
+msgctxt "A label for the \"B Button (Blood Type)\" symbol."
+msgid "B Button (Blood Type)"
+msgstr "B Button (Blood Type)"
+
+msgctxt "A label for the \"CL Button\" symbol."
+msgid "CL Button"
+msgstr "CL Button"
+
+msgctxt "A label for the \"Cool Button\" symbol."
+msgid "Cool Button"
+msgstr "Cool Button"
+
+msgctxt "A label for the \"Free Button\" symbol."
+msgid "Free Button"
+msgstr "Free Button"
+
+msgctxt "A label for the \"Information\" symbol."
+msgid "Information"
+msgstr "Information"
+
+msgctxt "A label for the \"ID Button\" symbol."
+msgid "ID Button"
+msgstr "ID Button"
+
+msgctxt "A label for the \"New Button\" symbol."
+msgid "New Button"
+msgstr "New Button"
+
+msgctxt "A label for the \"NG Button\" symbol."
+msgid "NG Button"
+msgstr "NG Button"
+
+msgctxt "A label for the \"OK Button\" symbol."
+msgid "OK Button"
+msgstr "OK Button"
+
+msgctxt "A label for the \"P Button\" symbol."
+msgid "P Button"
+msgstr "P Button"
+
+msgctxt "A label for the \"SOS Button\" symbol."
+msgid "SOS Button"
+msgstr "SOS Button"
+
+msgctxt "A label for the \"Up! Button\" symbol."
+msgid "Up! Button"
+msgstr "Up! Button"
+
+msgctxt "A label for the \"Vs Button\" symbol."
+msgid "Vs Button"
+msgstr "Vs Button"
+
+msgctxt "A label for the \"Japanese “Vacancy” Button\" symbol."
+msgid "Japanese “Vacancy” Button"
+msgstr "Japanese “Vacancy” Button"
+
+msgctxt "A label for the \"Japanese “Congratulations” Button\" symbol."
+msgid "Japanese “Congratulations” Button"
+msgstr "Japanese “Congratulations” Button"
+
+msgctxt "A label for the \"Japanese “Secret” Button\" symbol."
+msgid "Japanese “Secret” Button"
+msgstr "Japanese “Secret” Button"
+
+msgctxt "A label for the \"Japanese “Open for Business” Button\" symbol."
+msgid "Japanese “Open for Business” Button"
+msgstr "Japanese “Open for Business” Button"
+
+msgctxt "A label for the \"Japanese “No Vacancy” Button\" symbol."
+msgid "Japanese “No Vacancy” Button"
+msgstr "Japanese “No Vacancy” Button"
+
+msgctxt "A label for the \"Japanese “Passing Grade” Button\" symbol."
+msgid "Japanese “Passing Grade” Button"
+msgstr "Japanese “Passing Grade” Button"
+
+msgctxt "A label for the \"Japanese “Congratulations, Target” Button\" symbol."
+msgid "Japanese “Congratulations, Target” Button"
+msgstr "Japanese “Congratulations, Target” Button"
+
+msgctxt "A label for the \"Japanese “Not Free of Charge” Button\" symbol."
+msgid "Japanese “Not Free of Charge” Button"
+msgstr "Japanese “Not Free of Charge” Button"
+
+msgctxt "A label for the \"Japanese “Reserved” Button\" symbol."
+msgid "Japanese “Reserved” Button"
+msgstr "Japanese “Reserved” Button"
+
+msgctxt "A label for the \"Japanese “Bargain” Button\" symbol."
+msgid "Japanese “Bargain” Button"
+msgstr "Japanese “Bargain” Button"
+
+msgctxt "A label for the \"Japanese “Discount” Button\" symbol."
+msgid "Japanese “Discount” Button"
+msgstr "Japanese “Discount” Button"
+
+msgctxt "A label for the \"Japanese “Free of Charge” Button\" symbol."
+msgid "Japanese “Free of Charge” Button"
+msgstr "Japanese “Free of Charge” Button"
+
+msgctxt "A label for the \"Japanese “Prohibited” Button\" symbol."
+msgid "Japanese “Prohibited” Button"
+msgstr "Japanese “Prohibited” Button"
+
+msgctxt "A label for the \"Japanese “Acceptable” Button\" symbol."
+msgid "Japanese “Acceptable” Button"
+msgstr "Japanese “Acceptable” Button"
+
+msgctxt "A label for the \"Japanese “Application” Button\" symbol."
+msgid "Japanese “Application” Button"
+msgstr "Japanese “Application” Button"
+
+msgctxt "A label for the \"Japanese “Passing Grade” Button\" symbol."
+msgid "Japanese “Passing Grade” Button"
+msgstr "Japanese “Passing Grade” Button"
+
+msgctxt "A label for the \"Japanese “Vacancy” Button\" symbol."
+msgid "Japanese “Vacancy” Button"
+msgstr "Japanese “Vacancy” Button"
+
+msgctxt "A label for the \"Japanese “Congratulations” Button\" symbol."
+msgid "Japanese “Congratulations” Button"
+msgstr "Japanese “Congratulations” Button"
+
+msgctxt "A label for the \"Japanese “Secret” Button\" symbol."
+msgid "Japanese “Secret” Button"
+msgstr "Japanese “Secret” Button"
+
+msgctxt "A label for the \"Japanese “Open for Business” Button\" symbol."
+msgid "Japanese “Open for Business” Button"
+msgstr "Japanese “Open for Business” Button"
+
+msgctxt "A label for the \"Japanese “No Vacancy” Button\" symbol."
+msgid "Japanese “No Vacancy” Button"
+msgstr "Japanese “No Vacancy” Button"
+
+msgctxt "A label for the \"Red Circle\" symbol."
+msgid "Red Circle"
+msgstr "Red Circle"
+
+msgctxt "A label for the \"Orange Circle\" symbol."
+msgid "Orange Circle"
+msgstr "Orange Circle"
+
+msgctxt "A label for the \"Yellow Circle\" symbol."
+msgid "Yellow Circle"
+msgstr "Yellow Circle"
+
+msgctxt "A label for the \"Green Circle\" symbol."
+msgid "Green Circle"
+msgstr "Green Circle"
+
+msgctxt "A label for the \"Blue Circle\" symbol."
+msgid "Blue Circle"
+msgstr "Blue Circle"
+
+msgctxt "A label for the \"Purple Circle\" symbol."
+msgid "Purple Circle"
+msgstr "Purple Circle"
+
+msgctxt "A label for the \"Brown Circle\" symbol."
+msgid "Brown Circle"
+msgstr "Brown Circle"
+
+msgctxt "A label for the \"Black Circle\" symbol."
+msgid "Black Circle"
+msgstr "Black Circle"
+
+msgctxt "A label for the \"White Circle\" symbol."
+msgid "White Circle"
+msgstr "White Circle"
+
+msgctxt "A label for the \"Red Square\" symbol."
+msgid "Red Square"
+msgstr "Red Square"
+
+msgctxt "A label for the \"Orange Square\" symbol."
+msgid "Orange Square"
+msgstr "Orange Square"
+
+msgctxt "A label for the \"Yellow Square\" symbol."
+msgid "Yellow Square"
+msgstr "Yellow Square"
+
+msgctxt "A label for the \"Green Square\" symbol."
+msgid "Green Square"
+msgstr "Green Square"
+
+msgctxt "A label for the \"Blue Square\" symbol."
+msgid "Blue Square"
+msgstr "Blue Square"
+
+msgctxt "A label for the \"Purple Square\" symbol."
+msgid "Purple Square"
+msgstr "Purple Square"
+
+msgctxt "A label for the \"Brown Square\" symbol."
+msgid "Brown Square"
+msgstr "Brown Square"
+
+msgctxt "A label for the \"Black Large Square\" symbol."
+msgid "Black Large Square"
+msgstr "Black Large Square"
+
+msgctxt "A label for the \"White Large Square\" symbol."
+msgid "White Large Square"
+msgstr "White Large Square"
+
+msgctxt "A label for the \"Black Medium Square\" symbol."
+msgid "Black Medium Square"
+msgstr "Black Medium Square"
+
+msgctxt "A label for the \"White Medium Square\" symbol."
+msgid "White Medium Square"
+msgstr "White Medium Square"
+
+msgctxt "A label for the \"Black Medium-Small Square\" symbol."
+msgid "Black Medium-Small Square"
+msgstr "Black Medium-Small Square"
+
+msgctxt "A label for the \"White Medium-Small Square\" symbol."
+msgid "White Medium-Small Square"
+msgstr "White Medium-Small Square"
+
+msgctxt "A label for the \"Black Small Square\" symbol."
+msgid "Black Small Square"
+msgstr "Black Small Square"
+
+msgctxt "A label for the \"White Small Square\" symbol."
+msgid "White Small Square"
+msgstr "White Small Square"
+
+msgctxt "A label for the \"Large Orange Diamond\" symbol."
+msgid "Large Orange Diamond"
+msgstr "Large Orange Diamond"
+
+msgctxt "A label for the \"Large Blue Diamond\" symbol."
+msgid "Large Blue Diamond"
+msgstr "Large Blue Diamond"
+
+msgctxt "A label for the \"Small Orange Diamond\" symbol."
+msgid "Small Orange Diamond"
+msgstr "Small Orange Diamond"
+
+msgctxt "A label for the \"Small Blue Diamond\" symbol."
+msgid "Small Blue Diamond"
+msgstr "Small Blue Diamond"
+
+msgctxt "A label for the \"Red Triangle Pointed Up\" symbol."
+msgid "Red Triangle Pointed Up"
+msgstr "Red Triangle Pointed Up"
+
+msgctxt "A label for the \"Red Triangle Pointed Down\" symbol."
+msgid "Red Triangle Pointed Down"
+msgstr "Red Triangle Pointed Down"
+
+msgctxt "A label for the \"Cross Mark Button\" symbol."
+msgid "Cross Mark Button"
+msgstr "Bouton Croix"
+
+msgctxt "A label for the \"Curly Loop\" symbol."
+msgid "Curly Loop"
+msgstr "Boucle en spirale"
+
+msgctxt "A label for the \"Double Curly Loop\" symbol."
+msgid "Double Curly Loop"
+msgstr "Double boucle en spirale"
+
+msgctxt "A label for the \"Part Alternation Mark\" symbol."
+msgid "Part Alternation Mark"
+msgstr "Marque d'alternance de partie"
+
+msgctxt "A label for the \"Eight-Spoked Asterisk\" symbol."
+msgid "Eight-Spoked Asterisk"
+msgstr "Astérisque à huit branches"
+
+msgctxt "A label for the \"Eight-Pointed Star\" symbol."
+msgid "Eight-Pointed Star"
+msgstr "Étoile à huit branches"
+
+msgctxt "A label for the \"Sparkle\" symbol."
+msgid "Sparkle"
+msgstr "Éclat"
+
+msgctxt "A label for the \"Copyright\" symbol."
+msgid "Copyright"
+msgstr "Droit d'auteur"
+
+msgctxt "A label for the \"Registered\" symbol."
+msgid "Registered"
+msgstr "Marque déposée"
+
+msgctxt "A label for the \"Trade Mark\" symbol."
+msgid "Trade Mark"
+msgstr "Marque commerciale"
+
+msgctxt "A label for the \"Keycap Number Sign\" symbol."
+msgid "Keycap Number Sign"
+msgstr "Touche dièse"
+
+msgctxt "A label for the \"Keycap Asterisk\" symbol."
+msgid "Keycap Asterisk"
+msgstr "Touche astérisque"
+
+msgctxt "A label for the \"Keycap Digit Zero\" symbol."
+msgid "Keycap Digit Zero"
+msgstr "Touche zéro"
+
+msgctxt "A label for the \"Keycap Digit One\" symbol."
+msgid "Keycap Digit One"
+msgstr "Touche un"
+
+msgctxt "A label for the \"Keycap Digit Two\" symbol."
+msgid "Keycap Digit Two"
+msgstr "Touche deux"
+
+msgctxt "A label for the \"Keycap Digit Three\" symbol."
+msgid "Keycap Digit Three"
+msgstr "Touche trois"
+
+msgctxt "A label for the \"Keycap Digit Four\" symbol."
+msgid "Keycap Digit Four"
+msgstr "Touche quatre"
+
+msgctxt "A label for the \"Keycap Digit Five\" symbol."
+msgid "Keycap Digit Five"
+msgstr "Touche cinq"
+
+msgctxt "A label for the \"Keycap Digit Six\" symbol."
+msgid "Keycap Digit Six"
+msgstr "Touche six"
+
+msgctxt "A label for the \"Keycap Digit Seven\" symbol."
+msgid "Keycap Digit Seven"
+msgstr "Touche sept"
+
+msgctxt "A label for the \"Keycap Digit Eight\" symbol."
+msgid "Keycap Digit Eight"
+msgstr "Touche huit"
+
+msgctxt "A label for the \"Keycap Digit Nine\" symbol."
+msgid "Keycap Digit Nine"
+msgstr "Touche neuf"
+
+msgctxt "A label for the \"Keycap: 10\" symbol."
+msgid "Keycap: 10"
+msgstr "Touche : 10"
+
+msgctxt "A label for the \"Input Latin Uppercase\" symbol."
+msgid "Input Latin Uppercase"
+msgstr "Entrée majuscules latines"
+
+msgctxt "A label for the \"Input Latin Lowercase\" symbol."
+msgid "Input Latin Lowercase"
+msgstr "Entrée minuscules latines"
+
+msgctxt "A label for the \"Input Numbers\" symbol."
+msgid "Input Numbers"
+msgstr "Entrée chiffres"
+
+msgctxt "A label for the \"Input Symbols\" symbol."
+msgid "Input Symbols"
+msgstr "Entrée symboles"
+
+msgctxt "A label for the \"Input Latin Letters\" symbol."
+msgid "Input Latin Letters"
+msgstr "Entrée lettres latines"
+
+msgctxt "A label for the \"A Button (Blood Type)\" symbol."
+msgid "A Button (Blood Type)"
+msgstr "Bouton A (groupe sanguin)"
+
+msgctxt "A label for the \"AB Button (Blood Type)\" symbol."
+msgid "AB Button (Blood Type)"
+msgstr "Bouton AB (groupe sanguin)"
+
+msgctxt "A label for the \"B Button (Blood Type)\" symbol."
+msgid "B Button (Blood Type)"
+msgstr "Bouton B (groupe sanguin)"
+
+msgctxt "A label for the \"CL Button\" symbol."
+msgid "CL Button"
+msgstr "Bouton CL"
+
+msgctxt "A label for the \"Cool Button\" symbol."
+msgid "Cool Button"
+msgstr "Bouton Cool"
+
+msgctxt "A label for the \"Free Button\" symbol."
+msgid "Free Button"
+msgstr "Bouton Gratuit"
+
+msgctxt "A label for the \"Information\" symbol."
+msgid "Information"
+msgstr "Information"
+
+msgctxt "A label for the \"ID Button\" symbol."
+msgid "ID Button"
+msgstr "Bouton ID"
+
+msgctxt "A label for the \"New Button\" symbol."
+msgid "New Button"
+msgstr "Bouton Nouveau"
+
+msgctxt "A label for the \"NG Button\" symbol."
+msgid "NG Button"
+msgstr "Bouton NG"
+
+msgctxt "A label for the \"OK Button\" symbol."
+msgid "OK Button"
+msgstr "Bouton OK"
+
+msgctxt "A label for the \"P Button\" symbol."
+msgid "P Button"
+msgstr "Bouton P"
+
+msgctxt "A label for the \"SOS Button\" symbol."
+msgid "SOS Button"
+msgstr "Bouton SOS"
+
+msgctxt "A label for the \"Up! Button\" symbol."
+msgid "Up! Button"
+msgstr "Bouton Haut!"
+
+msgctxt "A label for the \"Vs Button\" symbol."
+msgid "Vs Button"
+msgstr "Bouton Vs"
+
+msgctxt "A label for the \"Japanese “Vacancy” Button\" symbol."
+msgid "Japanese “Vacancy” Button"
+msgstr "Bouton “Vacant” japonais"
+
+msgctxt "A label for the \"Japanese “Congratulations” Button\" symbol."
+msgid "Japanese “Congratulations” Button"
+msgstr "Bouton “Félicitations” japonais"
+
+msgctxt "A label for the \"Japanese “Secret” Button\" symbol."
+msgid "Japanese “Secret” Button"
+msgstr "Bouton “Secret” japonais"
+
+msgctxt "A label for the \"Japanese “Open for Business” Button\" symbol."
+msgid "Japanese “Open for Business” Button"
+msgstr "Bouton “Ouvert” japonais"
+
+msgctxt "A label for the \"Japanese “No Vacancy” Button\" symbol."
+msgid "Japanese “No Vacancy” Button"
+msgstr "Bouton “Complet” japonais"
+
+msgctxt "A label for the \"Japanese “Passing Grade” Button\" symbol."
+msgid "Japanese “Passing Grade” Button"
+msgstr "Bouton “Réussi” japonais"
+
+msgctxt "A label for the \"Japanese “Congratulations, Target” Button\" symbol."
+msgid "Japanese “Congratulations, Target” Button"
+msgstr "Bouton “Félicitations, cible” japonais"
+
+msgctxt "A label for the \"Japanese “Not Free of Charge” Button\" symbol."
+msgid "Japanese “Not Free of Charge” Button"
+msgstr "Bouton “Payant” japonais"
+
+msgctxt "A label for the \"Japanese “Reserved” Button\" symbol."
+msgid "Japanese “Reserved” Button"
+msgstr "Bouton “Réservé” japonais"
+
+msgctxt "A label for the \"Japanese “Bargain” Button\" symbol."
+msgid "Japanese “Bargain” Button"
+msgstr "Bouton “Bonne affaire” japonais"
+
+msgctxt "A label for the \"Japanese “Discount” Button\" symbol."
+msgid "Japanese “Discount” Button"
+msgstr "Bouton “Réduction” japonais"
+
+msgctxt "A label for the \"Japanese “Free of Charge” Button\" symbol."
+msgid "Japanese “Free of Charge” Button"
+msgstr "Bouton “Gratuit” japonais"
+
+msgctxt "A label for the \"Japanese “Prohibited” Button\" symbol."
+msgid "Japanese “Prohibited” Button"
+msgstr "Bouton “Interdit” japonais"
+
+msgctxt "A label for the \"Japanese “Acceptable” Button\" symbol."
+msgid "Japanese “Acceptable” Button"
+msgstr "Bouton “Acceptable” japonais"
+
+msgctxt "A label for the \"Japanese “Application” Button\" symbol."
+msgid "Japanese “Application” Button"
+msgstr "Bouton “Application” japonais"
+
+msgctxt "A label for the \"Japanese “Passing Grade” Button\" symbol."
+msgid "Japanese “Passing Grade” Button"
+msgstr "Bouton “Réussi” japonais"
+
+msgctxt "A label for the \"Japanese “Vacancy” Button\" symbol."
+msgid "Japanese “Vacancy” Button"
+msgstr "Bouton “Vacant” japonais"
+
+msgctxt "A label for the \"Japanese “Congratulations” Button\" symbol."
+msgid "Japanese “Congratulations” Button"
+msgstr "Bouton “Félicitations” japonais"
+
+msgctxt
+
+ "A label for the \"Japanese “Secret” Button\" symbol."
+msgid "Japanese “Secret” Button"
+msgstr "Bouton “Secret” japonais"
+
+msgctxt "A label for the \"Japanese “Open for Business” Button\" symbol."
+msgid "Japanese “Open for Business” Button"
+msgstr "Bouton “Ouvert” japonais"
+
+msgctxt "A label for the \"Japanese “No Vacancy” Button\" symbol."
+msgid "Japanese “No Vacancy” Button"
+msgstr "Bouton “Complet” japonais"
+
+msgctxt "A label for the \"Red Circle\" symbol."
+msgid "Red Circle"
+msgstr "Cercle rouge"
+
+msgctxt "A label for the \"Orange Circle\" symbol."
+msgid "Orange Circle"
+msgstr "Cercle orange"
+
+msgctxt "A label for the \"Yellow Circle\" symbol."
+msgid "Yellow Circle"
+msgstr "Cercle jaune"
+
+msgctxt "A label for the \"Green Circle\" symbol."
+msgid "Green Circle"
+msgstr "Cercle vert"
+
+msgctxt "A label for the \"Blue Circle\" symbol."
+msgid "Blue Circle"
+msgstr "Cercle bleu"
+
+msgctxt "A label for the \"Purple Circle\" symbol."
+msgid "Purple Circle"
+msgstr "Cercle violet"
+
+msgctxt "A label for the \"Brown Circle\" symbol."
+msgid "Brown Circle"
+msgstr "Cercle marron"
+
+msgctxt "A label for the \"Black Circle\" symbol."
+msgid "Black Circle"
+msgstr "Cercle noir"
+
+msgctxt "A label for the \"White Circle\" symbol."
+msgid "White Circle"
+msgstr "Cercle blanc"
+
+msgctxt "A label for the \"Red Square\" symbol."
+msgid "Red Square"
+msgstr "Carré rouge"
+
+msgctxt "A label for the \"Orange Square\" symbol."
+msgid "Orange Square"
+msgstr "Carré orange"
+
+msgctxt "A label for the \"Yellow Square\" symbol."
+msgid "Yellow Square"
+msgstr "Carré jaune"
+
+msgctxt "A label for the \"Green Square\" symbol."
+msgid "Green Square"
+msgstr "Carré vert"
+
+msgctxt "A label for the \"Blue Square\" symbol."
+msgid "Blue Square"
+msgstr "Carré bleu"
+
+msgctxt "A label for the \"Purple Square\" symbol."
+msgid "Purple Square"
+msgstr "Carré violet"
+
+msgctxt "A label for the \"Brown Square\" symbol."
+msgid "Brown Square"
+msgstr "Carré marron"
+
+msgctxt "A label for the \"Black Large Square\" symbol."
+msgid "Black Large Square"
+msgstr "Grand carré noir"
+
+msgctxt "A label for the \"White Large Square\" symbol."
+msgid "White Large Square"
+msgstr "Grand carré blanc"
+
+msgctxt "A label for the \"Black Medium Square\" symbol."
+msgid "Black Medium Square"
+msgstr "Carré moyen noir"
+
+msgctxt "A label for the \"White Medium Square\" symbol."
+msgid "White Medium Square"
+msgstr "Carré moyen blanc"
+
+msgctxt "A label for the \"Black Medium-Small Square\" symbol."
+msgid "Black Medium-Small Square"
+msgstr "Petit carré moyen noir"
+
+msgctxt "A label for the \"White Medium-Small Square\" symbol."
+msgid "White Medium-Small Square"
+msgstr "Petit carré moyen blanc"
+
+msgctxt "A label for the \"Black Small Square\" symbol."
+msgid "Black Small Square"
+msgstr "Petit carré noir"
+
+msgctxt "A label for the \"White Small Square\" symbol."
+msgid "White Small Square"
+msgstr "Petit carré blanc"
+
+msgctxt "A label for the \"Large Orange Diamond\" symbol."
+msgid "Large Orange Diamond"
+msgstr "Grand losange orange"
+
+msgctxt "A label for the \"Large Blue Diamond\" symbol."
+msgid "Large Blue Diamond"
+msgstr "Grand losange bleu"
+
+msgctxt "A label for the \"Small Orange Diamond\" symbol."
+msgid "Small Orange Diamond"
+msgstr "Petit losange orange"
+
+msgctxt "A label for the \"Small Blue Diamond\" symbol."
+msgid "Small Blue Diamond"
+msgstr "Petit losange bleu"
+
+msgctxt "A label for the \"Red Triangle Pointed Up\" symbol."
+msgid "Red Triangle Pointed Up"
+msgstr "Triangle rouge pointé vers le haut"
+
+msgctxt "A label for the \"Red Triangle Pointed Down\" symbol."
+msgid "Red Triangle Pointed Down"
+msgstr "Triangle rouge pointé vers le bas"

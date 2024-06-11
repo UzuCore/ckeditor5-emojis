@@ -1,0 +1,90 @@
+{
+	"plugins": [
+		{
+			"name": "Emojis",
+			"className": "Emojis",
+			"description": "Allows for inserting emojis via a dropdown. This is the core part of the feature. Add plugins like food emojis and people emojis to fill it with some characters.",
+			"docs": "features/emojis.html",
+			"path": "src/emojis.js",
+			"uiComponents": [
+				{
+					"type": "SplitButton",
+					"name": "Emojis",
+					"iconPath": "theme/icons/emojis.svg"
+				}
+			]
+		},
+		{
+			"name": "Emojis of Places",
+			"className": "EmojisPlaces",
+			"description": "Adds a basic set with the most popular characters to the emojis feature.",
+			"path": "src/emojisplaces.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Emojis of smileys and people",
+			"className": "EmojisPeople",
+			"description": "Adds the people category and signs to the emojis feature.",
+			"path": "src/emojispeople.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Nature Emojis",
+			"className": "EmojisNature",
+			"description": "Adds the nature category and signs to the emojis feature.",
+			"path": "src/emojisnature.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Food Emojis",
+			"className": "EmojisFood",
+			"description": "Adds the food category and signs to the emojis feature.",
+			"path": "src/emojisfood.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Emojis of activities",
+			"className": "EmojisActivities",
+			"description": "Adds the activities category and symbols to the emojis feature.",
+			"path": "src/emojisactivities.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Emojis of objects",
+			"className": "EmojisObjects",
+			"description": "Adds the objects and characters to the emojis feature.",
+			"path": "src/emojisobjects.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Emojis of flags",
+			"className": "EmojisFlags",
+			"description": "Adds the flags to the emojis feature.",
+			"path": "src/emojisflags.js",
+			"requires": [
+				"Emojis"
+			]
+		},
+		{
+			"name": "Emojis of symbols",
+			"className": "EmojisSymbols",
+			"description": "Adds the symbols to the emojis feature.",
+			"path": "src/emojissymbols.js",
+			"requires": [
+				"Emojis"
+			]
+		}
+	]
+}
