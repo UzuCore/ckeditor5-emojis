@@ -1,10 +1,5 @@
 # CKEditor 5 Emojis plugin
 
-[![npm](https://img.shields.io/npm/v/@oteam/ckeditor5-emojis)](https://www.npmjs.com/package/@oteam44/ckeditor5-emojis)
-[![npm](https://img.shields.io/npm/dw/@oteam/ckeditor5-emojis)](https://www.npmjs.com/package/@oteam44/ckeditor5-emojis)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/@oteam/ckeditor5-emojis)](https://www.npmjs.com/package/@oteam44/ckeditor5-emojis)
-[![NPM](https://img.shields.io/npm/l/@oteam/ckeditor5-emojis)](https://www.npmjs.com/package/@oteam44/ckeditor5-emojis)
-
 Emoji plugin using a modified version of the ckeditor5 SpecialCharacters plugin.
 
 ![Preview Image](preview.png "Preview Image")
@@ -16,7 +11,7 @@ Emoji plugin using a modified version of the ckeditor5 SpecialCharacters plugin.
 To install it, run:
 
 ```javascript
-npm i --save @oteam44/ckeditor5-emojis
+npm i --save @oteam-io/ckeditor5-emojis
 ```
 
 2. Importing modules
@@ -27,7 +22,7 @@ Import the Emojis plugin with all optional categories. If you want to exclude so
 import {
     Emojis, EmojisActivity, EmojisFlags, EmojisFood, EmojisNature, EmojisObjects, EmojisPeople,
     EmojisPlaces, EmojisSymbols
-} from '@oteam44/ckeditor5-emojis/src';
+} from '@oteam-io/ckeditor5-emojis/src';
 ```
 
 3. Add imported modules to plugins

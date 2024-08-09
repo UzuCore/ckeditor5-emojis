@@ -1,6 +1,6 @@
 {
-  "name": "@oteam44/ckeditor5-emojis",
-  "version": "1.0.6",
+  "name": "@oteam-io/ckeditor5-emojis",
+  "version": "1.0.7",
   "description": "Emojis feature for CKEditor 5.",
   "keywords": [
     "ckeditor",
@@ -34,10 +34,10 @@
   },
   "author": "Yoann Gauchard <yoann.gauchard@gmail.com>",
   "license": "GPL-2.0-or-later",
-  "bugs": "https://github.com/OTeam44/ckeditor5-emojis/issues",
+  "bugs": "https://github.com/Oteam-io/ckeditor5-emojis/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OTeam44/ckeditor5-emojis.git",
+    "url": "git+https://github.com/Oteam-io/ckeditor5-emojis.git",
     "directory": "packages/ckeditor5-emojis"
   },
   "files": [
