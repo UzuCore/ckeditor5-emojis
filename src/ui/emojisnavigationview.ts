@@ -42,7 +42,7 @@ export default class EmojisNavigationView extends FormHeaderView {
         this.set( 'class', 'ck-emoji-navigation' );
         this.groupDropdownView = this._createGroupDropdown( groupNames );
         this.groupDropdownView.panelPosition = locale.uiLanguageDirection === 'rtl' ? 'se' : 'sw';
-        this.label = t( 'Emojis' );
+        this.label = t( '이모지' );
         this.children.add( this.groupDropdownView );
     }
 
@@ -70,7 +70,7 @@ export default class EmojisNavigationView extends FormHeaderView {
         const t = locale!.t;
         const dropdown = createDropdown( locale ) as GroupDropdownView;
         const groupDefinitions = this._getEmojiGroupListItemDefinitions( dropdown, groupNames );
-        const accessibleLabel = t( 'Emoji categories' );
+        const accessibleLabel = t( '이모지 카테고리' );
 
         dropdown.set( 'value', groupDefinitions.first!.model.name as string );
 
